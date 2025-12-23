@@ -66,9 +66,10 @@ def load_stock_prices(stock_code: str) -> pd.DataFrame:
         
         # === FIX: Handle both List and Dict formats ===
         # 修正：部分 JSON 是 list 格式，部分可能是 dict 格式
+        records = []
         if isinstance(data, list):
             records = data
-        else:
+        elif isinstance(data, dict):
             records = data.get("data", [])
             
         if not records:
@@ -116,7 +117,10 @@ def get_next_day_price(stock_code: str, trade_date: str) -> Optional[float]:
     # 嘗試獲取價格 (優先順序: close > price > adj_close)
     for col in ['close', 'price', 'adj_close']:
         if col in next_record:
-            return float(next_record[col])
+            val = next_record[col]
+            # 確保數值有效
+            if pd.notnull(val) and val != 0:
+                return float(val)
             
     return None
 
@@ -133,21 +137,32 @@ def calculate_next_day_profit(trades: List[Dict]) -> pd.DataFrame:
         
         # 轉換日期格式 (處理 12/19 這種格式)
         try:
-            if "/" in str(date_str) and len(str(date_str)) <= 5:
+            date_str_s = str(date_str)
+            if "/" in date_str_s and len(date_str_s) <= 5:
                 current_year = datetime.now().year
-                dt = datetime.strptime(f"{current_year}/{date_str}", "%Y/%m/%d")
+                dt = datetime.strptime(f"{current_year}/{date_str_s}", "%Y/%m/%d")
                 date_iso = dt.strftime("%Y-%m-%d")
             else:
-                date_iso = str(date_str)
+                date_iso = date_str_s
         except:
             date_iso = str(date_str)
 
-        trade_price = float(trade.get("price", 0) or 0)
-        net_vol = float(trade.get("net_vol", 0) or 0)
+        try:
+            trade_price = float(trade.get("price", 0) or 0)
+            net_vol = float(trade.get("net_vol", 0) or 0)
+        except ValueError:
+            trade_price = 0
+            net_vol = 0
         
         # 如果沒有交易價格或量，跳過
         if trade_price == 0 or net_vol == 0:
-            results.append(trade)
+            trade_data = trade.copy()
+            trade_data.update({
+                "profit": 0,
+                "profit_pct": 0,
+                "has_profit_data": False
+            })
+            results.append(trade_data)
             continue
 
         # 取得隔日收盤價
@@ -302,10 +317,20 @@ def track_target_brokers(hot_stocks: List[str]):
         
     with open(latest_trades_path, "r", encoding="utf-8") as f:
         data = json.load(f)
-        all_trades = data.get("data", [])
+        # 這裡也要防禦，有些 JSON 可能是 list
+        if isinstance(data, dict):
+            all_trades = data.get("data", [])
+        elif isinstance(data, list):
+            all_trades = data
+        else:
+            all_trades = []
         
     print(f"Got {len(all_trades)} total trades")
     
+    if not all_trades:
+        print("Warning: No trade data found in broker_trades_latest.json")
+        return [], pd.DataFrame()
+
     # 1. 匯出全市場券商排行 (Top Buyers/Sellers)
     export_broker_ranking(all_trades)
     
@@ -332,6 +357,8 @@ def track_target_brokers(hot_stocks: List[str]):
             
     except Exception as e:
         print(f"Warning: Profit calculation skipped due to error: {e}")
+        import traceback
+        traceback.print_exc()
         performance = pd.DataFrame()
     
     # 5. 匯出目標券商交易明細供前端使用
