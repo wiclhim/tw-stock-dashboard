@@ -6,7 +6,7 @@
     <title>台股籌碼戰情室</title>
     <!-- Tailwind CSS (Styling) -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Alpine.js (Logic) -->
+    <!-- Alpine.js (Logic) - Add defer to ensure proper loading order -->
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <!-- Chart.js (Charts) -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -19,7 +19,8 @@
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
     </style>
 </head>
-<body class="bg-slate-50 text-slate-800" x-data="app()">
+<!-- Use global function stockDashboard() to avoid initialization race conditions -->
+<body class="bg-slate-50 text-slate-800" x-data="stockDashboard()">
 
     <!-- Header -->
     <header class="bg-slate-900 text-white p-4 shadow-md sticky top-0 z-50">
@@ -254,8 +255,9 @@
     </main>
 
     <script>
-        document.addEventListener('alpine:init', () => {
-            Alpine.data('app', () => ({
+        // 改用全域函數定義資料，避免 Alpine 初始化時 app 尚未定義的 Race Condition 問題
+        function stockDashboard() {
+            return {
                 tab: 'inst',
                 windowDays: 20,
                 instRank: { up: [], down: [] },
@@ -268,7 +270,7 @@
                 currentStockCode: '',
                 currentStockName: '',
                 selectedBroker: null,
-                errorMessage: null, // 用來顯示具體的錯誤
+                errorMessage: null,
                 loading: false,
                 charts: {},
 
@@ -276,7 +278,7 @@
                     console.log("App initializing...");
                     this.loading = true;
 
-                    // 1. 載入法人排行 (這是首頁最關鍵的資料)
+                    // 1. 載入法人排行
                     try {
                         await this.fetchInstRank();
                     } catch (e) {
@@ -284,7 +286,7 @@
                         this.errorMessage = "無法讀取法人排行資料 (data/top_three_inst_change_*.json)，請確認 GitHub Actions 是否已執行完成。";
                     }
 
-                    // 2. 載入其他資料 (失敗不影響主畫面)
+                    // 2. 載入其他資料
                     this.fetchBrokerData();
                     this.fetchCostData();
                     
@@ -299,7 +301,6 @@
                     return this.stockData.length > 0 ? this.stockData[this.stockData.length - 1] : {};
                 },
 
-                // 使用 Promise.all 同時載入漲跌排行
                 async fetchInstRank() {
                     this.instRank.up = [];
                     this.instRank.down = [];
@@ -352,7 +353,6 @@
                     this.loading = true;
                     this.errorMessage = null;
                     
-                    // 修正 Chart 銷毀邏輯，避免殘影
                     if (this.charts.stock) {
                         this.charts.stock.destroy();
                         this.charts.stock = null;
@@ -366,7 +366,6 @@
                         this.currentStockCode = code;
                         this.currentStockName = data[0]?.name || code;
                         
-                        // 等待 DOM 更新後再畫圖
                         this.$nextTick(() => {
                             this.renderStockChart();
                         });
@@ -499,8 +498,8 @@
                         }
                     });
                 }
-            }))
-        })
+            }
+        }
     </script>
 </body>
 </html>
