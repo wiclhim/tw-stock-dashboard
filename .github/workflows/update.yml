@@ -1,0 +1,68 @@
+name: Daily Stock Crawler
+
+on:
+  schedule:
+    # 設定在台灣時間 16:10 執行 (UTC 08:10)
+    # 或是依你 README 所述 00:10 UTC (台灣 08:10)，這裡示範 08:10 UTC
+    - cron: '10 8 * * *'
+  workflow_dispatch: # 允許手動點擊按鈕執行
+
+permissions:
+  contents: write # 允許 Action 推送程式碼回倉庫
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' # 配合你原有的設定使用 3.11
+        cache: 'pip' # 快取 pip 依賴，加快執行速度
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        
+    - name: Install Playwright Browsers
+      run: |
+        playwright install chromium
+        
+    - name: Run Institutional Data Update (TWSE/TPEX)
+      run: python update_all.py
+      
+    - name: Run Broker Data Update (Top 50)
+      # 根據 update_broker.py 的說明，可以加參數
+      run: python update_broker.py --top50
+      
+    - name: Run Analysis Scripts
+      # 這裡整合了你所有的新腳本，確保順序正確
+      run: |
+        echo "Running Profit Tracking..."
+        python track_broker_profit.py
+        
+        echo "Running Cost Calculation..."
+        python calculate_broker_cost.py
+        
+        echo "Building Latest Snapshot..."
+        python build_stock_three_inst_latest.py
+
+    - name: Check for changes
+      id: git-check
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        # 檢查 data 和 docs 目錄是否有變動
+        git add data/ docs/
+        git diff --staged --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+
+    - name: Commit and Push if changes
+      if: steps.git-check.outputs.changes == 'true'
+      run: |
+        git commit -m "Auto-update stock data $(date +'%Y-%m-%d')"
+        git push
