@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.02,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2025-12-22",
+    "code": "6541",
+    "name": "泰福-KY",
+    "market": "TWSE",
+    "foreign_ratio": 14.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.08,
+    "three_inst_ratio_change_20": 0.10999999999999943
   }
 ]

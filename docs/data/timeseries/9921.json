@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.349180686553446,
     "three_inst_ratio_change_20": 0.5642916012524921
+  },
+  {
+    "date": "2025-12-22",
+    "code": "9921",
+    "name": "巨大",
+    "market": "TWSE",
+    "foreign_ratio": 26.5,
+    "trust_ratio": 0.0691806865534459,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.569180686553445,
+    "three_inst_ratio_change_20": 0.6942916012524911
   }
 ]

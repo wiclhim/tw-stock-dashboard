@@ -130,5 +130,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.05,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-22",
+    "code": "2887G",
+    "name": "台新新光庚特一",
+    "market": "TWSE",
+    "foreign_ratio": 0.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.05,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

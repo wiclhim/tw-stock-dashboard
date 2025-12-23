@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.980545571696641,
     "three_inst_ratio_change_20": -0.7999999999999998
+  },
+  {
+    "date": "2025-12-22",
+    "code": "2231",
+    "name": "為升",
+    "market": "TWSE",
+    "foreign_ratio": 5.09,
+    "trust_ratio": 0.9005455716966414,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.990545571696641,
+    "three_inst_ratio_change_20": -0.8799999999999999
   }
 ]
