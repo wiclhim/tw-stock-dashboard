@@ -6,7 +6,7 @@
     <title>台股籌碼戰情室</title>
     <!-- Tailwind CSS (Styling) -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Alpine.js (Logic) - Add defer to ensure proper loading order -->
+    <!-- Alpine.js (Logic) - defer ensures it runs after HTML is parsed -->
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <!-- Chart.js (Charts) -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -18,8 +18,258 @@
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
     </style>
+    <!-- Define the app logic in HEAD to ensure it exists before Alpine initializes -->
+    <script>
+        function stockDashboard() {
+            return {
+                tab: 'inst',
+                windowDays: 20,
+                instRank: { up: [], down: [] },
+                brokerRanking: [],
+                targetTrades: {},
+                brokerTrends: {},
+                stockData: [],
+                costData: {}, 
+                searchCode: '2330',
+                currentStockCode: '',
+                currentStockName: '',
+                selectedBroker: null,
+                errorMessage: null,
+                loading: false,
+                charts: {},
+
+                async init() {
+                    console.log("App initializing...");
+                    this.loading = true;
+
+                    // 1. 載入法人排行
+                    try {
+                        await this.fetchInstRank();
+                    } catch (e) {
+                        console.error("Critical Error fetching inst rank:", e);
+                        this.errorMessage = "無法讀取法人排行資料 (data/top_three_inst_change_*.json)。若是本機/AI預覽，此為正常現象。";
+                    }
+
+                    // 2. 載入其他資料
+                    this.fetchBrokerData();
+                    this.fetchCostData();
+                    
+                    this.loading = false;
+                },
+
+                formatNum(n) {
+                    return n ? parseFloat(n).toFixed(1) : '0.0';
+                },
+
+                get lastStockData() {
+                    return this.stockData.length > 0 ? this.stockData[this.stockData.length - 1] : {};
+                },
+
+                async fetchInstRank() {
+                    this.instRank.up = [];
+                    this.instRank.down = [];
+                    
+                    // 使用 ./ 開頭，增加路徑解析的穩定性
+                    const p1 = fetch(`./data/top_three_inst_change_${this.windowDays}_up.json`);
+                    const p2 = fetch(`./data/top_three_inst_change_${this.windowDays}_down.json`);
+                    
+                    const [resUp, resDown] = await Promise.all([p1, p2]);
+
+                    if (!resUp.ok) throw new Error(`找不到 ${this.windowDays}日 買超排行`);
+                    if (!resDown.ok) throw new Error(`找不到 ${this.windowDays}日 賣超排行`);
+
+                    this.instRank.up = (await resUp.json()).slice(0, 100);
+                    this.instRank.down = (await resDown.json()).slice(0, 100);
+                },
+
+                async fetchBrokerData() {
+                    try {
+                        const rankRes = await fetch('./data/broker_ranking.json');
+                        if (rankRes.ok) this.brokerRanking = (await rankRes.json()).data || [];
+                        
+                        const targetRes = await fetch('./data/target_broker_trades.json');
+                        if (targetRes.ok) {
+                            this.targetTrades = (await targetRes.json()).brokers || {};
+                            const first = Object.keys(this.targetTrades)[0];
+                            if(first) {
+                                this.selectedBroker = first;
+                            }
+                        }
+                        
+                        const trendRes = await fetch('./data/broker_trends.json');
+                        if (trendRes.ok) this.brokerTrends = (await trendRes.json()).brokers || {};
+                    } catch (e) {
+                        console.warn("Broker data load warning:", e);
+                    }
+                },
+
+                async fetchCostData() {
+                    try {
+                        const res = await fetch('./data/broker_cost_analytics.json');
+                        if (res.ok) {
+                            this.costData = await res.json();
+                        }
+                    } catch (e) {
+                        console.warn("Cost data load warning:", e);
+                    }
+                },
+
+                async loadStock(code) {
+                    this.tab = 'stock';
+                    this.searchCode = code;
+                    this.loading = true;
+                    this.errorMessage = null;
+                    
+                    if (this.charts.stock) {
+                        this.charts.stock.destroy();
+                        this.charts.stock = null;
+                    }
+
+                    try {
+                        // 使用 ./ 開頭
+                        const res = await fetch(`./data/timeseries/${code}.json`);
+                        if (!res.ok) throw new Error("Stock file not found");
+                        const data = await res.json();
+                        this.stockData = data;
+                        this.currentStockCode = code;
+                        this.currentStockName = data[0]?.name || code;
+                        
+                        this.$nextTick(() => {
+                            this.renderStockChart();
+                        });
+                        
+                    } catch (e) {
+                        this.errorMessage = `找不到個股 ${code} 的資料 (data/timeseries/${code}.json)`;
+                        this.stockData = [];
+                    }
+                    this.loading = false;
+                },
+
+                loadBrokerTrend(brokerName) {
+                    this.selectedBroker = brokerName;
+                    this.tab = 'broker';
+                    this.$nextTick(() => {
+                        this.renderBrokerChart(brokerName);
+                    });
+                },
+
+                renderStockChart() {
+                    const ctx = document.getElementById('stockChart');
+                    if (!ctx) return;
+                    
+                    this.charts.stock = new Chart(ctx, {
+                        type: 'line',
+                        data: {
+                            labels: this.stockData.map(d => d.date),
+                            datasets: [
+                                { label: '外資持股%', data: this.stockData.map(d => d.foreign_ratio), borderColor: '#2563eb', backgroundColor: '#2563eb', yAxisID: 'y' },
+                                { label: '投信持股%', data: this.stockData.map(d => d.trust_ratio), borderColor: '#dc2626', backgroundColor: '#dc2626', yAxisID: 'y' },
+                                { label: '總持股%', data: this.stockData.map(d => d.three_inst_ratio), borderColor: '#7c3aed', borderWidth: 2, pointRadius: 0, fill: true, backgroundColor: 'rgba(124, 58, 237, 0.1)' }
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            interaction: { mode: 'index', intersect: false },
+                            scales: { y: { beginAtZero: false } }
+                        }
+                    });
+                },
+
+                renderBrokerChart(brokerName) {
+                    const ctx = document.getElementById('brokerChart');
+                    if (!ctx) return;
+                    if (this.charts.broker) this.charts.broker.destroy();
+
+                    const trend = this.brokerTrends[brokerName] || [];
+                    if (trend.length === 0) return;
+
+                    this.charts.broker = new Chart(ctx, {
+                        type: 'line',
+                        data: {
+                            labels: trend.map(d => d.date),
+                            datasets: [{
+                                label: '累積買賣超張數',
+                                data: trend.map(d => d.cumulative),
+                                borderColor: '#2563eb',
+                                backgroundColor: 'rgba(37, 99, 235, 0.1)',
+                                fill: true,
+                                tension: 0.4
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            plugins: { title: { display: false } },
+                            interaction: { mode: 'index', intersect: false }
+                        }
+                    });
+                },
+
+                renderCostChart(canvasId, data) {
+                    const ctx = document.getElementById(canvasId);
+                    if (!ctx) return;
+                    if (this.charts[canvasId]) this.charts[canvasId].destroy();
+
+                    this.charts[canvasId] = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: data.map(d => d.date),
+                            datasets: [
+                                {
+                                    type: 'line',
+                                    label: '股價',
+                                    data: data.map(d => d.price),
+                                    borderColor: '#f59e0b',
+                                    borderWidth: 2,
+                                    pointRadius: 0,
+                                    yAxisID: 'y'
+                                },
+                                {
+                                    type: 'line',
+                                    label: '預估成本',
+                                    data: data.map(d => d.cost),
+                                    borderColor: '#9333ea',
+                                    borderWidth: 2,
+                                    borderDash: [5, 5],
+                                    pointRadius: 0,
+                                    yAxisID: 'y'
+                                },
+                                {
+                                    type: 'bar',
+                                    label: '庫存量(張)',
+                                    data: data.map(d => d.inventory),
+                                    backgroundColor: 'rgba(59, 130, 246, 0.2)',
+                                    yAxisID: 'y1'
+                                }
+                            ]
+                        },
+                        options: {
+                            responsive: true,
+                            maintainAspectRatio: false,
+                            interaction: { mode: 'index', intersect: false },
+                            scales: {
+                                y: {
+                                    type: 'linear',
+                                    display: true,
+                                    position: 'left',
+                                    title: { display: true, text: '價格' }
+                                },
+                                y1: {
+                                    type: 'linear',
+                                    display: true,
+                                    position: 'right',
+                                    grid: { drawOnChartArea: false },
+                                    title: { display: true, text: '庫存量' }
+                                }
+                            }
+                        }
+                    });
+                }
+            }
+        }
+    </script>
 </head>
-<!-- Use global function stockDashboard() to avoid initialization race conditions -->
 <body class="bg-slate-50 text-slate-800" x-data="stockDashboard()">
 
     <!-- Header -->
@@ -52,7 +302,10 @@
         <div x-show="errorMessage" x-cloak class="bg-red-100 border-l-4 border-red-500 text-red-700 p-4 mb-4 rounded shadow-sm">
             <p class="font-bold">資料讀取異常</p>
             <p x-text="errorMessage"></p>
-            <p class="text-xs mt-2 text-red-600">請確認 GitHub 上的 docs/data 資料夾內是否有對應的 .json 檔案。</p>
+            <p class="text-xs mt-2 text-red-600">
+                若是本機預覽或 AI 預覽，因無資料檔屬正常現象。<br>
+                請確認 GitHub 上的 docs/data 資料夾內是否有對應的 .json 檔案。
+            </p>
         </div>
 
         <!-- TAB 1: Institutional -->
@@ -253,253 +506,5 @@
         </div>
 
     </main>
-
-    <script>
-        // 改用全域函數定義資料，避免 Alpine 初始化時 app 尚未定義的 Race Condition 問題
-        function stockDashboard() {
-            return {
-                tab: 'inst',
-                windowDays: 20,
-                instRank: { up: [], down: [] },
-                brokerRanking: [],
-                targetTrades: {},
-                brokerTrends: {},
-                stockData: [],
-                costData: {}, 
-                searchCode: '2330',
-                currentStockCode: '',
-                currentStockName: '',
-                selectedBroker: null,
-                errorMessage: null,
-                loading: false,
-                charts: {},
-
-                async init() {
-                    console.log("App initializing...");
-                    this.loading = true;
-
-                    // 1. 載入法人排行
-                    try {
-                        await this.fetchInstRank();
-                    } catch (e) {
-                        console.error("Critical Error fetching inst rank:", e);
-                        this.errorMessage = "無法讀取法人排行資料 (data/top_three_inst_change_*.json)，請確認 GitHub Actions 是否已執行完成。";
-                    }
-
-                    // 2. 載入其他資料
-                    this.fetchBrokerData();
-                    this.fetchCostData();
-                    
-                    this.loading = false;
-                },
-
-                formatNum(n) {
-                    return n ? parseFloat(n).toFixed(1) : '0.0';
-                },
-
-                get lastStockData() {
-                    return this.stockData.length > 0 ? this.stockData[this.stockData.length - 1] : {};
-                },
-
-                async fetchInstRank() {
-                    this.instRank.up = [];
-                    this.instRank.down = [];
-                    
-                    const p1 = fetch(`data/top_three_inst_change_${this.windowDays}_up.json`);
-                    const p2 = fetch(`data/top_three_inst_change_${this.windowDays}_down.json`);
-                    
-                    const [resUp, resDown] = await Promise.all([p1, p2]);
-
-                    if (!resUp.ok) throw new Error(`找不到 ${this.windowDays}日 買超排行`);
-                    if (!resDown.ok) throw new Error(`找不到 ${this.windowDays}日 賣超排行`);
-
-                    this.instRank.up = (await resUp.json()).slice(0, 100);
-                    this.instRank.down = (await resDown.json()).slice(0, 100);
-                },
-
-                async fetchBrokerData() {
-                    try {
-                        const rankRes = await fetch('data/broker_ranking.json');
-                        if (rankRes.ok) this.brokerRanking = (await rankRes.json()).data || [];
-                        
-                        const targetRes = await fetch('data/target_broker_trades.json');
-                        if (targetRes.ok) {
-                            this.targetTrades = (await targetRes.json()).brokers || {};
-                            const first = Object.keys(this.targetTrades)[0];
-                            if(first) this.loadBrokerTrend(first);
-                        }
-                        
-                        const trendRes = await fetch('data/broker_trends.json');
-                        if (trendRes.ok) this.brokerTrends = (await trendRes.json()).brokers || {};
-                    } catch (e) {
-                        console.warn("Broker data load warning:", e);
-                    }
-                },
-
-                async fetchCostData() {
-                    try {
-                        const res = await fetch('data/broker_cost_analytics.json');
-                        if (res.ok) {
-                            this.costData = await res.json();
-                        }
-                    } catch (e) {
-                        console.warn("Cost data load warning:", e);
-                    }
-                },
-
-                async loadStock(code) {
-                    this.tab = 'stock';
-                    this.searchCode = code;
-                    this.loading = true;
-                    this.errorMessage = null;
-                    
-                    if (this.charts.stock) {
-                        this.charts.stock.destroy();
-                        this.charts.stock = null;
-                    }
-
-                    try {
-                        const res = await fetch(`data/timeseries/${code}.json`);
-                        if (!res.ok) throw new Error("Stock file not found");
-                        const data = await res.json();
-                        this.stockData = data;
-                        this.currentStockCode = code;
-                        this.currentStockName = data[0]?.name || code;
-                        
-                        this.$nextTick(() => {
-                            this.renderStockChart();
-                        });
-                        
-                    } catch (e) {
-                        this.errorMessage = `找不到個股 ${code} 的資料 (data/timeseries/${code}.json)`;
-                        this.stockData = [];
-                    }
-                    this.loading = false;
-                },
-
-                loadBrokerTrend(brokerName) {
-                    this.selectedBroker = brokerName;
-                    this.tab = 'broker';
-                    this.$nextTick(() => {
-                        this.renderBrokerChart(brokerName);
-                    });
-                },
-
-                renderStockChart() {
-                    const ctx = document.getElementById('stockChart');
-                    if (!ctx) return;
-                    
-                    this.charts.stock = new Chart(ctx, {
-                        type: 'line',
-                        data: {
-                            labels: this.stockData.map(d => d.date),
-                            datasets: [
-                                { label: '外資持股%', data: this.stockData.map(d => d.foreign_ratio), borderColor: '#2563eb', backgroundColor: '#2563eb', yAxisID: 'y' },
-                                { label: '投信持股%', data: this.stockData.map(d => d.trust_ratio), borderColor: '#dc2626', backgroundColor: '#dc2626', yAxisID: 'y' },
-                                { label: '總持股%', data: this.stockData.map(d => d.three_inst_ratio), borderColor: '#7c3aed', borderWidth: 2, pointRadius: 0, fill: true, backgroundColor: 'rgba(124, 58, 237, 0.1)' }
-                            ]
-                        },
-                        options: {
-                            responsive: true,
-                            maintainAspectRatio: false,
-                            interaction: { mode: 'index', intersect: false },
-                            scales: { y: { beginAtZero: false } }
-                        }
-                    });
-                },
-
-                renderBrokerChart(brokerName) {
-                    const ctx = document.getElementById('brokerChart');
-                    if (!ctx) return;
-                    if (this.charts.broker) this.charts.broker.destroy();
-
-                    const trend = this.brokerTrends[brokerName] || [];
-                    if (trend.length === 0) return;
-
-                    this.charts.broker = new Chart(ctx, {
-                        type: 'line',
-                        data: {
-                            labels: trend.map(d => d.date),
-                            datasets: [{
-                                label: '累積買賣超張數',
-                                data: trend.map(d => d.cumulative),
-                                borderColor: '#2563eb',
-                                backgroundColor: 'rgba(37, 99, 235, 0.1)',
-                                fill: true,
-                                tension: 0.4
-                            }]
-                        },
-                        options: {
-                            responsive: true,
-                            maintainAspectRatio: false,
-                            plugins: { title: { display: false } },
-                            interaction: { mode: 'index', intersect: false }
-                        }
-                    });
-                },
-
-                renderCostChart(canvasId, data) {
-                    const ctx = document.getElementById(canvasId);
-                    if (!ctx) return;
-                    if (this.charts[canvasId]) this.charts[canvasId].destroy();
-
-                    this.charts[canvasId] = new Chart(ctx, {
-                        type: 'bar',
-                        data: {
-                            labels: data.map(d => d.date),
-                            datasets: [
-                                {
-                                    type: 'line',
-                                    label: '股價',
-                                    data: data.map(d => d.price),
-                                    borderColor: '#f59e0b',
-                                    borderWidth: 2,
-                                    pointRadius: 0,
-                                    yAxisID: 'y'
-                                },
-                                {
-                                    type: 'line',
-                                    label: '預估成本',
-                                    data: data.map(d => d.cost),
-                                    borderColor: '#9333ea',
-                                    borderWidth: 2,
-                                    borderDash: [5, 5],
-                                    pointRadius: 0,
-                                    yAxisID: 'y'
-                                },
-                                {
-                                    type: 'bar',
-                                    label: '庫存量(張)',
-                                    data: data.map(d => d.inventory),
-                                    backgroundColor: 'rgba(59, 130, 246, 0.2)',
-                                    yAxisID: 'y1'
-                                }
-                            ]
-                        },
-                        options: {
-                            responsive: true,
-                            maintainAspectRatio: false,
-                            interaction: { mode: 'index', intersect: false },
-                            scales: {
-                                y: {
-                                    type: 'linear',
-                                    display: true,
-                                    position: 'left',
-                                    title: { display: true, text: '價格' }
-                                },
-                                y1: {
-                                    type: 'linear',
-                                    display: true,
-                                    position: 'right',
-                                    grid: { drawOnChartArea: false },
-                                    title: { display: true, text: '庫存量' }
-                                }
-                            }
-                        }
-                    });
-                }
-            }
-        }
-    </script>
 </body>
 </html>
