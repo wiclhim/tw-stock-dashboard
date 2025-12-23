@@ -306,6 +306,7 @@ def track_target_brokers(hot_stocks: List[str]):
     """
     Track specific target brokers' activities in hot stocks.
     """
+    print("=== Starting track_broker_profit.py (v2.1) ===")
     print(f"Tracking target broker performance...")
     ensure_dirs()
     
