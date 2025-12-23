@@ -28,6 +28,12 @@
                 brokerRanking: [],
                 targetTrades: {},
                 brokerTrends: {},
+                
+                // 新增：儲存所有最新的分點交易資料
+                allBrokerTrades: [],
+                // 新增：目前搜尋個股的分點資料
+                currentStockBrokerTrades: [],
+                
                 stockData: [],
                 costData: {}, 
                 searchCode: '2330',
@@ -54,6 +60,9 @@
                     this.fetchBrokerData();
                     this.fetchCostData();
                     
+                    // 3. 新增：載入分點日報總表
+                    this.fetchLatestBrokerTrades();
+                    
                     this.loading = false;
                 },
 
@@ -64,12 +73,27 @@
                 get lastStockData() {
                     return this.stockData.length > 0 ? this.stockData[this.stockData.length - 1] : {};
                 },
+                
+                // 新增：計算目前股票的買超券商 (前 15 名)
+                get currentStockBuyers() {
+                    return this.currentStockBrokerTrades
+                        .filter(t => t.net_vol > 0)
+                        .sort((a, b) => b.net_vol - a.net_vol)
+                        .slice(0, 15);
+                },
+
+                // 新增：計算目前股票的賣超券商 (前 15 名)
+                get currentStockSellers() {
+                    return this.currentStockBrokerTrades
+                        .filter(t => t.net_vol < 0)
+                        .sort((a, b) => a.net_vol - b.net_vol) // 負越多排越前
+                        .slice(0, 15);
+                },
 
                 async fetchInstRank() {
                     this.instRank.up = [];
                     this.instRank.down = [];
                     
-                    // 使用 ./ 開頭，增加路徑解析的穩定性
                     const p1 = fetch(`./data/top_three_inst_change_${this.windowDays}_up.json`);
                     const p2 = fetch(`./data/top_three_inst_change_${this.windowDays}_down.json`);
                     
@@ -102,6 +126,19 @@
                         console.warn("Broker data load warning:", e);
                     }
                 },
+                
+                // 新增：抓取最新的分點交易總表
+                async fetchLatestBrokerTrades() {
+                    try {
+                        const res = await fetch('./data/broker_trades_latest.json');
+                        if (res.ok) {
+                            const json = await res.json();
+                            this.allBrokerTrades = json.data || [];
+                        }
+                    } catch (e) {
+                        console.warn("Latest broker trades load warning:", e);
+                    }
+                },
 
                 async fetchCostData() {
                     try {
@@ -120,19 +157,26 @@
                     this.loading = true;
                     this.errorMessage = null;
                     
+                    // 清空先前的分點資料
+                    this.currentStockBrokerTrades = [];
+                    
                     if (this.charts.stock) {
                         this.charts.stock.destroy();
                         this.charts.stock = null;
                     }
 
                     try {
-                        // 使用 ./ 開頭
                         const res = await fetch(`./data/timeseries/${code}.json`);
                         if (!res.ok) throw new Error("Stock file not found");
                         const data = await res.json();
                         this.stockData = data;
                         this.currentStockCode = code;
                         this.currentStockName = data[0]?.name || code;
+                        
+                        // 新增：從總表中篩選此股票的分點資料
+                        if (this.allBrokerTrades.length > 0) {
+                            this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => t.stock_code === code);
+                        }
                         
                         this.$nextTick(() => {
                             this.renderStockChart();
@@ -494,6 +538,68 @@
                         <canvas id="stockChart"></canvas>
                     </div>
                 </div>
+
+                <!-- Broker Buy/Sell Tables (New Feature) -->
+                <div class="grid md:grid-cols-2 gap-6" x-show="currentStockBrokerTrades.length > 0">
+                    <!-- Buy Side -->
+                    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                        <div class="p-3 bg-red-50 border-b border-red-100 font-bold text-red-800 text-center">
+                            主力買超券商 (本日)
+                        </div>
+                        <table class="w-full text-sm">
+                            <thead class="bg-slate-50 text-slate-500">
+                                <tr>
+                                    <th class="px-4 py-2 text-left">券商</th>
+                                    <th class="px-4 py-2 text-right">買超張數</th>
+                                    <th class="px-4 py-2 text-right hidden sm:table-cell">買進</th>
+                                    <th class="px-4 py-2 text-right hidden sm:table-cell">賣出</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <template x-for="t in currentStockBuyers">
+                                    <tr class="border-b border-slate-50 hover:bg-slate-50">
+                                        <td class="px-4 py-2 font-medium" x-text="t.broker_name"></td>
+                                        <td class="px-4 py-2 text-right font-bold text-red-600" x-text="'+' + t.net_vol"></td>
+                                        <td class="px-4 py-2 text-right text-slate-400 hidden sm:table-cell" x-text="t.buy_vol"></td>
+                                        <td class="px-4 py-2 text-right text-slate-400 hidden sm:table-cell" x-text="t.sell_vol"></td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Sell Side -->
+                    <div class="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                        <div class="p-3 bg-green-50 border-b border-green-100 font-bold text-green-800 text-center">
+                            主力賣超券商 (本日)
+                        </div>
+                        <table class="w-full text-sm">
+                            <thead class="bg-slate-50 text-slate-500">
+                                <tr>
+                                    <th class="px-4 py-2 text-left">券商</th>
+                                    <th class="px-4 py-2 text-right">賣超張數</th>
+                                    <th class="px-4 py-2 text-right hidden sm:table-cell">買進</th>
+                                    <th class="px-4 py-2 text-right hidden sm:table-cell">賣出</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <template x-for="t in currentStockSellers">
+                                    <tr class="border-b border-slate-50 hover:bg-slate-50">
+                                        <td class="px-4 py-2 font-medium" x-text="t.broker_name"></td>
+                                        <td class="px-4 py-2 text-right font-bold text-green-600" x-text="t.net_vol"></td>
+                                        <td class="px-4 py-2 text-right text-slate-400 hidden sm:table-cell" x-text="t.buy_vol"></td>
+                                        <td class="px-4 py-2 text-right text-slate-400 hidden sm:table-cell" x-text="t.sell_vol"></td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div class="text-center text-sm text-slate-400" x-show="currentStockBrokerTrades.length === 0 && stockData.length > 0">
+                    無此股票的當日分點資料 (目前僅追蹤熱門成交股)
+                </div>
+
             </div>
             <div x-show="stockData.length === 0 && !loading" class="text-center text-slate-400 mt-10">請輸入代碼查詢</div>
         </div>
@@ -508,3 +614,12 @@
     </main>
 </body>
 </html>
+```
+
+### 修改重點：
+1.  **新增資料載入**：在 `init` 函式中加入了 `this.fetchLatestBrokerTrades()`，程式啟動時會自動下載 `broker_trades_latest.json`。
+2.  **新增篩選邏輯**：在 `loadStock(code)` 函式中，會從下載的總表中篩選出該股票的當日交易資料 (`this.currentStockBrokerTrades`)。
+3.  **新增顯示區塊**：在個股搜尋頁面（TAB 4），線圖下方新增了兩個表格，分別顯示「買超前 15 名」與「賣超前 15 名」的券商分點。
+4.  **防呆提示**：如果該股票不在每日更新的熱門股清單中（例如冷門股），會顯示「無此股票的當日分點資料」。
+
+現在你可以將此檔案推送到 GitHub，重新整理網頁後，搜尋像 2330 這種熱門股，就能在線圖下方看到當天的券商進出明細了！
