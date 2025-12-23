@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.39,
     "three_inst_ratio_change_20": -0.02999999999999997
+  },
+  {
+    "date": "2025-12-22",
+    "code": "00924",
+    "name": "復華S&P500成長",
+    "market": "TWSE",
+    "foreign_ratio": 0.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.39,
+    "three_inst_ratio_change_20": -0.06
   }
 ]

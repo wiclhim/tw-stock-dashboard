@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.812311043929009,
     "three_inst_ratio_change_20": 0.34129528368817574
+  },
+  {
+    "date": "2025-12-22",
+    "code": "2323",
+    "name": "中環",
+    "market": "TWSE",
+    "foreign_ratio": 11.0,
+    "trust_ratio": -0.2776889560709915,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.72231104392901,
+    "three_inst_ratio_change_20": 0.30900033363800183
   }
 ]

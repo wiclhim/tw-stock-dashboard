@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.670023300521166,
     "three_inst_ratio_change_20": -0.8374856276260054
+  },
+  {
+    "date": "2025-12-22",
+    "code": "2498",
+    "name": "宏達電",
+    "market": "TWSE",
+    "foreign_ratio": 8.85,
+    "trust_ratio": 0.03954437244992803,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.889544372449928,
+    "three_inst_ratio_change_20": -0.5079645556972423
   }
 ]

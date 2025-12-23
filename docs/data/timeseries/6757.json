@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.941528953495963,
     "three_inst_ratio_change_20": -0.7589608948273239
+  },
+  {
+    "date": "2025-12-22",
+    "code": "6757",
+    "name": "台灣虎航",
+    "market": "TWSE",
+    "foreign_ratio": 3.27,
+    "trust_ratio": -0.7187778817487432,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.551222118251257,
+    "three_inst_ratio_change_20": -1.1271018214262396
   }
 ]

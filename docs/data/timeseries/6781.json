@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 79.75922385217865,
     "three_inst_ratio_change_20": -3.384565478458015
+  },
+  {
+    "date": "2025-12-22",
+    "code": "6781",
+    "name": "AES-KY",
+    "market": "TWSE",
+    "foreign_ratio": 69.56,
+    "trust_ratio": 9.90868752749688,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 79.46868752749688,
+    "three_inst_ratio_change_20": -3.4256381278215287
   }
 ]

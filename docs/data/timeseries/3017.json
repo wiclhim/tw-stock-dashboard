@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 51.848175065156276,
     "three_inst_ratio_change_20": -0.3119430936038725
+  },
+  {
+    "date": "2025-12-22",
+    "code": "3017",
+    "name": "奇鋐",
+    "market": "TWSE",
+    "foreign_ratio": 49.39,
+    "trust_ratio": 2.680308937110823,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 52.07030893711082,
+    "three_inst_ratio_change_20": 0.033832207782587886
   }
 ]

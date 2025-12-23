@@ -746,5 +746,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7451554396919589,
     "three_inst_ratio_change_20": 0.10515543969195884
+  },
+  {
+    "date": "2025-12-22",
+    "code": "00662",
+    "name": "富邦NASDAQ",
+    "market": "TWSE",
+    "foreign_ratio": 0.65,
+    "trust_ratio": 0.09515543969195887,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.7451554396919589,
+    "three_inst_ratio_change_20": 0.11515543969195885
   }
 ]
