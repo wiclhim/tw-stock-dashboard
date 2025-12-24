@@ -757,5 +757,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.700474370402952,
     "three_inst_ratio_change_20": -1.0081466445070846
+  },
+  {
+    "date": "2025-12-23",
+    "code": "8070",
+    "name": "長華*",
+    "market": "TWSE",
+    "foreign_ratio": 3.2,
+    "trust_ratio": 0.4704743704029522,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.6704743704029523,
+    "three_inst_ratio_change_20": -1.138146644507084
   }
 ]

@@ -757,5 +757,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.013904390455361,
     "three_inst_ratio_change_20": -3.209999999999999
+  },
+  {
+    "date": "2025-12-23",
+    "code": "3694",
+    "name": "海華",
+    "market": "TWSE",
+    "foreign_ratio": 8.47,
+    "trust_ratio": -1.7960956095446394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.673904390455361,
+    "three_inst_ratio_change_20": -3.49
   }
 ]

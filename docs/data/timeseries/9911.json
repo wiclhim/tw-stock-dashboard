@@ -757,5 +757,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.869677648931614,
     "three_inst_ratio_change_20": -0.1262952588642854
+  },
+  {
+    "date": "2025-12-23",
+    "code": "9911",
+    "name": "櫻花",
+    "market": "TWSE",
+    "foreign_ratio": 17.81,
+    "trust_ratio": 0.029677648931615428,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.839677648931612,
+    "three_inst_ratio_change_20": -0.15629525886428652
   }
 ]

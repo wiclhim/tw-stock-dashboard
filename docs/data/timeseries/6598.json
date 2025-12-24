@@ -757,5 +757,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.38,
     "three_inst_ratio_change_20": -0.060000000000002274
+  },
+  {
+    "date": "2025-12-23",
+    "code": "6598",
+    "name": "ABC-KY",
+    "market": "TWSE",
+    "foreign_ratio": 23.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.37,
+    "three_inst_ratio_change_20": -0.09999999999999787
   }
 ]
