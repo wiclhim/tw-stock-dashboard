@@ -133,10 +133,22 @@
                 // 新增：抓取最新的分點交易總表
                 async fetchLatestBrokerTrades() {
                     try {
-                        const res = await fetch('./data/broker_trades_latest.json');
+                        // 【FIX 1】加入時間戳記 (Cache Buster)，強制瀏覽器抓取最新檔案，避免 GitHub Pages 快取舊資料
+                        const timestamp = new Date().getTime();
+                        const res = await fetch(`./data/broker_trades_latest.json?v=${timestamp}`);
+                        
                         if (res.ok) {
                             const json = await res.json();
-                            this.allBrokerTrades = json.data || [];
+                            
+                            // 【FIX 2】增強相容性：同時支援 {data: [...]} 和 [...] 兩種格式
+                            let data = [];
+                            if (Array.isArray(json)) {
+                                data = json;
+                            } else if (json && Array.isArray(json.data)) {
+                                data = json.data;
+                            }
+                            
+                            this.allBrokerTrades = data;
                             console.log(`已載入 ${this.allBrokerTrades.length} 筆分點資料`, this.allBrokerTrades[0]);
                         } else {
                             console.error("分點日報檔讀取失敗 (status != 200)");
@@ -176,9 +188,10 @@
                     this.currentStockName = code; // 預設名稱，若抓到 timeseries 再更新為完整名稱
 
                     if (this.allBrokerTrades.length > 0) {
-                        // 【FIX】強制轉成字串比較，避免 JSON 裡的數字代碼 vs 輸入框的字串代碼 造成比對失敗
-                        this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => String(t.stock_code) === String(code));
-                        console.log(`篩選股票 ${code} 分點資料:`, this.currentStockBrokerTrades.length, "筆");
+                        // 【FIX 3】強制轉成字串比較，並加上 trim() 移除可能的多餘空白
+                        const targetCode = String(code).trim();
+                        this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => String(t.stock_code).trim() === targetCode);
+                        console.log(`篩選股票 ${targetCode} 分點資料:`, this.currentStockBrokerTrades.length, "筆");
                     } else {
                         console.warn("尚無分點總表資料 (allBrokerTrades 為空)");
                     }
@@ -540,9 +553,15 @@
 
         <!-- TAB 4: Stock Search -->
         <div x-show="tab === 'stock'" x-cloak x-transition>
-            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 mb-6 flex gap-4">
-                <input type="text" x-model="searchCode" @keydown.enter="loadStock(searchCode)" placeholder="輸入代碼 (例如 2330)" class="border border-slate-300 rounded px-4 py-2 w-full md:w-64 focus:outline-none focus:ring-2 focus:ring-blue-500">
-                <button @click="loadStock(searchCode)" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition">查詢</button>
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200 mb-6 flex gap-4 flex-col">
+                <div class="flex gap-4">
+                    <input type="text" x-model="searchCode" @keydown.enter="loadStock(searchCode)" placeholder="輸入代碼 (例如 2330)" class="border border-slate-300 rounded px-4 py-2 w-full md:w-64 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    <button @click="loadStock(searchCode)" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition">查詢</button>
+                </div>
+                <!-- 狀態顯示：幫助使用者確認資料是否載入 -->
+                <div class="text-xs text-slate-400">
+                    分點總表載入狀態: <span :class="allBrokerTrades.length > 0 ? 'text-green-600 font-bold' : 'text-red-400'" x-text="allBrokerTrades.length > 0 ? '已載入 ' + allBrokerTrades.length + ' 筆' : '尚未載入 (或無資料)'"></span>
+                </div>
             </div>
 
             <!-- Stock Charts Area -->
