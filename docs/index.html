@@ -13,6 +13,7 @@
     <style>
         [x-cloak] { display: none !important; }
         body { font-family: 'Segoe UI', Microsoft JhengHei, sans-serif; }
+        /* 自定義捲軸 */
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #f1f5f9; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
@@ -94,6 +95,7 @@
                     this.instRank.up = [];
                     this.instRank.down = [];
                     
+                    // 使用 ./ 開頭，增加路徑解析的穩定性
                     const p1 = fetch(`./data/top_three_inst_change_${this.windowDays}_up.json`);
                     const p2 = fetch(`./data/top_three_inst_change_${this.windowDays}_down.json`);
                     
@@ -166,6 +168,7 @@
                     }
 
                     try {
+                        // 使用 ./ 開頭
                         const res = await fetch(`./data/timeseries/${code}.json`);
                         if (!res.ok) throw new Error("Stock file not found");
                         const data = await res.json();
@@ -614,12 +617,3 @@
     </main>
 </body>
 </html>
-```
-
-### 修改重點：
-1.  **新增資料載入**：在 `init` 函式中加入了 `this.fetchLatestBrokerTrades()`，程式啟動時會自動下載 `broker_trades_latest.json`。
-2.  **新增篩選邏輯**：在 `loadStock(code)` 函式中，會從下載的總表中篩選出該股票的當日交易資料 (`this.currentStockBrokerTrades`)。
-3.  **新增顯示區塊**：在個股搜尋頁面（TAB 4），線圖下方新增了兩個表格，分別顯示「買超前 15 名」與「賣超前 15 名」的券商分點。
-4.  **防呆提示**：如果該股票不在每日更新的熱門股清單中（例如冷門股），會顯示「無此股票的當日分點資料」。
-
-現在你可以將此檔案推送到 GitHub，重新整理網頁後，搜尋像 2330 這種熱門股，就能在線圖下方看到當天的券商進出明細了！
