@@ -137,6 +137,9 @@
                         if (res.ok) {
                             const json = await res.json();
                             this.allBrokerTrades = json.data || [];
+                            console.log(`已載入 ${this.allBrokerTrades.length} 筆分點資料`, this.allBrokerTrades[0]);
+                        } else {
+                            console.error("分點日報檔讀取失敗 (status != 200)");
                         }
                     } catch (e) {
                         console.warn("Latest broker trades load warning:", e);
@@ -173,7 +176,11 @@
                     this.currentStockName = code; // 預設名稱，若抓到 timeseries 再更新為完整名稱
 
                     if (this.allBrokerTrades.length > 0) {
-                        this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => t.stock_code === code);
+                        // 【FIX】強制轉成字串比較，避免 JSON 裡的數字代碼 vs 輸入框的字串代碼 造成比對失敗
+                        this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => String(t.stock_code) === String(code));
+                        console.log(`篩選股票 ${code} 分點資料:`, this.currentStockBrokerTrades.length, "筆");
+                    } else {
+                        console.warn("尚無分點總表資料 (allBrokerTrades 為空)");
                     }
 
                     // 3. 嘗試抓取歷史股價 (K線圖用)
@@ -193,7 +200,8 @@
                         // 只有當「連分點資料都沒有」的時候，才視為完全失敗並顯示錯誤
                         // 如果有分點但無 K 線，就不顯示紅框錯誤，僅在 Console 警告
                         if (this.currentStockBrokerTrades.length === 0) {
-                             this.errorMessage = `找不到個股 ${code} 的資料 (無 K 線也無分點資料)`;
+                             // 不要在這裡設 errorMessage，讓下方 UI 顯示 "查無資料" 比較自然
+                             console.warn(`個股 ${code} 無資料 (無K線且無分點)`);
                         } else {
                             console.warn(`找不到個股 ${code} 的 K 線資料，但已顯示分點數據。`);
                         }
@@ -623,7 +631,10 @@
 
             </div>
             <!-- Show placeholder only when nothing is loaded -->
-            <div x-show="stockData.length === 0 && currentStockBrokerTrades.length === 0 && !loading" class="text-center text-slate-400 mt-10">請輸入代碼查詢</div>
+            <div x-show="stockData.length === 0 && currentStockBrokerTrades.length === 0 && !loading" class="text-center text-slate-400 mt-10">
+                <span x-show="errorMessage">查無此股票資料</span>
+                <span x-show="!errorMessage">請輸入代碼查詢</span>
+            </div>
         </div>
 
         <!-- TAB 5: Advanced Analysis (Embedded) -->
