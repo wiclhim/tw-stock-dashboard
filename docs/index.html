@@ -92,6 +92,14 @@
                         .slice(0, 15);
                 },
 
+                // 新增：除錯用，顯示目前已載入哪些股票的分點資料
+                get availableBrokerStocks() {
+                    if (!this.allBrokerTrades.length) return [];
+                    // 取出不重複的股票代碼並排序
+                    const codes = [...new Set(this.allBrokerTrades.map(t => String(t.stock_code).trim()))];
+                    return codes.sort();
+                },
+
                 async fetchInstRank() {
                     this.instRank.up = [];
                     this.instRank.down = [];
@@ -559,8 +567,20 @@
                     <button @click="loadStock(searchCode)" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition">查詢</button>
                 </div>
                 <!-- 狀態顯示：幫助使用者確認資料是否載入 -->
-                <div class="text-xs text-slate-400">
-                    分點總表載入狀態: <span :class="allBrokerTrades.length > 0 ? 'text-green-600 font-bold' : 'text-red-400'" x-text="allBrokerTrades.length > 0 ? '已載入 ' + allBrokerTrades.length + ' 筆' : '尚未載入 (或無資料)'"></span>
+                <div class="text-xs text-slate-400 mt-2 space-y-1">
+                    <div>
+                        分點總表狀態: 
+                        <span :class="allBrokerTrades.length > 0 ? 'text-green-600 font-bold' : 'text-red-400'" x-text="allBrokerTrades.length > 0 ? '已載入 ' + allBrokerTrades.length + ' 筆' : '尚未載入 (或資料為空)'"></span>
+                    </div>
+                    <!-- Debug list to show which stocks are actually loaded -->
+                    <div x-show="allBrokerTrades.length > 0">
+                        <details class="cursor-pointer">
+                            <summary class="hover:text-slate-600">查看已載入的股票代碼 (點擊展開)</summary>
+                            <div class="mt-1 p-2 bg-slate-100 rounded text-[10px] break-all font-mono leading-relaxed">
+                                <span x-text="availableBrokerStocks.join(', ')"></span>
+                            </div>
+                        </details>
+                    </div>
                 </div>
             </div>
 
@@ -644,8 +664,16 @@
                     </div>
                 </div>
                 
-                <div class="text-center text-sm text-slate-400" x-show="currentStockBrokerTrades.length === 0 && stockData.length > 0">
-                    無此股票的當日分點資料 (目前僅追蹤熱門成交股)
+                <!-- 狀態顯示區塊 (重構版) -->
+                <div class="text-center text-sm text-slate-400 mt-4" x-show="currentStockBrokerTrades.length === 0 && stockData.length > 0">
+                    <!-- Case A: 資料庫是空的，或者根本沒抓到資料 -->
+                    <div x-show="allBrokerTrades.length === 0" class="text-red-400 font-bold">
+                        ⚠️ 分點總表載入失敗或無資料 (請檢查 broker_trades_latest.json)
+                    </div>
+                    <!-- Case B: 資料庫有東西，但沒有這檔股票 -->
+                    <div x-show="allBrokerTrades.length > 0">
+                        ℹ️ 此股無分點資料 (非熱門追蹤名單，或今日無主力進出)
+                    </div>
                 </div>
 
             </div>
