@@ -57,12 +57,13 @@
                         this.errorMessage = "無法讀取法人排行資料 (data/top_three_inst_change_*.json)。若是本機/AI預覽，此為正常現象。";
                     }
 
-                    // 2. 載入其他資料
+                    // 2. 載入其他資料 (非同步並行，不一定要等)
                     this.fetchBrokerData();
                     this.fetchCostData();
                     
-                    // 3. 新增：載入分點日報總表
-                    this.fetchLatestBrokerTrades();
+                    // 3. 【關鍵修正】強制等待分點日報總表載入完成
+                    // 這保證了後續搜尋時 allBrokerTrades 已經有資料
+                    await this.fetchLatestBrokerTrades();
                     
                     this.loading = false;
                 },
@@ -159,34 +160,43 @@
                     this.loading = true;
                     this.errorMessage = null;
                     
-                    // 清空先前的分點資料
+                    // 1. 重置狀態
                     this.currentStockBrokerTrades = [];
-                    
                     if (this.charts.stock) {
                         this.charts.stock.destroy();
                         this.charts.stock = null;
                     }
 
+                    // 2. 【關鍵修正】優先篩選分點資料 (獨立於 try...catch 區塊)
+                    // 這樣即使 K 線圖 (timeseries) 抓取失敗，表格依然可以顯示
+                    this.currentStockCode = code;
+                    this.currentStockName = code; // 預設名稱，若抓到 timeseries 再更新為完整名稱
+
+                    if (this.allBrokerTrades.length > 0) {
+                        this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => t.stock_code === code);
+                    }
+
+                    // 3. 嘗試抓取歷史股價 (K線圖用)
                     try {
-                        // 使用 ./ 開頭
                         const res = await fetch(`./data/timeseries/${code}.json`);
                         if (!res.ok) throw new Error("Stock file not found");
                         const data = await res.json();
-                        this.stockData = data;
-                        this.currentStockCode = code;
-                        this.currentStockName = data[0]?.name || code;
                         
-                        // 新增：從總表中篩選此股票的分點資料
-                        if (this.allBrokerTrades.length > 0) {
-                            this.currentStockBrokerTrades = this.allBrokerTrades.filter(t => t.stock_code === code);
-                        }
+                        this.stockData = data;
+                        this.currentStockName = data[0]?.name || code;
                         
                         this.$nextTick(() => {
                             this.renderStockChart();
                         });
                         
                     } catch (e) {
-                        this.errorMessage = `找不到個股 ${code} 的資料 (data/timeseries/${code}.json)`;
+                        // 只有當「連分點資料都沒有」的時候，才視為完全失敗並顯示錯誤
+                        // 如果有分點但無 K 線，就不顯示紅框錯誤，僅在 Console 警告
+                        if (this.currentStockBrokerTrades.length === 0) {
+                             this.errorMessage = `找不到個股 ${code} 的資料 (無 K 線也無分點資料)`;
+                        } else {
+                            console.warn(`找不到個股 ${code} 的 K 線資料，但已顯示分點數據。`);
+                        }
                         this.stockData = [];
                     }
                     this.loading = false;
@@ -528,8 +538,10 @@
             </div>
 
             <!-- Stock Charts Area -->
-            <div x-show="stockData.length > 0" class="space-y-6">
-                <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200">
+            <div x-show="stockData.length > 0 || currentStockBrokerTrades.length > 0" class="space-y-6">
+                
+                <!-- Stock Chart Panel (Only shows if stockData exists) -->
+                <div class="bg-white p-6 rounded-xl shadow-sm border border-slate-200" x-show="stockData.length > 0">
                     <div class="flex justify-between items-center mb-4">
                         <h2 class="text-2xl font-bold" x-text="currentStockName + ' (' + currentStockCode + ')'"></h2>
                         <div class="flex gap-4 text-sm">
@@ -540,6 +552,12 @@
                     <div class="h-[400px]">
                         <canvas id="stockChart"></canvas>
                     </div>
+                </div>
+                
+                <!-- Fallback info when chart is missing but broker data exists -->
+                <div class="bg-yellow-50 p-4 rounded-xl border border-yellow-200 text-yellow-800" x-show="stockData.length === 0 && currentStockBrokerTrades.length > 0">
+                    <p class="font-bold">注意：無此個股的歷史 K 線資料。</p>
+                    <p class="text-sm">但已找到當日分點交易紀錄，顯示如下：</p>
                 </div>
 
                 <!-- Broker Buy/Sell Tables (New Feature) -->
@@ -604,7 +622,8 @@
                 </div>
 
             </div>
-            <div x-show="stockData.length === 0 && !loading" class="text-center text-slate-400 mt-10">請輸入代碼查詢</div>
+            <!-- Show placeholder only when nothing is loaded -->
+            <div x-show="stockData.length === 0 && currentStockBrokerTrades.length === 0 && !loading" class="text-center text-slate-400 mt-10">請輸入代碼查詢</div>
         </div>
 
         <!-- TAB 5: Advanced Analysis (Embedded) -->
