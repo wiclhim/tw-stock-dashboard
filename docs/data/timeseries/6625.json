@@ -757,5 +757,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.96,
     "three_inst_ratio_change_20": -1.8399999999999999
+  },
+  {
+    "date": "2025-12-23",
+    "code": "6625",
+    "name": "必應",
+    "market": "TWSE",
+    "foreign_ratio": 3.97,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.97,
+    "three_inst_ratio_change_20": -2.2999999999999994
   }
 ]

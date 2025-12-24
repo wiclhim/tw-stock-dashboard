@@ -86,5 +86,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2025-12-23",
+    "code": "3593",
+    "name": "力銘",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.3,
+    "three_inst_ratio_change_20": 0.0
   }
 ]
