@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.8,
     "three_inst_ratio_change_20": -0.020000000000000462
+  },
+  {
+    "date": "2025-12-24",
+    "code": "1447",
+    "name": "力鵬",
+    "market": "TWSE",
+    "foreign_ratio": 4.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.78,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

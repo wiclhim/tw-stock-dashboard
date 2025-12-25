@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.85,
     "three_inst_ratio_change_20": -0.509999999999998
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6672",
+    "name": "騰輝電子-KY",
+    "market": "TWSE",
+    "foreign_ratio": 22.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.69,
+    "three_inst_ratio_change_20": -0.8499999999999979
   }
 ]

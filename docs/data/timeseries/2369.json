@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.08,
     "three_inst_ratio_change_20": 1.5999999999999996
+  },
+  {
+    "date": "2025-12-24",
+    "code": "2369",
+    "name": "菱生",
+    "market": "TWSE",
+    "foreign_ratio": 15.04,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.04,
+    "three_inst_ratio_change_20": 1.7799999999999994
   }
 ]

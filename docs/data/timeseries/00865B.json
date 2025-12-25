@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.85,
     "three_inst_ratio_change_20": 1.4300000000000002
+  },
+  {
+    "date": "2025-12-24",
+    "code": "00865B",
+    "name": "國泰US短期公債",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.14,
+    "three_inst_ratio_change_20": -0.17000000000000015
   }
 ]

@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.908205815265994,
     "three_inst_ratio_change_20": -0.2260590398310356
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6962",
+    "name": "奕力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 42.69,
+    "trust_ratio": 0.15983052196962422,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.84983052196962,
+    "three_inst_ratio_change_20": -0.2044343331274021
   }
 ]

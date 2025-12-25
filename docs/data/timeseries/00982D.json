@@ -548,5 +548,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.5,
     "three_inst_ratio_change_20": 2.64
+  },
+  {
+    "date": "2025-12-24",
+    "code": "00982D",
+    "name": "主動富邦動態入息",
+    "market": "TWSE",
+    "foreign_ratio": 5.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.48,
+    "three_inst_ratio_change_20": 2.6800000000000006
   }
 ]

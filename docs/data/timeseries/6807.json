@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 43.83,
     "three_inst_ratio_change_20": -0.10000000000000142
+  },
+  {
+    "date": "2025-12-24",
+    "code": "6807",
+    "name": "峰源-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.81,
+    "three_inst_ratio_change_20": -0.0799999999999983
   }
 ]

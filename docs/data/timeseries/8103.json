@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.645753260232066,
     "three_inst_ratio_change_20": -1.8465704817958084
+  },
+  {
+    "date": "2025-12-24",
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "foreign_ratio": 18.3,
+    "trust_ratio": 0.025753260232066706,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.325753260232066,
+    "three_inst_ratio_change_20": -2.5365704817958097
   }
 ]

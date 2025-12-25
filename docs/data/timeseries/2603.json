@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.762403118926326,
     "three_inst_ratio_change_20": 0.4383645878227149
+  },
+  {
+    "date": "2025-12-24",
+    "code": "2603",
+    "name": "長榮",
+    "market": "TWSE",
+    "foreign_ratio": 16.3,
+    "trust_ratio": 1.6307953267086066,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.93079532670861,
+    "three_inst_ratio_change_20": 0.6363451825693005
   }
 ]
