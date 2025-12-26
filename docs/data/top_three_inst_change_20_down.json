@@ -1204,17 +1204,17 @@
     "change": -0.9400000000000002
   },
   {
-    "code": "00637L",
-    "name": "元大滬深300正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.8,
-    "change": -0.94
-  },
-  {
     "code": "8045",
     "name": "達運光電",
     "market": "TWSE",
     "three_inst_ratio": 2.1,
+    "change": -0.94
+  },
+  {
+    "code": "00637L",
+    "name": "元大滬深300正2",
+    "market": "TWSE",
+    "three_inst_ratio": 0.8,
     "change": -0.94
   },
   {
@@ -1372,17 +1372,17 @@
     "change": -0.8435440442021731
   },
   {
-    "code": "2427",
-    "name": "三商電",
-    "market": "TWSE",
-    "three_inst_ratio": 3.2006679415389065,
-    "change": -0.8399999999999999
-  },
-  {
     "code": "1612",
     "name": "宏泰",
     "market": "TWSE",
     "three_inst_ratio": 17.94369017039205,
+    "change": -0.8399999999999999
+  },
+  {
+    "code": "2427",
+    "name": "三商電",
+    "market": "TWSE",
+    "three_inst_ratio": 3.2006679415389065,
     "change": -0.8399999999999999
   },
   {
