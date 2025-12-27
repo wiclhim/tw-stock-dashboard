@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.62,
     "three_inst_ratio_change_20": -2.2199999999999998
+  },
+  {
+    "date": "2025-12-26",
+    "code": "3050",
+    "name": "鈺德",
+    "market": "TWSE",
+    "foreign_ratio": 6.79,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.79,
+    "three_inst_ratio_change_20": -2.04
   }
 ]

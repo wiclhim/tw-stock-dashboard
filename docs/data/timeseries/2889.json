@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.500416673588362,
     "three_inst_ratio_change_20": -0.0845134755814474
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2889",
+    "name": "國票金",
+    "market": "TWSE",
+    "foreign_ratio": 9.29,
+    "trust_ratio": 0.17030658881808206,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.460306588818082,
+    "three_inst_ratio_change_20": -0.23448595438887843
   }
 ]

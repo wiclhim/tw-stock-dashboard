@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.225812921232366,
     "three_inst_ratio_change_20": -0.43841612862816426
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2387",
+    "name": "精元",
+    "market": "TWSE",
+    "foreign_ratio": 11.12,
+    "trust_ratio": 0.025812921232367655,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.145812921232366,
+    "three_inst_ratio_change_20": -0.49841612862816476
   }
 ]

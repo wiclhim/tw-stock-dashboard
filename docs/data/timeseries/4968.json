@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.762193939960762,
     "three_inst_ratio_change_20": -0.6754224113771397
+  },
+  {
+    "date": "2025-12-26",
+    "code": "4968",
+    "name": "立積",
+    "market": "TWSE",
+    "foreign_ratio": 9.74,
+    "trust_ratio": 1.992193939960762,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.732193939960762,
+    "three_inst_ratio_change_20": -0.6154224113771392
   }
 ]

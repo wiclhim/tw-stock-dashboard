@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.01756283637885,
     "three_inst_ratio_change_20": -1.0002422157965007
+  },
+  {
+    "date": "2025-12-26",
+    "code": "2103",
+    "name": "台橡",
+    "market": "TWSE",
+    "foreign_ratio": 20.56,
+    "trust_ratio": 0.4375628363788526,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.99756283637885,
+    "three_inst_ratio_change_20": -1.1102422157965037
   }
 ]

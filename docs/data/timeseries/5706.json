@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7439002992783494,
     "three_inst_ratio_change_20": -0.27000000000000024
+  },
+  {
+    "date": "2025-12-26",
+    "code": "5706",
+    "name": "鳳凰",
+    "market": "TWSE",
+    "foreign_ratio": 1.41,
+    "trust_ratio": 0.3539002992783496,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7639002992783495,
+    "three_inst_ratio_change_20": -0.29000000000000026
   }
 ]

@@ -779,5 +779,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.22,
     "three_inst_ratio_change_20": 0.1899999999999995
+  },
+  {
+    "date": "2025-12-26",
+    "code": "8011",
+    "name": "台通",
+    "market": "TWSE",
+    "foreign_ratio": 5.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.24,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]
