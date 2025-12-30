@@ -790,5 +790,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.814591052398242,
     "three_inst_ratio_change_20": -0.7045704037648655
+  },
+  {
+    "date": "2025-12-29",
+    "code": "5434",
+    "name": "崇越",
+    "market": "TWSE",
+    "foreign_ratio": 27.02,
+    "trust_ratio": 0.7670650443057764,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.787065044305777,
+    "three_inst_ratio_change_20": -0.6343959102038568
   }
 ]
