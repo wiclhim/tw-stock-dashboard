@@ -801,5 +801,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.23527941081977,
     "three_inst_ratio_change_20": -4.344985757831964
+  },
+  {
+    "date": "2025-12-30",
+    "code": "2481",
+    "name": "強茂",
+    "market": "TWSE",
+    "foreign_ratio": 7.98,
+    "trust_ratio": 10.03442872568022,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.01442872568022,
+    "three_inst_ratio_change_20": -5.095695670559344
   }
 ]

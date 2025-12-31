@@ -801,5 +801,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 78.21539250575393,
     "three_inst_ratio_change_20": 0.2680865006808659
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1590",
+    "name": "亞德客-KY",
+    "market": "TWSE",
+    "foreign_ratio": 77.67,
+    "trust_ratio": 0.575892505758925,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 78.24589250575893,
+    "three_inst_ratio_change_20": 0.29858650068587167
   }
 ]

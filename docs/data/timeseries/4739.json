@@ -801,5 +801,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.037311773239834,
     "three_inst_ratio_change_20": 0.17854204428347575
+  },
+  {
+    "date": "2025-12-30",
+    "code": "4739",
+    "name": "康普",
+    "market": "TWSE",
+    "foreign_ratio": 6.91,
+    "trust_ratio": 0.05646895304513001,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.96646895304513,
+    "three_inst_ratio_change_20": -0.022300775911228143
   }
 ]

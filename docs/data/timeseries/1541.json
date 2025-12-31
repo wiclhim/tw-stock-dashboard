@@ -693,6 +693,17 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
+    "date": "2025-12-22",
+    "code": "1541",
+    "name": "錩泰",
+    "market": "TWSE",
+    "foreign_ratio": 9.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.86,
+    "three_inst_ratio_change_20": -0.02000000000000135
+  },
+  {
     "date": "2025-12-23",
     "code": "1541",
     "name": "錩泰",
@@ -715,6 +726,17 @@
     "three_inst_ratio_change_20": -0.030000000000001137
   },
   {
+    "date": "2025-12-26",
+    "code": "1541",
+    "name": "錩泰",
+    "market": "TWSE",
+    "foreign_ratio": 9.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.85,
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
     "date": "2025-12-29",
     "code": "1541",
     "name": "錩泰",
@@ -723,6 +745,17 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.85,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1541",
+    "name": "錩泰",
+    "market": "TWSE",
+    "foreign_ratio": 9.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.85,
+    "three_inst_ratio_change_20": -0.019999999999999574
   }
 ]
