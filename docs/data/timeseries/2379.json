@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.41694054117288,
     "three_inst_ratio_change_20": -0.6206299012012977
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2379",
+    "name": "瑞昱",
+    "market": "TWSE",
+    "foreign_ratio": 45.66,
+    "trust_ratio": 1.6815832068024883,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 47.34158320680248,
+    "three_inst_ratio_change_20": -0.9417158348037873
   }
 ]

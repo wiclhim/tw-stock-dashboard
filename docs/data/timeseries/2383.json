@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.04167073852125,
     "three_inst_ratio_change_20": -0.3085510189603511
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2383",
+    "name": "台光電",
+    "market": "TWSE",
+    "foreign_ratio": 43.91,
+    "trust_ratio": 4.113431945550157,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.02343194555015,
+    "three_inst_ratio_change_20": -0.274257300885246
   }
 ]

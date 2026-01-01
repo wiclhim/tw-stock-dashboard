@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.38802246044352,
     "three_inst_ratio_change_20": -1.754156642340135
+  },
+  {
+    "date": "2025-12-31",
+    "code": "6285",
+    "name": "啟碁",
+    "market": "TWSE",
+    "foreign_ratio": 15.4,
+    "trust_ratio": 1.867491065138052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.267491065138053,
+    "three_inst_ratio_change_20": -1.8908910530546805
   }
 ]

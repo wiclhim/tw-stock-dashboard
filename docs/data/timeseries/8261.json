@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1487831993727076,
     "three_inst_ratio_change_20": -0.09925984439100866
+  },
+  {
+    "date": "2025-12-31",
+    "code": "8261",
+    "name": "富鼎",
+    "market": "TWSE",
+    "foreign_ratio": 2.79,
+    "trust_ratio": 0.4579413953371616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2479413953371616,
+    "three_inst_ratio_change_20": 0.05989835157344503
   }
 ]

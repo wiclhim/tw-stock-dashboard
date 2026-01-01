@@ -812,5 +812,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.659386982640068,
     "three_inst_ratio_change_20": -0.8313616063394225
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2492",
+    "name": "華新科",
+    "market": "TWSE",
+    "foreign_ratio": 9.03,
+    "trust_ratio": 1.7393869826400676,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.769386982640068,
+    "three_inst_ratio_change_20": -0.6599006052583594
   }
 ]
