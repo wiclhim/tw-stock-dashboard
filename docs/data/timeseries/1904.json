@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.5218826861383,
     "three_inst_ratio_change_20": -0.37302941341098617
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1904",
+    "name": "正隆",
+    "market": "TWSE",
+    "foreign_ratio": 8.66,
+    "trust_ratio": -0.18323248975672113,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.47676751024328,
+    "three_inst_ratio_change_20": -0.4168015105196119
   }
 ]

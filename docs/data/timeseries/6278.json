@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.541823764650275,
     "three_inst_ratio_change_20": -3.1377726917634163
+  },
+  {
+    "date": "2026-01-02",
+    "code": "6278",
+    "name": "台表科",
+    "market": "TWSE",
+    "foreign_ratio": 19.77,
+    "trust_ratio": 1.5200242937072905,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.29002429370729,
+    "three_inst_ratio_change_20": -3.4815079948141836
   }
 ]

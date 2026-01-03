@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.457655598463084,
     "three_inst_ratio_change_20": -0.8123544913569098
+  },
+  {
+    "date": "2026-01-02",
+    "code": "5388",
+    "name": "中磊",
+    "market": "TWSE",
+    "foreign_ratio": 23.4,
+    "trust_ratio": -0.28075201738982114,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.119247982610176,
+    "three_inst_ratio_change_20": -1.2107621072098205
   }
 ]

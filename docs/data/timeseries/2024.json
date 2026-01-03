@@ -473,6 +473,17 @@
     "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
+    "date": "2025-12-19",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.33,
+    "three_inst_ratio_change_20": -0.019999999999999962
+  },
+  {
     "date": "2025-12-23",
     "code": "2024",
     "name": "志聯",
@@ -492,10 +503,21 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.33,
-    "three_inst_ratio_change_20": -0.019999999999999962
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2025-12-30",
+    "code": "2024",
+    "name": "志聯",
+    "market": "TWSE",
+    "foreign_ratio": 0.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.33,
+    "three_inst_ratio_change_20": -0.010000000000000009
+  },
+  {
+    "date": "2026-01-02",
     "code": "2024",
     "name": "志聯",
     "market": "TWSE",

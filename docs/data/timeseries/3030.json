@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.319435601314053,
     "three_inst_ratio_change_20": 0.4005218952145526
+  },
+  {
+    "date": "2026-01-02",
+    "code": "3030",
+    "name": "德律",
+    "market": "TWSE",
+    "foreign_ratio": 18.41,
+    "trust_ratio": -5.030564398685948,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.379435601314052,
+    "three_inst_ratio_change_20": 0.4443892031022454
   }
 ]

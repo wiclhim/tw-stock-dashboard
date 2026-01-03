@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.149374344624055,
     "three_inst_ratio_change_20": 1.5671424046421434
+  },
+  {
+    "date": "2026-01-02",
+    "code": "5522",
+    "name": "遠雄",
+    "market": "TWSE",
+    "foreign_ratio": 4.94,
+    "trust_ratio": 0.2650651181931669,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.2050651181931675,
+    "three_inst_ratio_change_20": 1.5828331782112555
   }
 ]

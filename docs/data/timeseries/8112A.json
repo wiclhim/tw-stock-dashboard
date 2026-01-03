@@ -165,14 +165,25 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2025-12-19",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.53,
+    "trust_ratio": 0.17666666666666667,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.706666666666665,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
     "date": "2025-12-22",
     "code": "8112A",
     "name": "至上甲特",
     "market": "TWSE",
     "foreign_ratio": 11.53,
-    "trust_ratio": 0.22333333333333333,
+    "trust_ratio": 0.22666666666666668,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.753333333333332,
+    "three_inst_ratio": 11.756666666666666,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -181,9 +192,9 @@
     "name": "至上甲特",
     "market": "TWSE",
     "foreign_ratio": 11.53,
-    "trust_ratio": 0.25666666666666665,
+    "trust_ratio": 0.26,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.786666666666665,
+    "three_inst_ratio": 11.79,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -192,9 +203,9 @@
     "name": "至上甲特",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 0.25666666666666665,
+    "trust_ratio": 0.26,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.766666666666666,
+    "three_inst_ratio": 11.77,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -203,9 +214,9 @@
     "name": "至上甲特",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 0.4233333333333334,
+    "trust_ratio": 0.4266666666666667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.933333333333334,
+    "three_inst_ratio": 11.936666666666666,
     "three_inst_ratio_change_20": 0.0
   },
   {
@@ -214,9 +225,9 @@
     "name": "至上甲特",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 0.47333333333333333,
+    "trust_ratio": 0.4766666666666666,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.983333333333333,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 11.986666666666666,
+    "three_inst_ratio_change_20": 11.986666666666666
   }
 ]

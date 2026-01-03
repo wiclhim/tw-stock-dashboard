@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.802482970924785,
     "three_inst_ratio_change_20": -0.020167128173490312
+  },
+  {
+    "date": "2026-01-02",
+    "code": "2891",
+    "name": "中信金",
+    "market": "TWSE",
+    "foreign_ratio": 33.98,
+    "trust_ratio": -1.15028829701418,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.82971170298582,
+    "three_inst_ratio_change_20": 0.061624076629449576
   }
 ]

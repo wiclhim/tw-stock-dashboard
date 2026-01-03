@@ -823,5 +823,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.123610247192026,
     "three_inst_ratio_change_20": -0.26206228738736215
+  },
+  {
+    "date": "2026-01-02",
+    "code": "5269",
+    "name": "祥碩",
+    "market": "TWSE",
+    "foreign_ratio": 13.98,
+    "trust_ratio": 1.514072571574659,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.494072571574659,
+    "three_inst_ratio_change_20": -0.9129372702982508
   }
 ]
