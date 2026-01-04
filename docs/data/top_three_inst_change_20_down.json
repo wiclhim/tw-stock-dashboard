@@ -1316,17 +1316,17 @@
     "change": -0.8300000000000001
   },
   {
-    "code": "2031",
-    "name": "新光鋼",
-    "market": "TWSE",
-    "three_inst_ratio": 8.798566112450274,
-    "change": -0.8200000000000003
-  },
-  {
     "code": "1721",
     "name": "三晃",
     "market": "TWSE",
     "three_inst_ratio": 2.17,
+    "change": -0.8200000000000003
+  },
+  {
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "three_inst_ratio": 8.798566112450274,
     "change": -0.8200000000000003
   },
   {

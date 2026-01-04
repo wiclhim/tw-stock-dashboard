@@ -910,17 +910,17 @@
     "change": -0.46000000000000085
   },
   {
-    "code": "00875",
-    "name": "國泰網路資安",
-    "market": "TWSE",
-    "three_inst_ratio": 2.27,
-    "change": -0.45999999999999996
-  },
-  {
     "code": "2101",
     "name": "南港",
     "market": "TWSE",
     "three_inst_ratio": 5.470005177570898,
+    "change": -0.45999999999999996
+  },
+  {
+    "code": "00875",
+    "name": "國泰網路資安",
+    "market": "TWSE",
+    "three_inst_ratio": 2.27,
     "change": -0.45999999999999996
   },
   {
@@ -1288,17 +1288,17 @@
     "change": -0.3011010790574762
   },
   {
-    "code": "1313",
-    "name": "聯成",
-    "market": "TWSE",
-    "three_inst_ratio": 7.16,
-    "change": -0.2999999999999998
-  },
-  {
     "code": "00647L",
     "name": "元大S&P500正2",
     "market": "TWSE",
     "three_inst_ratio": 4.0621283979178715,
+    "change": -0.2999999999999998
+  },
+  {
+    "code": "1313",
+    "name": "聯成",
+    "market": "TWSE",
+    "three_inst_ratio": 7.16,
     "change": -0.2999999999999998
   },
   {

@@ -658,17 +658,17 @@
     "change": 0.7134897658311203
   },
   {
-    "code": "00891",
-    "name": "中信關鍵半導體",
-    "market": "TWSE",
-    "three_inst_ratio": 1.98,
-    "change": 0.71
-  },
-  {
     "code": "00952",
     "name": "凱基台灣AI50",
     "market": "TWSE",
     "three_inst_ratio": 2.91,
+    "change": 0.71
+  },
+  {
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "market": "TWSE",
+    "three_inst_ratio": 1.98,
     "change": 0.71
   },
   {
@@ -833,17 +833,17 @@
     "change": 0.5499999999999998
   },
   {
-    "code": "2413",
-    "name": "環科",
-    "market": "TWSE",
-    "three_inst_ratio": 3.7,
-    "change": 0.54
-  },
-  {
     "code": "00954",
     "name": "中信日本半導體",
     "market": "TWSE",
     "three_inst_ratio": 1.62,
+    "change": 0.54
+  },
+  {
+    "code": "2413",
+    "name": "環科",
+    "market": "TWSE",
+    "three_inst_ratio": 3.7,
     "change": 0.54
   },
   {
@@ -917,17 +917,17 @@
     "change": 0.505982139268891
   },
   {
-    "code": "6756",
-    "name": "威鋒電子",
-    "market": "TWSE",
-    "three_inst_ratio": 3.004312703956032,
-    "change": 0.5
-  },
-  {
     "code": "3437",
     "name": "榮創",
     "market": "TWSE",
     "three_inst_ratio": 5.58,
+    "change": 0.5
+  },
+  {
+    "code": "6756",
+    "name": "威鋒電子",
+    "market": "TWSE",
+    "three_inst_ratio": 3.004312703956032,
     "change": 0.5
   },
   {
@@ -1015,17 +1015,17 @@
     "change": 0.45000000000000107
   },
   {
-    "code": "00762",
-    "name": "元大全球AI",
-    "market": "TWSE",
-    "three_inst_ratio": 3.4571577847439916,
-    "change": 0.4500000000000002
-  },
-  {
     "code": "00908",
     "name": "富邦入息REITs+",
     "market": "TWSE",
     "three_inst_ratio": 2.46,
+    "change": 0.4500000000000002
+  },
+  {
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "three_inst_ratio": 3.4571577847439916,
     "change": 0.4500000000000002
   },
   {
@@ -1134,17 +1134,17 @@
     "change": 0.40000000000000036
   },
   {
-    "code": "2349",
-    "name": "錸德",
-    "market": "TWSE",
-    "three_inst_ratio": 12.35,
-    "change": 0.40000000000000036
-  },
-  {
     "code": "2836",
     "name": "高雄銀",
     "market": "TWSE",
     "three_inst_ratio": 7.990108700556401,
+    "change": 0.40000000000000036
+  },
+  {
+    "code": "2349",
+    "name": "錸德",
+    "market": "TWSE",
+    "three_inst_ratio": 12.35,
     "change": 0.40000000000000036
   },
   {
@@ -1176,13 +1176,6 @@
     "change": 0.39000000000000057
   },
   {
-    "code": "00651R",
-    "name": "復華香港反1",
-    "market": "TWSE",
-    "three_inst_ratio": 2.52,
-    "change": 0.3900000000000001
-  },
-  {
     "code": "00753L",
     "name": "中信中國50正2",
     "market": "TWSE",
@@ -1190,17 +1183,24 @@
     "change": 0.3900000000000001
   },
   {
-    "code": "4142",
-    "name": "國光生",
+    "code": "00651R",
+    "name": "復華香港反1",
     "market": "TWSE",
-    "three_inst_ratio": 5.84,
-    "change": 0.3899999999999997
+    "three_inst_ratio": 2.52,
+    "change": 0.3900000000000001
   },
   {
     "code": "6416",
     "name": "瑞祺電通",
     "market": "TWSE",
     "three_inst_ratio": 3.59,
+    "change": 0.3899999999999997
+  },
+  {
+    "code": "4142",
+    "name": "國光生",
+    "market": "TWSE",
+    "three_inst_ratio": 5.84,
     "change": 0.3899999999999997
   },
   {
@@ -1211,17 +1211,17 @@
     "change": 0.3886155804168965
   },
   {
-    "code": "3588",
-    "name": "通嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 2.29,
-    "change": 0.3800000000000001
-  },
-  {
     "code": "00739",
     "name": "元大MSCI A股",
     "market": "TWSE",
     "three_inst_ratio": 1.37,
+    "change": 0.3800000000000001
+  },
+  {
+    "code": "3588",
+    "name": "通嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 2.29,
     "change": 0.3800000000000001
   },
   {
