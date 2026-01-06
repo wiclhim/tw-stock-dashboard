@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.858956012642169,
     "three_inst_ratio_change_20": 0.11999999999999966
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6184",
+    "name": "大豐電",
+    "market": "TWSE",
+    "foreign_ratio": 2.77,
+    "trust_ratio": 0.018956012642169225,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7889560126421693,
+    "three_inst_ratio_change_20": 0.04999999999999982
   }
 ]

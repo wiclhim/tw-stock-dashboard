@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.579762831119938,
     "three_inst_ratio_change_20": -1.4646774414854296
+  },
+  {
+    "date": "2026-01-05",
+    "code": "8039",
+    "name": "台虹",
+    "market": "TWSE",
+    "foreign_ratio": 13.47,
+    "trust_ratio": 0.3635286843360388,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.83352868433604,
+    "three_inst_ratio_change_20": -2.7435085389634484
   }
 ]

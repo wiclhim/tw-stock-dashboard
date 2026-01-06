@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.905747177486837,
     "three_inst_ratio_change_20": 0.06839081347597187
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2597",
+    "name": "潤弘",
+    "market": "TWSE",
+    "foreign_ratio": 3.78,
+    "trust_ratio": 0.1651035028772255,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.945103502877225,
+    "three_inst_ratio_change_20": 0.10774713886636
   }
 ]

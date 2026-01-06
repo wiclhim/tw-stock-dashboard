@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.686855477560506,
     "three_inst_ratio_change_20": -0.781330171960624
+  },
+  {
+    "date": "2026-01-05",
+    "code": "9933",
+    "name": "中鼎",
+    "market": "TWSE",
+    "foreign_ratio": 8.59,
+    "trust_ratio": 0.172404822959071,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.762404822959072,
+    "three_inst_ratio_change_20": -0.5420553820208411
   }
 ]

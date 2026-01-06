@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.736034162193231,
     "three_inst_ratio_change_20": 0.21964828746348353
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1316",
+    "name": "上曜",
+    "market": "TWSE",
+    "foreign_ratio": 4.95,
+    "trust_ratio": 0.28004106546156315,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.230041065461563,
+    "three_inst_ratio_change_20": -0.32634480926818465
   }
 ]

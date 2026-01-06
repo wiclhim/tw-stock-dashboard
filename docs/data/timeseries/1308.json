@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.75,
     "three_inst_ratio_change_20": -0.15000000000000036
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "foreign_ratio": 4.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.76,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

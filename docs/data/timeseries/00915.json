@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4182633402285559,
     "three_inst_ratio_change_20": 0.032537892279205005
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00915",
+    "name": "凱基優選高股息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.57,
+    "trust_ratio": 0.0483566944524233,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6183566944524233,
+    "three_inst_ratio_change_20": 0.2223789642258358
   }
 ]

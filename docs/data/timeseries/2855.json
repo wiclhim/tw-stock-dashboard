@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.166286540266935,
     "three_inst_ratio_change_20": -0.6815705686157791
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2855",
+    "name": "統一證",
+    "market": "TWSE",
+    "foreign_ratio": 9.97,
+    "trust_ratio": 0.30303941088760405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.273039410887606,
+    "three_inst_ratio_change_20": -0.7983770513532207
   }
 ]

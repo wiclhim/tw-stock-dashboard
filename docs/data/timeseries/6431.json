@@ -801,5 +801,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 56.7,
     "three_inst_ratio_change_20": -0.02999999999999403
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6431",
+    "name": "光麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 56.75,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 56.75,
+    "three_inst_ratio_change_20": 0.03999999999999915
   }
 ]

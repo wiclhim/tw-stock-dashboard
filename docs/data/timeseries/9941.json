@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.844161885809761,
     "three_inst_ratio_change_20": -0.8140382098110246
+  },
+  {
+    "date": "2026-01-05",
+    "code": "9941",
+    "name": "裕融",
+    "market": "TWSE",
+    "foreign_ratio": 5.58,
+    "trust_ratio": 0.29401027432690985,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.87401027432691,
+    "three_inst_ratio_change_20": -0.7855795876030385
   }
 ]

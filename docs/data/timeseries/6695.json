@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.72,
     "three_inst_ratio_change_20": 0.47
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6695",
+    "name": "芯鼎",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.53,
+    "three_inst_ratio_change_20": 0.40000000000000013
   }
 ]

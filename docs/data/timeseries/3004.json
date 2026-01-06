@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9457318778092523,
     "three_inst_ratio_change_20": 0.4415858362905718
+  },
+  {
+    "date": "2026-01-05",
+    "code": "3004",
+    "name": "豐達科",
+    "market": "TWSE",
+    "foreign_ratio": 3.62,
+    "trust_ratio": -0.9042681221907476,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.7157318778092527,
+    "three_inst_ratio_change_20": 0.6213509590869855
   }
 ]

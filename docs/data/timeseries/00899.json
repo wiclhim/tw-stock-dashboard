@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.48,
     "three_inst_ratio_change_20": 0.08999999999999997
+  },
+  {
+    "date": "2026-01-05",
+    "code": "00899",
+    "name": "FT潔淨能源",
+    "market": "TWSE",
+    "foreign_ratio": 0.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.61,
+    "three_inst_ratio_change_20": 0.21999999999999997
   }
 ]

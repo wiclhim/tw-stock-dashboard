@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.370731539987062,
     "three_inst_ratio_change_20": -0.9992684600129369
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2331",
+    "name": "精英",
+    "market": "TWSE",
+    "foreign_ratio": 8.11,
+    "trust_ratio": 0.15249290886445369,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.262492908864454,
+    "three_inst_ratio_change_20": -1.2575070911355457
   }
 ]
