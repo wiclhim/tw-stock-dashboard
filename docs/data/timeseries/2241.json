@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.11,
     "three_inst_ratio_change_20": -0.620000000000001
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2241",
+    "name": "艾姆勒",
+    "market": "TWSE",
+    "foreign_ratio": 10.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.61,
+    "three_inst_ratio_change_20": -0.9000000000000004
   }
 ]

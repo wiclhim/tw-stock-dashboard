@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.11,
     "three_inst_ratio_change_20": -0.33999999999999986
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6776",
+    "name": "展碁國際",
+    "market": "TWSE",
+    "foreign_ratio": 1.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.29,
+    "three_inst_ratio_change_20": -0.10999999999999988
   }
 ]

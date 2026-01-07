@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 53.511779683686804,
     "three_inst_ratio_change_20": -0.24003917102950112
+  },
+  {
+    "date": "2026-01-06",
+    "code": "5876",
+    "name": "上海商銀",
+    "market": "TWSE",
+    "foreign_ratio": 54.92,
+    "trust_ratio": -1.463710240239807,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 53.456289759760196,
+    "three_inst_ratio_change_20": -0.25355443768287245
   }
 ]

@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.1,
     "three_inst_ratio_change_20": 0.34999999999999964
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2478",
+    "name": "大毅",
+    "market": "TWSE",
+    "foreign_ratio": 10.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.16,
+    "three_inst_ratio_change_20": 0.3000000000000007
   }
 ]

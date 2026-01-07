@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.240633883633784,
     "three_inst_ratio_change_20": -3.4234439007977144
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6191",
+    "name": "精成科",
+    "market": "TWSE",
+    "foreign_ratio": 7.78,
+    "trust_ratio": 7.402236117147304,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.182236117147305,
+    "three_inst_ratio_change_20": -3.2218416672841954
   }
 ]

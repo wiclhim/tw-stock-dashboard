@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.89712613717846,
     "three_inst_ratio_change_20": -2.030000000000001
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6533",
+    "name": "晶心科",
+    "market": "TWSE",
+    "foreign_ratio": 15.13,
+    "trust_ratio": 0.06712613717846062,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.197126137178461,
+    "three_inst_ratio_change_20": -1.5300000000000011
   }
 ]

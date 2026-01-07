@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.152204476501781,
     "three_inst_ratio_change_20": -1.1268383178925507
+  },
+  {
+    "date": "2026-01-06",
+    "code": "4906",
+    "name": "正文",
+    "market": "TWSE",
+    "foreign_ratio": 13.58,
+    "trust_ratio": 0.5283961920607461,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.108396192060747,
+    "three_inst_ratio_change_20": -1.220646602333586
   }
 ]

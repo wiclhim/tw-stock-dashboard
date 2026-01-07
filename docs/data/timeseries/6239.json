@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 35.99543351333624,
     "three_inst_ratio_change_20": -0.6890271247649409
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6239",
+    "name": "力成",
+    "market": "TWSE",
+    "foreign_ratio": 38.33,
+    "trust_ratio": -1.7081473353407504,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 36.62185266465925,
+    "three_inst_ratio_change_20": -0.30518630496884924
   }
 ]

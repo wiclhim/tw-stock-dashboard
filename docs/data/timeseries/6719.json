@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.927367255552044,
     "three_inst_ratio_change_20": -0.4013865724356922
+  },
+  {
+    "date": "2026-01-06",
+    "code": "6719",
+    "name": "力智",
+    "market": "TWSE",
+    "foreign_ratio": 8.73,
+    "trust_ratio": 0.1945206124431192,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.92452061244312,
+    "three_inst_ratio_change_20": -0.3442332155446177
   }
 ]

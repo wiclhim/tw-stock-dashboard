@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.877986477871024,
     "three_inst_ratio_change_20": -3.6554622642161423
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2439",
+    "name": "美律",
+    "market": "TWSE",
+    "foreign_ratio": 16.94,
+    "trust_ratio": -2.9251257843466467,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.014874215653354,
+    "three_inst_ratio_change_20": -3.507985701304424
   }
 ]

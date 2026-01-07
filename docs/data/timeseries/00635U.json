@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.31,
     "three_inst_ratio_change_20": 2.9399999999999995
+  },
+  {
+    "date": "2026-01-06",
+    "code": "00635U",
+    "name": "期元大S&P黃金",
+    "market": "TWSE",
+    "foreign_ratio": 16.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.32,
+    "three_inst_ratio_change_20": 2.8900000000000006
   }
 ]

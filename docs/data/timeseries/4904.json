@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.725110920937727,
     "three_inst_ratio_change_20": -0.4490625194740865
+  },
+  {
+    "date": "2026-01-06",
+    "code": "4904",
+    "name": "遠傳",
+    "market": "TWSE",
+    "foreign_ratio": 20.74,
+    "trust_ratio": -0.02905346916861167,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.710946530831386,
+    "three_inst_ratio_change_20": -0.38390834450833466
   }
 ]

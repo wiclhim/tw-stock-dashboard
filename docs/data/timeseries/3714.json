@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.699438756346279,
     "three_inst_ratio_change_20": -1.0399999999999991
+  },
+  {
+    "date": "2026-01-06",
+    "code": "3714",
+    "name": "富采",
+    "market": "TWSE",
+    "foreign_ratio": 12.51,
+    "trust_ratio": 0.1394387563462776,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.649438756346278,
+    "three_inst_ratio_change_20": -1.08
   }
 ]

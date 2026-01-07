@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.241390837310274,
     "three_inst_ratio_change_20": -0.2792214967632809
+  },
+  {
+    "date": "2026-01-06",
+    "code": "9907",
+    "name": "統一實",
+    "market": "TWSE",
+    "foreign_ratio": 17.2,
+    "trust_ratio": 3.0231682119605683,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.22316821196057,
+    "three_inst_ratio_change_20": -0.23124364571630096
   }
 ]

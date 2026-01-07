@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.18849022161262,
     "three_inst_ratio_change_20": 12.477903360562877
+  },
+  {
+    "date": "2026-01-06",
+    "code": "3006",
+    "name": "晶豪科",
+    "market": "TWSE",
+    "foreign_ratio": 29.48,
+    "trust_ratio": 0.06849022161262197,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.54849022161262,
+    "three_inst_ratio_change_20": 12.797903360562877
   }
 ]
