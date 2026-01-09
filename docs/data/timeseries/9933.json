@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.759156226188205,
     "three_inst_ratio_change_20": -0.5489616462644573
+  },
+  {
+    "date": "2026-01-07",
+    "code": "9933",
+    "name": "中鼎",
+    "market": "TWSE",
+    "foreign_ratio": 8.69,
+    "trust_ratio": 0.16579560883903482,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.855795608839035,
+    "three_inst_ratio_change_20": -0.43321842824007106
+  },
+  {
+    "date": "2026-01-08",
+    "code": "9933",
+    "name": "中鼎",
+    "market": "TWSE",
+    "foreign_ratio": 8.73,
+    "trust_ratio": 0.16478742363428353,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.894787423634284,
+    "three_inst_ratio_change_20": -0.3342266134448231
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.55,
     "three_inst_ratio_change_20": -2.55
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "market": "TWSE",
+    "foreign_ratio": 3.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.58,
+    "three_inst_ratio_change_20": -2.6799999999999997
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "market": "TWSE",
+    "foreign_ratio": 4.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.63,
+    "three_inst_ratio_change_20": -2.0
   }
 ]

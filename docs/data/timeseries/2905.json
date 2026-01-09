@@ -845,5 +845,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.05,
     "three_inst_ratio_change_20": -0.1900000000000004
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 4.03,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.03,
+    "three_inst_ratio_change_20": -0.1899999999999995
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2905",
+    "name": "三商",
+    "market": "TWSE",
+    "foreign_ratio": 4.05,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.05,
+    "three_inst_ratio_change_20": -0.20999999999999996
   }
 ]

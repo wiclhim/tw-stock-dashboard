@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.83,
     "three_inst_ratio_change_20": -1.06
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "market": "TWSE",
+    "foreign_ratio": 1.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.15,
+    "three_inst_ratio_change_20": -0.6600000000000001
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.16,
+    "three_inst_ratio_change_20": -0.6500000000000001
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8095697171755745,
     "three_inst_ratio_change_20": 0.08622972565258669
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00710B",
+    "name": "復華彭博非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 9.63,
+    "trust_ratio": 0.4895697171755744,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.119569717175576,
+    "three_inst_ratio_change_20": 9.317511264766205
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00710B",
+    "name": "復華彭博非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 1.12,
+    "trust_ratio": 0.5368810432672433,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6568810432672434,
+    "three_inst_ratio_change_20": 0.8730298392395385
   }
 ]

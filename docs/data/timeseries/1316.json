@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.085954863144517,
     "three_inst_ratio_change_20": -0.4204310115852312
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1316",
+    "name": "上曜",
+    "market": "TWSE",
+    "foreign_ratio": 4.76,
+    "trust_ratio": 0.27186866082747085,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.03186866082747,
+    "three_inst_ratio_change_20": -0.29369997343886833
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1316",
+    "name": "上曜",
+    "market": "TWSE",
+    "foreign_ratio": 4.75,
+    "trust_ratio": 0.27105142036406166,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.021051420364062,
+    "three_inst_ratio_change_20": -0.46342755995106444
   }
 ]

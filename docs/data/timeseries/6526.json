@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.055359825621066,
     "three_inst_ratio_change_20": -0.3837322142763089
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6526",
+    "name": "達發",
+    "market": "TWSE",
+    "foreign_ratio": 6.73,
+    "trust_ratio": 0.3450972139108892,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.075097213910889,
+    "three_inst_ratio_change_20": -0.34981586007589893
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6526",
+    "name": "達發",
+    "market": "TWSE",
+    "foreign_ratio": 6.7,
+    "trust_ratio": 0.3450972139108892,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.045097213910889,
+    "three_inst_ratio_change_20": -0.3974278795555639
   }
 ]

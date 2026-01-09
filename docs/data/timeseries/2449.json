@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.6575650059565,
     "three_inst_ratio_change_20": -0.8992994821860094
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2449",
+    "name": "京元電子",
+    "market": "TWSE",
+    "foreign_ratio": 32.3,
+    "trust_ratio": 4.977926613018062,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.27792661301806,
+    "three_inst_ratio_change_20": -1.9018736433420003
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2449",
+    "name": "京元電子",
+    "market": "TWSE",
+    "foreign_ratio": 32.54,
+    "trust_ratio": 4.835823401994266,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.37582340199427,
+    "three_inst_ratio_change_20": -1.8250240021618822
   }
 ]

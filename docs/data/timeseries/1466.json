@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.33,
     "three_inst_ratio_change_20": -0.19999999999999996
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1466",
+    "name": "聚隆",
+    "market": "TWSE",
+    "foreign_ratio": 1.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.36,
+    "three_inst_ratio_change_20": -0.17999999999999994
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1466",
+    "name": "聚隆",
+    "market": "TWSE",
+    "foreign_ratio": 1.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.35,
+    "three_inst_ratio_change_20": -0.18999999999999995
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.323550412732672,
     "three_inst_ratio_change_20": -1.5685199346137821
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2474",
+    "name": "可成",
+    "market": "TWSE",
+    "foreign_ratio": 23.57,
+    "trust_ratio": -2.4151226624566218,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.15487733754338,
+    "three_inst_ratio_change_20": -1.5266803832573608
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2474",
+    "name": "可成",
+    "market": "TWSE",
+    "foreign_ratio": 23.22,
+    "trust_ratio": -2.548930324695853,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.671069675304146,
+    "three_inst_ratio_change_20": -1.8564483881698628
   }
 ]

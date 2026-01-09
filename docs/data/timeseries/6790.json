@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6294771259615404,
     "three_inst_ratio_change_20": -0.0611230528187352
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6194771259615404,
+    "three_inst_ratio_change_20": -0.07112305281873521
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 1.4,
+    "trust_ratio": 0.22947712596154052,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6294771259615404,
+    "three_inst_ratio_change_20": -0.0611230528187352
   }
 ]

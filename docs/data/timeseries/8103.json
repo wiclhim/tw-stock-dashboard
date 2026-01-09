@@ -779,5 +779,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.65260888162885,
     "three_inst_ratio_change_20": -1.3592813896800386
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "foreign_ratio": 19.13,
+    "trust_ratio": 0.5522926897292721,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.68229268972927,
+    "three_inst_ratio_change_20": -1.573460570502796
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8103",
+    "name": "瀚荃",
+    "market": "TWSE",
+    "foreign_ratio": 19.74,
+    "trust_ratio": 0.5522926897292721,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.29229268972927,
+    "three_inst_ratio_change_20": -1.2534605705027957
   }
 ]

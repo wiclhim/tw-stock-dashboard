@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0504843759077507,
     "three_inst_ratio_change_20": 0.010000000000000009
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "foreign_ratio": 1.27,
+    "trust_ratio": 0.00048437590775072463,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.2704843759077507,
+    "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2464",
+    "name": "盟立",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.00048437590775072463,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1604843759077506,
+    "three_inst_ratio_change_20": -0.09000000000000008
   }
 ]

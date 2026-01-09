@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.3468960257145,
     "three_inst_ratio_change_20": 0.559879855230804
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2327",
+    "name": "國巨*",
+    "market": "TWSE",
+    "foreign_ratio": 46.83,
+    "trust_ratio": 2.0388388265851867,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.86883882658518,
+    "three_inst_ratio_change_20": 1.1792866681226783
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2327",
+    "name": "國巨*",
+    "market": "TWSE",
+    "foreign_ratio": 46.42,
+    "trust_ratio": 2.059845926451407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.47984592645141,
+    "three_inst_ratio_change_20": 0.6296894164902369
   }
 ]

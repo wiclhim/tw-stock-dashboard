@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.79,
     "three_inst_ratio_change_20": -0.05000000000000071
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.78,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.78,
+    "three_inst_ratio_change_20": -0.07000000000000028
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2243",
+    "name": "宏旭-KY",
+    "market": "TWSE",
+    "foreign_ratio": 24.72,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.72,
+    "three_inst_ratio_change_20": -0.22000000000000242
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.03383736809328,
     "three_inst_ratio_change_20": 2.824735997452251
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2887",
+    "name": "台新新光金",
+    "market": "TWSE",
+    "foreign_ratio": 21.92,
+    "trust_ratio": 5.127814840444031,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.047814840444033,
+    "three_inst_ratio_change_20": 2.854457775549843
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2887",
+    "name": "台新新光金",
+    "market": "TWSE",
+    "foreign_ratio": 21.94,
+    "trust_ratio": 5.115380390359799,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.0553803903598,
+    "three_inst_ratio_change_20": 2.774476434958295
   }
 ]

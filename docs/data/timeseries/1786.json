@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.62,
     "three_inst_ratio_change_20": -0.6599999999999997
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "foreign_ratio": 2.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.76,
+    "three_inst_ratio_change_20": -0.5700000000000003
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1786",
+    "name": "科妍",
+    "market": "TWSE",
+    "foreign_ratio": 2.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.57,
+    "three_inst_ratio_change_20": -0.9500000000000002
   }
 ]

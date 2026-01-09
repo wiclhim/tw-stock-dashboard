@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4656480902517464,
     "three_inst_ratio_change_20": -3.4656986980689544
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6197",
+    "name": "佳必琪",
+    "market": "TWSE",
+    "foreign_ratio": 5.01,
+    "trust_ratio": -2.9036936473948725,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1063063526051273,
+    "three_inst_ratio_change_20": -3.5750404357155734
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6197",
+    "name": "佳必琪",
+    "market": "TWSE",
+    "foreign_ratio": 5.23,
+    "trust_ratio": -2.9036936473948725,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.326306352605128,
+    "three_inst_ratio_change_20": -3.3250404357155716
   }
 ]

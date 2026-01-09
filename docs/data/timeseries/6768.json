@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 59.27613607739173,
     "three_inst_ratio_change_20": -1.0025632114427907
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6768",
+    "name": "志強-KY",
+    "market": "TWSE",
+    "foreign_ratio": 59.37,
+    "trust_ratio": -0.186723749268354,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.183276250731645,
+    "three_inst_ratio_change_20": -1.1214249384196435
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6768",
+    "name": "志強-KY",
+    "market": "TWSE",
+    "foreign_ratio": 59.38,
+    "trust_ratio": -0.33783592489571745,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.04216407510428,
+    "three_inst_ratio_change_20": -1.1813541763032305
   }
 ]

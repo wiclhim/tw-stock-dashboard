@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.140738901070364,
     "three_inst_ratio_change_20": -0.08784017644419428
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2388",
+    "name": "威盛",
+    "market": "TWSE",
+    "foreign_ratio": 12.92,
+    "trust_ratio": 0.07073890107036374,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.990738901070364,
+    "three_inst_ratio_change_20": -0.5778401764441945
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2388",
+    "name": "威盛",
+    "market": "TWSE",
+    "foreign_ratio": 12.78,
+    "trust_ratio": 0.07091888636668095,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.85091888636668,
+    "three_inst_ratio_change_20": -1.0976601911478792
   }
 ]

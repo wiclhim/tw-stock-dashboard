@@ -801,5 +801,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.460388692579505,
     "three_inst_ratio_change_20": -0.3690085878321083
+  },
+  {
+    "date": "2026-01-07",
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.93,
+    "trust_ratio": 1.1962395140295055,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1262395140295056,
+    "three_inst_ratio_change_20": -0.3902891715187877
+  },
+  {
+    "date": "2026-01-08",
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "foreign_ratio": 1.11,
+    "trust_ratio": 1.7595067393174648,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.869506739317465,
+    "three_inst_ratio_change_20": 0.8225657733067315
   }
 ]

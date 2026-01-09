@@ -757,5 +757,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.33,
     "three_inst_ratio_change_20": -0.10999999999999999
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6771",
+    "name": "平和環保-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.28,
+    "three_inst_ratio_change_20": -0.14999999999999997
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6771",
+    "name": "平和環保-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.29,
+    "three_inst_ratio_change_20": -0.11000000000000004
   }
 ]

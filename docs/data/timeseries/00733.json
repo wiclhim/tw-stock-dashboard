@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.107904418820959,
     "three_inst_ratio_change_20": 1.2427974761082723
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00733",
+    "name": "富邦臺灣中小",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": 0.18057033251914345,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5805703325191436,
+    "three_inst_ratio_change_20": 1.7048958793823281
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00733",
+    "name": "富邦臺灣中小",
+    "market": "TWSE",
+    "foreign_ratio": 2.43,
+    "trust_ratio": 0.18124934193703654,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.611249341937037,
+    "three_inst_ratio_change_20": 0.7250034635931493
   }
 ]

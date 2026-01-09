@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.985771085582456,
     "three_inst_ratio_change_20": -0.15357282101883385
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3044",
+    "name": "健鼎",
+    "market": "TWSE",
+    "foreign_ratio": 45.29,
+    "trust_ratio": -2.3449957557363637,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.945004244263636,
+    "three_inst_ratio_change_20": -0.0813791571646334
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3044",
+    "name": "健鼎",
+    "market": "TWSE",
+    "foreign_ratio": 45.36,
+    "trust_ratio": -2.350893710861669,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 43.00910628913833,
+    "three_inst_ratio_change_20": -0.004028314765982088
   }
 ]

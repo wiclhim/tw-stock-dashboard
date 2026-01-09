@@ -471,5 +471,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.09,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-01-07",
+    "code": "7730",
+    "name": "暉盛-創",
+    "market": "TWSE",
+    "foreign_ratio": 1.12,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.12,
+    "three_inst_ratio_change_20": 0.07000000000000006
+  },
+  {
+    "date": "2026-01-08",
+    "code": "7730",
+    "name": "暉盛-創",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.16,
+    "three_inst_ratio_change_20": 0.07999999999999985
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.075931674557903,
     "three_inst_ratio_change_20": -0.40000000000000036
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2247",
+    "name": "汎德永業",
+    "market": "TWSE",
+    "foreign_ratio": 4.03,
+    "trust_ratio": 0.03593167455790256,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.065931674557903,
+    "three_inst_ratio_change_20": -0.3799999999999999
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2247",
+    "name": "汎德永業",
+    "market": "TWSE",
+    "foreign_ratio": 3.99,
+    "trust_ratio": 0.03593167455790256,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.025931674557903,
+    "three_inst_ratio_change_20": -0.45999999999999996
   }
 ]

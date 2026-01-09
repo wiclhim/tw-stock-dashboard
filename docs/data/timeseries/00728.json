@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.17,
     "three_inst_ratio_change_20": 1.27
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "foreign_ratio": 2.38,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.38,
+    "three_inst_ratio_change_20": 1.42
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00728",
+    "name": "第一金工業30",
+    "market": "TWSE",
+    "foreign_ratio": 2.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.31,
+    "three_inst_ratio_change_20": 1.35
   }
 ]

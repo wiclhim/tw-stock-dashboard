@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.235301974783198,
     "three_inst_ratio_change_20": 0.17866765764636838
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1342",
+    "name": "八貫",
+    "market": "TWSE",
+    "foreign_ratio": 27.08,
+    "trust_ratio": 0.16530197478319636,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.245301974783196,
+    "three_inst_ratio_change_20": 0.15866765764636526
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1342",
+    "name": "八貫",
+    "market": "TWSE",
+    "foreign_ratio": 27.06,
+    "trust_ratio": 0.16530197478319636,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.225301974783196,
+    "three_inst_ratio_change_20": 0.34999999999999787
   }
 ]

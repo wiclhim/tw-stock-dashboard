@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.182339447166996,
     "three_inst_ratio_change_20": -1.9584922632754953
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2385",
+    "name": "群光",
+    "market": "TWSE",
+    "foreign_ratio": 19.23,
+    "trust_ratio": -2.015081386963806,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.214918613036193,
+    "three_inst_ratio_change_20": -1.8037364075891276
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2385",
+    "name": "群光",
+    "market": "TWSE",
+    "foreign_ratio": 19.24,
+    "trust_ratio": -2.124236250144878,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.11576374985512,
+    "three_inst_ratio_change_20": -1.8103963073783476
   }
 ]

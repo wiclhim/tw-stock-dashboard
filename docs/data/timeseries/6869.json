@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.291102061124686,
     "three_inst_ratio_change_20": -0.4099999999999997
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6869",
+    "name": "雲豹能源",
+    "market": "TWSE",
+    "foreign_ratio": 2.07,
+    "trust_ratio": 0.07110206112468616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.141102061124686,
+    "three_inst_ratio_change_20": -0.3600000000000003
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6869",
+    "name": "雲豹能源",
+    "market": "TWSE",
+    "foreign_ratio": 2.08,
+    "trust_ratio": 0.07110206112468616,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.151102061124686,
+    "three_inst_ratio_change_20": -0.18999999999999995
   }
 ]

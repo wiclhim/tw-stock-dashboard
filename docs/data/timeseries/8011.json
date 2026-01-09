@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.06,
     "three_inst_ratio_change_20": 0.15999999999999925
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8011",
+    "name": "台通",
+    "market": "TWSE",
+    "foreign_ratio": 5.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.27,
+    "three_inst_ratio_change_20": 0.39999999999999947
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8011",
+    "name": "台通",
+    "market": "TWSE",
+    "foreign_ratio": 5.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.06,
+    "three_inst_ratio_change_20": 0.8999999999999995
   }
 ]

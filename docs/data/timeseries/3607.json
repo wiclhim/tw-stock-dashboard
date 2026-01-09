@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.6,
     "three_inst_ratio_change_20": 0.5
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3607",
+    "name": "谷崧",
+    "market": "TWSE",
+    "foreign_ratio": 4.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.77,
+    "three_inst_ratio_change_20": 0.6799999999999997
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3607",
+    "name": "谷崧",
+    "market": "TWSE",
+    "foreign_ratio": 4.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.73,
+    "three_inst_ratio_change_20": 0.6300000000000008
   }
 ]

@@ -471,5 +471,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.21,
     "three_inst_ratio_change_20": 1.31
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00988A",
+    "name": "主動統一全球創新",
+    "market": "TWSE",
+    "foreign_ratio": 4.37,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.37,
+    "three_inst_ratio_change_20": 1.13
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00988A",
+    "name": "主動統一全球創新",
+    "market": "TWSE",
+    "foreign_ratio": 2.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.45,
+    "three_inst_ratio_change_20": -0.9899999999999998
   }
 ]

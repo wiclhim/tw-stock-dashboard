@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.779517896000751,
     "three_inst_ratio_change_20": -4.668432193814898
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2451",
+    "name": "創見",
+    "market": "TWSE",
+    "foreign_ratio": 11.83,
+    "trust_ratio": -2.933987196590308,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.896012803409691,
+    "three_inst_ratio_change_20": -3.9204183673072563
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2451",
+    "name": "創見",
+    "market": "TWSE",
+    "foreign_ratio": 12.21,
+    "trust_ratio": -2.9263928448850356,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.283607155114964,
+    "three_inst_ratio_change_20": -3.5483314245295183
   }
 ]

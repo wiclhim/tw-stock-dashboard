@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.68852351910125,
     "three_inst_ratio_change_20": -0.18742633839536893
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2454",
+    "name": "聯發科",
+    "market": "TWSE",
+    "foreign_ratio": 56.31,
+    "trust_ratio": 1.3946794126911868,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 57.70467941269119,
+    "three_inst_ratio_change_20": -0.28313837749752224
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2454",
+    "name": "聯發科",
+    "market": "TWSE",
+    "foreign_ratio": 56.23,
+    "trust_ratio": 1.3957885133140038,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 57.625788513314,
+    "three_inst_ratio_change_20": -0.3334489306597206
   }
 ]

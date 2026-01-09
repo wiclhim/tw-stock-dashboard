@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 46.54910426536782,
     "three_inst_ratio_change_20": -0.3755192637440672
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1215",
+    "name": "卜蜂",
+    "market": "TWSE",
+    "foreign_ratio": 41.01,
+    "trust_ratio": 5.733231921514541,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 46.743231921514536,
+    "three_inst_ratio_change_20": -0.1934269541170366
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1215",
+    "name": "卜蜂",
+    "market": "TWSE",
+    "foreign_ratio": 40.78,
+    "trust_ratio": 5.8193949241809335,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 46.599394924180935,
+    "three_inst_ratio_change_20": -0.3592850571934747
   }
 ]

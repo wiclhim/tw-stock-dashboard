@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0504076375208364,
     "three_inst_ratio_change_20": -3.0695923624791637
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": 0.4467545444064409,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8867545444064406,
+    "three_inst_ratio_change_20": -1.0032454555935595
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00631L",
+    "name": "元大台灣50正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.4489110287303058,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.468911028730306,
+    "three_inst_ratio_change_20": -0.47108897126969396
   }
 ]

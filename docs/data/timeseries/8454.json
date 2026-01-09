@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.3603630065107,
     "three_inst_ratio_change_20": -0.027188064999648986
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8454",
+    "name": "富邦媒",
+    "market": "TWSE",
+    "foreign_ratio": 12.78,
+    "trust_ratio": 0.6816685066182118,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.461668506618212,
+    "three_inst_ratio_change_20": 0.04412951170632695
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8454",
+    "name": "富邦媒",
+    "market": "TWSE",
+    "foreign_ratio": 12.7,
+    "trust_ratio": 0.6816685066182118,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.381668506618212,
+    "three_inst_ratio_change_20": -0.005870488293671983
   }
 ]

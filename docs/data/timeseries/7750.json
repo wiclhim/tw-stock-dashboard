@@ -812,5 +812,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.72783848113247,
     "three_inst_ratio_change_20": 1.6332969113205174
+  },
+  {
+    "date": "2026-01-07",
+    "code": "7750",
+    "name": "新代",
+    "market": "TWSE",
+    "foreign_ratio": 11.65,
+    "trust_ratio": 0.027838481132469412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.67783848113247,
+    "three_inst_ratio_change_20": 1.59329691132052
+  },
+  {
+    "date": "2026-01-08",
+    "code": "7750",
+    "name": "新代",
+    "market": "TWSE",
+    "foreign_ratio": 11.69,
+    "trust_ratio": 0.027838481132469412,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.71783848113247,
+    "three_inst_ratio_change_20": 1.5832969113205184
   }
 ]

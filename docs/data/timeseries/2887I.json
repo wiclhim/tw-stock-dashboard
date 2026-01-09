@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.36,
     "three_inst_ratio_change_20": -0.8599999999999994
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2887I",
+    "name": "台新新光辛特",
+    "market": "TWSE",
+    "foreign_ratio": 6.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.32,
+    "three_inst_ratio_change_20": -0.8399999999999999
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2887I",
+    "name": "台新新光辛特",
+    "market": "TWSE",
+    "foreign_ratio": 6.3,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.3,
+    "three_inst_ratio_change_20": -0.8600000000000003
   }
 ]

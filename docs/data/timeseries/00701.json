@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3439626391277315,
     "three_inst_ratio_change_20": 0.6975022649909275
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "market": "TWSE",
+    "foreign_ratio": 1.49,
+    "trust_ratio": 2.379360683247609,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.869360683247609,
+    "three_inst_ratio_change_20": 1.2129003091108048
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "market": "TWSE",
+    "foreign_ratio": 1.62,
+    "trust_ratio": 2.3902307541196306,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.010230754119631,
+    "three_inst_ratio_change_20": 1.3337703799828264
   }
 ]

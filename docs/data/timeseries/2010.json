@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.73648493020339,
     "three_inst_ratio_change_20": -0.029490992115421832
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2010",
+    "name": "春源",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": 0.006484930203391035,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.76648493020339,
+    "three_inst_ratio_change_20": -0.06949099211542276
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2010",
+    "name": "春源",
+    "market": "TWSE",
+    "foreign_ratio": 8.76,
+    "trust_ratio": 0.006484930203391035,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.76648493020339,
+    "three_inst_ratio_change_20": -0.09949099211542212
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.727644991059286,
     "three_inst_ratio_change_20": -0.12252030797170477
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8081",
+    "name": "致新",
+    "market": "TWSE",
+    "foreign_ratio": 22.18,
+    "trust_ratio": 0.5173729604644994,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.6973729604645,
+    "three_inst_ratio_change_20": -0.13698999462378225
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8081",
+    "name": "致新",
+    "market": "TWSE",
+    "foreign_ratio": 21.85,
+    "trust_ratio": 0.6009267132395284,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.45092671323953,
+    "three_inst_ratio_change_20": -0.12961045847893615
   }
 ]

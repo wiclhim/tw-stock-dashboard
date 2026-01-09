@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.1037834808258173,
     "three_inst_ratio_change_20": -0.011261160275272353
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8462",
+    "name": "柏文",
+    "market": "TWSE",
+    "foreign_ratio": 3.16,
+    "trust_ratio": 0.0037834808258173334,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.1637834808258174,
+    "three_inst_ratio_change_20": 0.028738839724727683
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8462",
+    "name": "柏文",
+    "market": "TWSE",
+    "foreign_ratio": 3.24,
+    "trust_ratio": 0.0037834808258173334,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.2437834808258175,
+    "three_inst_ratio_change_20": 0.10873883972472775
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.137211317590031,
     "three_inst_ratio_change_20": 2.2870640150254946
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "foreign_ratio": 15.95,
+    "trust_ratio": -1.1627886824099691,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.78721131759003,
+    "three_inst_ratio_change_20": 1.4570640150254928
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "foreign_ratio": 15.93,
+    "trust_ratio": -1.1627886824099691,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.76721131759003,
+    "three_inst_ratio_change_20": -1.9929359849745065
   }
 ]

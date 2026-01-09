@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.83750625678812,
     "three_inst_ratio_change_20": -0.185585434234401
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.43,
+    "trust_ratio": 4.271712925537721,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.70171292553772,
+    "three_inst_ratio_change_20": -0.3272870856001049
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1102",
+    "name": "亞泥",
+    "market": "TWSE",
+    "foreign_ratio": 17.46,
+    "trust_ratio": 4.26872606181771,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.72872606181771,
+    "three_inst_ratio_change_20": -0.29577007947317924
   }
 ]

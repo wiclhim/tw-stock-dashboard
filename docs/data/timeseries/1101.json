@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.11316163005152,
     "three_inst_ratio_change_20": 0.3163904308184726
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1101",
+    "name": "台泥",
+    "market": "TWSE",
+    "foreign_ratio": 18.73,
+    "trust_ratio": 1.6416784184983269,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.371678418498327,
+    "three_inst_ratio_change_20": 0.5645364163769848
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1101",
+    "name": "台泥",
+    "market": "TWSE",
+    "foreign_ratio": 18.67,
+    "trust_ratio": 1.6439164787884135,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.313916478788414,
+    "three_inst_ratio_change_20": 0.466668532984702
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.72159027027783,
     "three_inst_ratio_change_20": 10.897549364592482
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8028",
+    "name": "昇陽半導體",
+    "market": "TWSE",
+    "foreign_ratio": 14.57,
+    "trust_ratio": 4.855526564448544,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.425526564448546,
+    "three_inst_ratio_change_20": 10.322491982400102
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8028",
+    "name": "昇陽半導體",
+    "market": "TWSE",
+    "foreign_ratio": 15.0,
+    "trust_ratio": 4.9760168442630635,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.976016844263064,
+    "three_inst_ratio_change_20": 10.782094605746913
   }
 ]

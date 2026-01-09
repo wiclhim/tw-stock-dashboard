@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 47.747218139146135,
     "three_inst_ratio_change_20": -0.40044674992436313
+  },
+  {
+    "date": "2026-01-07",
+    "code": "4763",
+    "name": "材料*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 47.09,
+    "trust_ratio": 0.49996468167860286,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 47.58996468167861,
+    "three_inst_ratio_change_20": -0.41678170528541614
+  },
+  {
+    "date": "2026-01-08",
+    "code": "4763",
+    "name": "材料*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 46.87,
+    "trust_ratio": 0.48290118592827086,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 47.35290118592827,
+    "three_inst_ratio_change_20": -0.626465102389723
   }
 ]

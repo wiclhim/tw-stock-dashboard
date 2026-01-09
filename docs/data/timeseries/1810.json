@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.197289409860022,
     "three_inst_ratio_change_20": -0.03271059013997846
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1810",
+    "name": "和成",
+    "market": "TWSE",
+    "foreign_ratio": 3.4,
+    "trust_ratio": 0.9878624748245324,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.387862474824532,
+    "three_inst_ratio_change_20": 0.19786247482453145
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1810",
+    "name": "和成",
+    "market": "TWSE",
+    "foreign_ratio": 3.01,
+    "trust_ratio": 0.9774577070287381,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.987457707028738,
+    "three_inst_ratio_change_20": -0.20254229297126258
   }
 ]

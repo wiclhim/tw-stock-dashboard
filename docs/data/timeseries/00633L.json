@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.07,
     "three_inst_ratio_change_20": 0.5599999999999998
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00633L",
+    "name": "富邦上証正2",
+    "market": "TWSE",
+    "foreign_ratio": 2.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.28,
+    "three_inst_ratio_change_20": 0.33999999999999986
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00633L",
+    "name": "富邦上証正2",
+    "market": "TWSE",
+    "foreign_ratio": 1.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.17,
+    "three_inst_ratio_change_20": -0.6500000000000001
   }
 ]

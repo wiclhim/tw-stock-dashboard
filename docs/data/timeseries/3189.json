@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.218500922019107,
     "three_inst_ratio_change_20": -0.5199653577902126
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 22.62,
+    "trust_ratio": 3.1734862602100384,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.793486260210038,
+    "three_inst_ratio_change_20": 0.7113012016786051
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3189",
+    "name": "景碩",
+    "market": "TWSE",
+    "foreign_ratio": 22.54,
+    "trust_ratio": 3.178521146940192,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.71852114694019,
+    "three_inst_ratio_change_20": 0.500053257280566
   }
 ]

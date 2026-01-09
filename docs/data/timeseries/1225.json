@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.41,
     "three_inst_ratio_change_20": -0.29000000000000004
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1225",
+    "name": "福懋油",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": -0.27
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1225",
+    "name": "福懋油",
+    "market": "TWSE",
+    "foreign_ratio": 1.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.42,
+    "three_inst_ratio_change_20": -0.26
   }
 ]

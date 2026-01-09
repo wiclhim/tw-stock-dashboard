@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.288502697455819,
     "three_inst_ratio_change_20": 0.0070424791076701965
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2539",
+    "name": "櫻花建",
+    "market": "TWSE",
+    "foreign_ratio": 2.14,
+    "trust_ratio": 0.12835727827496837,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2683572782749684,
+    "three_inst_ratio_change_20": 0.006897059926819438
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2539",
+    "name": "櫻花建",
+    "market": "TWSE",
+    "foreign_ratio": 2.15,
+    "trust_ratio": 0.12742793655896048,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.2774279365589605,
+    "three_inst_ratio_change_20": 0.015967718210811555
   }
 ]

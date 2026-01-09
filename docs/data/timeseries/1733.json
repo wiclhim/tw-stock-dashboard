@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.321125080380036,
     "three_inst_ratio_change_20": -0.31800896990773087
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1733",
+    "name": "五鼎",
+    "market": "TWSE",
+    "foreign_ratio": 5.17,
+    "trust_ratio": 0.24712308706720645,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.417123087067206,
+    "three_inst_ratio_change_20": -0.24101046489235411
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1733",
+    "name": "五鼎",
+    "market": "TWSE",
+    "foreign_ratio": 5.19,
+    "trust_ratio": 0.24612258873899914,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.436122588739,
+    "three_inst_ratio_change_20": -0.19201096322056088
   }
 ]

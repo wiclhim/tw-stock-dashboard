@@ -790,5 +790,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.960820537622526,
     "three_inst_ratio_change_20": -2.178626319668327
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2352",
+    "name": "佳世達",
+    "market": "TWSE",
+    "foreign_ratio": 9.9,
+    "trust_ratio": -0.011520484061531907,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.888479515938469,
+    "three_inst_ratio_change_20": -2.1266048569664058
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2352",
+    "name": "佳世達",
+    "market": "TWSE",
+    "foreign_ratio": 9.83,
+    "trust_ratio": -0.012279734337442666,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.817720265662558,
+    "three_inst_ratio_change_20": -2.1824321851494055
   }
 ]

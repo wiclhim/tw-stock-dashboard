@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.021649497845996,
     "three_inst_ratio_change_20": -5.8185795632142465
+  },
+  {
+    "date": "2026-01-07",
+    "code": "4977",
+    "name": "眾達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 15.87,
+    "trust_ratio": -0.16835050215400726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.701649497845992,
+    "three_inst_ratio_change_20": -4.88857956321425
+  },
+  {
+    "date": "2026-01-08",
+    "code": "4977",
+    "name": "眾達-KY",
+    "market": "TWSE",
+    "foreign_ratio": 15.75,
+    "trust_ratio": -0.16835050215400726,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.581649497845993,
+    "three_inst_ratio_change_20": -5.818579563214248
   }
 ]

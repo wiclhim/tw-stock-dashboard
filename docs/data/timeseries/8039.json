@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.64846344007412,
     "three_inst_ratio_change_20": -2.6750670756594275
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8039",
+    "name": "台虹",
+    "market": "TWSE",
+    "foreign_ratio": 13.41,
+    "trust_ratio": 0.3541774641601921,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.764177464160193,
+    "three_inst_ratio_change_20": -5.243508538963452
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8039",
+    "name": "台虹",
+    "market": "TWSE",
+    "foreign_ratio": 12.81,
+    "trust_ratio": 0.3533981958122049,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.163398195812205,
+    "three_inst_ratio_change_20": -5.5580536605275395
   }
 ]

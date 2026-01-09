@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.9455556349720018,
     "three_inst_ratio_change_20": -0.21923752427683096
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6937",
+    "name": "天虹",
+    "market": "TWSE",
+    "foreign_ratio": 1.34,
+    "trust_ratio": 0.6540758254122457,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9940758254122457,
+    "three_inst_ratio_change_20": -0.1407173338365868
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6937",
+    "name": "天虹",
+    "market": "TWSE",
+    "foreign_ratio": 1.28,
+    "trust_ratio": 0.6525960158524895,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.9325960158524895,
+    "three_inst_ratio_change_20": -0.17071733383658683
   }
 ]

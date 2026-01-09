@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.99707840478585,
     "three_inst_ratio_change_20": -0.43072664738950195
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2103",
+    "name": "台橡",
+    "market": "TWSE",
+    "foreign_ratio": 20.67,
+    "trust_ratio": 0.43707840478585086,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.107078404785852,
+    "three_inst_ratio_change_20": -0.26072664738950024
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2103",
+    "name": "台橡",
+    "market": "TWSE",
+    "foreign_ratio": 20.65,
+    "trust_ratio": 0.43707840478585086,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.08707840478585,
+    "three_inst_ratio_change_20": -0.3407266473895021
   }
 ]

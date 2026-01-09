@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.304254277741844,
     "three_inst_ratio_change_20": -1.2357457222581552
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2331",
+    "name": "精英",
+    "market": "TWSE",
+    "foreign_ratio": 8.03,
+    "trust_ratio": 0.3139559888385811,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.34395598883858,
+    "three_inst_ratio_change_20": -1.2260440111614201
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2331",
+    "name": "精英",
+    "market": "TWSE",
+    "foreign_ratio": 7.93,
+    "trust_ratio": 0.3677770154966236,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.297777015496623,
+    "three_inst_ratio_change_20": -0.9422229845033776
   }
 ]

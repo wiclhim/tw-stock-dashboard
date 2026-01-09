@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 59.54496350261924,
     "three_inst_ratio_change_20": -2.6052379464744106
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1795",
+    "name": "美時",
+    "market": "TWSE",
+    "foreign_ratio": 58.18,
+    "trust_ratio": 1.584851485636658,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.764851485636655,
+    "three_inst_ratio_change_20": -2.2753499634569962
+  },
+  {
+    "date": "2026-01-08",
+    "code": "1795",
+    "name": "美時",
+    "market": "TWSE",
+    "foreign_ratio": 58.58,
+    "trust_ratio": 1.5841359256475778,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.16413592564758,
+    "three_inst_ratio_change_20": -1.665690884708333
   }
 ]

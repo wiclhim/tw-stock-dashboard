@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.474871205351471,
     "three_inst_ratio_change_20": -0.743583312862043
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.55,
+    "trust_ratio": -0.17512879464852926,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.374871205351472,
+    "three_inst_ratio_change_20": -0.9235833128620428
+  },
+  {
+    "date": "2026-01-08",
+    "code": "6214",
+    "name": "精誠",
+    "market": "TWSE",
+    "foreign_ratio": 10.44,
+    "trust_ratio": -0.17512879464852926,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.26487120535147,
+    "three_inst_ratio_change_20": -1.0835833128620447
   }
 ]

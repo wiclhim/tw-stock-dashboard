@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.91188356506952,
     "three_inst_ratio_change_20": -0.7600000000000016
+  },
+  {
+    "date": "2026-01-07",
+    "code": "4770",
+    "name": "上品",
+    "market": "TWSE",
+    "foreign_ratio": 7.56,
+    "trust_ratio": 2.1118835650695207,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.671883565069521,
+    "three_inst_ratio_change_20": -0.9100000000000001
+  },
+  {
+    "date": "2026-01-08",
+    "code": "4770",
+    "name": "上品",
+    "market": "TWSE",
+    "foreign_ratio": 7.33,
+    "trust_ratio": 2.1118835650695207,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.44188356506952,
+    "three_inst_ratio_change_20": -1.0399999999999991
   }
 ]

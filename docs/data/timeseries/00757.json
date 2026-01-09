@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.5528070175438597,
     "three_inst_ratio_change_20": -0.7361389318365164
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.41,
+    "trust_ratio": -0.8771929824561403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5328070175438597,
+    "three_inst_ratio_change_20": -0.8357778552341117
+  },
+  {
+    "date": "2026-01-08",
+    "code": "00757",
+    "name": "統一FANG+",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": -0.8771929824561403,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.5628070175438595,
+    "three_inst_ratio_change_20": -0.8057778552341119
   }
 ]

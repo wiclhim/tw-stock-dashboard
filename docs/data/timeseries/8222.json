@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.94,
     "three_inst_ratio_change_20": -0.22999999999999998
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8222",
+    "name": "寶一",
+    "market": "TWSE",
+    "foreign_ratio": 2.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.02,
+    "three_inst_ratio_change_20": -0.31000000000000005
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8222",
+    "name": "寶一",
+    "market": "TWSE",
+    "foreign_ratio": 2.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.06,
+    "three_inst_ratio_change_20": -0.48999999999999977
   }
 ]

@@ -856,5 +856,27 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 48.30162099202188,
     "three_inst_ratio_change_20": 0.8193175553431615
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3532",
+    "name": "台勝科",
+    "market": "TWSE",
+    "foreign_ratio": 48.19,
+    "trust_ratio": 0.47162099202188074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.66162099202188,
+    "three_inst_ratio_change_20": 1.1493175553431598
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3532",
+    "name": "台勝科",
+    "market": "TWSE",
+    "foreign_ratio": 48.25,
+    "trust_ratio": 0.47162099202188074,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 48.72162099202188,
+    "three_inst_ratio_change_20": 1.179317555343161
   }
 ]
