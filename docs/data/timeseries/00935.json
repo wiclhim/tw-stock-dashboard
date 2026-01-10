@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.01,
     "three_inst_ratio_change_20": 0.029999999999999805
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00935",
+    "name": "野村臺灣新科技50",
+    "market": "TWSE",
+    "foreign_ratio": 2.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.89,
+    "three_inst_ratio_change_20": -0.1499999999999999
   }
 ]

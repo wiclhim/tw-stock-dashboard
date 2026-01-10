@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.498942368062924,
     "three_inst_ratio_change_20": 0.5524969089511913
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2727",
+    "name": "王品",
+    "market": "TWSE",
+    "foreign_ratio": 21.82,
+    "trust_ratio": 1.905974970678005,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.725974970678006,
+    "three_inst_ratio_change_20": 0.900771650375841
   }
 ]

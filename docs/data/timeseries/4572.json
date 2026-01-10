@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6510249999999997,
     "three_inst_ratio_change_20": -27.274224999999998
+  },
+  {
+    "date": "2026-01-09",
+    "code": "4572",
+    "name": "駐龍",
+    "market": "TWSE",
+    "foreign_ratio": 3.02,
+    "trust_ratio": -0.358975,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.661025,
+    "three_inst_ratio_change_20": -27.014225
   }
 ]

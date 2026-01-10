@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7772906359309224,
     "three_inst_ratio_change_20": -0.07999999999999985
+  },
+  {
+    "date": "2026-01-09",
+    "code": "9937",
+    "name": "全國",
+    "market": "TWSE",
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.16729063593092225,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.7772906359309224,
+    "three_inst_ratio_change_20": -0.06999999999999984
   }
 ]

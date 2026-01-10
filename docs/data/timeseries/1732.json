@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.36,
     "three_inst_ratio_change_20": -1.3399999999999999
+  },
+  {
+    "date": "2026-01-09",
+    "code": "1732",
+    "name": "毛寶",
+    "market": "TWSE",
+    "foreign_ratio": 4.32,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.32,
+    "three_inst_ratio_change_20": -1.3599999999999994
   }
 ]

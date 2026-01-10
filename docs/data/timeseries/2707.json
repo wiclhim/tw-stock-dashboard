@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.863119521813095,
     "three_inst_ratio_change_20": -0.3523547282212718
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2707",
+    "name": "晶華",
+    "market": "TWSE",
+    "foreign_ratio": 7.49,
+    "trust_ratio": 0.3931195218130955,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.883119521813096,
+    "three_inst_ratio_change_20": -0.30235472822127196
   }
 ]

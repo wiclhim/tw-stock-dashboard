@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 73.61,
     "three_inst_ratio_change_20": -0.12000000000000455
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2239",
+    "name": "英利-KY",
+    "market": "TWSE",
+    "foreign_ratio": 73.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 73.56,
+    "three_inst_ratio_change_20": -0.12000000000000455
   }
 ]

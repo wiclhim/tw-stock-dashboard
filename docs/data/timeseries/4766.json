@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.490591649154133,
     "three_inst_ratio_change_20": -0.8361408626534548
+  },
+  {
+    "date": "2026-01-09",
+    "code": "4766",
+    "name": "南寶",
+    "market": "TWSE",
+    "foreign_ratio": 16.38,
+    "trust_ratio": 0.9805916491541318,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.36059164915413,
+    "three_inst_ratio_change_20": -0.9145294257862489
   }
 ]

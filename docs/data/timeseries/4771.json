@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.41,
     "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
+    "date": "2026-01-09",
+    "code": "4771",
+    "name": "望隼",
+    "market": "TWSE",
+    "foreign_ratio": 4.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.4,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

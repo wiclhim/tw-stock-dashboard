@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 44.6,
     "three_inst_ratio_change_20": -0.17999999999999972
+  },
+  {
+    "date": "2026-01-09",
+    "code": "8467",
+    "name": "波力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 44.57,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 44.57,
+    "three_inst_ratio_change_20": -0.21999999999999886
   }
 ]

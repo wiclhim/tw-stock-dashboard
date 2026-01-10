@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.056794254018474,
     "three_inst_ratio_change_20": 0.013970884546230522
+  },
+  {
+    "date": "2026-01-09",
+    "code": "9945",
+    "name": "潤泰新",
+    "market": "TWSE",
+    "foreign_ratio": 9.95,
+    "trust_ratio": -1.013240904942922,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.936759095057077,
+    "three_inst_ratio_change_20": -0.07430632634537027
   }
 ]

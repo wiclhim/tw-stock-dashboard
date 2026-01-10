@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.238640417253516,
     "three_inst_ratio_change_20": 0.6233111582373869
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2634",
+    "name": "漢翔",
+    "market": "TWSE",
+    "foreign_ratio": 3.28,
+    "trust_ratio": 0.2583219009791064,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.5383219009791063,
+    "three_inst_ratio_change_20": -0.05700735803702317
   }
 ]

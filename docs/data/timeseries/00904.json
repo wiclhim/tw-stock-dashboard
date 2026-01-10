@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5430068595595441,
     "three_inst_ratio_change_20": 0.1730068595595441
+  },
+  {
+    "date": "2026-01-09",
+    "code": "00904",
+    "name": "新光臺灣半導體30",
+    "market": "TWSE",
+    "foreign_ratio": 0.3,
+    "trust_ratio": 0.30300685955954404,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.603006859559544,
+    "three_inst_ratio_change_20": 0.203006859559544
   }
 ]

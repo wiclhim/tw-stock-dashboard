@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.4808793968954386,
     "three_inst_ratio_change_20": 0.5280653266717448
+  },
+  {
+    "date": "2026-01-09",
+    "code": "8131",
+    "name": "福懋科",
+    "market": "TWSE",
+    "foreign_ratio": 3.02,
+    "trust_ratio": 0.05155778885404409,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.071557788854044,
+    "three_inst_ratio_change_20": 1.1687437186303502
   }
 ]

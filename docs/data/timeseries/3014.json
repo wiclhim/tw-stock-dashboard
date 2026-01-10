@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.658280717342436,
     "three_inst_ratio_change_20": -1.5068534057955496
+  },
+  {
+    "date": "2026-01-09",
+    "code": "3014",
+    "name": "聯陽",
+    "market": "TWSE",
+    "foreign_ratio": 21.9,
+    "trust_ratio": -0.5700068023078937,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.329993197692104,
+    "three_inst_ratio_change_20": -1.7709926331581372
   }
 ]

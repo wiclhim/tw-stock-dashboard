@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.76721131759003,
     "three_inst_ratio_change_20": -1.9929359849745065
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2402",
+    "name": "毅嘉",
+    "market": "TWSE",
+    "foreign_ratio": 15.51,
+    "trust_ratio": -1.1627886824099691,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.34721131759003,
+    "three_inst_ratio_change_20": -3.7529359849745063
   }
 ]

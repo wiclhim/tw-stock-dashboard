@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.97,
     "three_inst_ratio_change_20": -0.19999999999999973
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2511",
+    "name": "太子",
+    "market": "TWSE",
+    "foreign_ratio": 2.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.93,
+    "three_inst_ratio_change_20": -0.21999999999999975
   }
 ]
