@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "2705",
+    "name": "六福",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.73
+  },
+  {
     "date": "2025-12-26",
     "code": "2705",
     "name": "六福",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.58,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio_change_20": -0.15999999999999992
   },
   {
     "date": "2025-12-30",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.57,
-    "three_inst_ratio_change_20": -0.16999999999999993
+    "three_inst_ratio_change_20": -0.15999999999999992
   },
   {
     "date": "2026-01-06",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.57,
-    "three_inst_ratio_change_20": -0.15999999999999992
+    "three_inst_ratio_change_20": -0.1399999999999999
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.56,
-    "three_inst_ratio_change_20": -0.1499999999999999
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

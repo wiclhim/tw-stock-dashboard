@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.9400458424797229
   },
   {
+    "date": "2025-12-25",
+    "code": "2892",
+    "name": "第一金",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.961780767782404
+  },
+  {
     "date": "2025-12-26",
     "code": "2892",
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.46,
-    "trust_ratio": -3.340942636291363,
+    "trust_ratio": -3.920164317059101,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.119057363708638,
-    "three_inst_ratio_change_20": -0.8427234040737659
+    "three_inst_ratio": 22.5398356829409,
+    "three_inst_ratio_change_20": -1.2762564184525687
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.56,
-    "trust_ratio": -3.4343465535494597,
+    "trust_ratio": -4.013568234317198,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.12565344645054,
-    "three_inst_ratio_change_20": -0.6904386549429304
+    "three_inst_ratio": 22.5464317656828,
+    "three_inst_ratio_change_20": -1.13685735915562
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.61,
-    "trust_ratio": -3.4479840532911483,
+    "trust_ratio": -4.027205734058887,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.162015946708852,
-    "three_inst_ratio_change_20": -0.5212731781295687
+    "three_inst_ratio": 22.58279426594111,
+    "three_inst_ratio_change_20": -1.043741805925496
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.58,
-    "trust_ratio": -3.449738735652099,
+    "trust_ratio": -4.028960416419838,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.1302612643479,
-    "three_inst_ratio_change_20": -0.4962748075187058
+    "three_inst_ratio": 22.55103958358016,
+    "three_inst_ratio_change_20": -1.0183752237604438
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.57,
-    "trust_ratio": -3.449902830728033,
+    "trust_ratio": -4.0291245114957706,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.12009716927197,
-    "three_inst_ratio_change_20": -0.449317638068635
+    "three_inst_ratio": 22.54087548850423,
+    "three_inst_ratio_change_20": -0.974387565982834
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.62,
-    "trust_ratio": -3.4506879779594635,
+    "trust_ratio": -4.0299096587272025,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.169312022040536,
-    "three_inst_ratio_change_20": -0.3459510324465285
+    "three_inst_ratio": 22.5900903412728,
+    "three_inst_ratio_change_20": -0.9356939206860062
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.68,
-    "trust_ratio": -3.451202600591226,
+    "trust_ratio": -4.030424281358964,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.228797399408773,
-    "three_inst_ratio_change_20": -0.2969868625500318
+    "three_inst_ratio": 22.649575718641035,
+    "three_inst_ratio_change_20": -0.816719360975835
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.66,
-    "trust_ratio": -3.4615014025570408,
+    "trust_ratio": -4.040723083324779,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.19849859744296,
-    "three_inst_ratio_change_20": -0.2677964821739103
+    "three_inst_ratio": 22.619276916675222,
+    "three_inst_ratio_change_20": -0.7612248116344666
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.65,
-    "trust_ratio": -3.4622246559854633,
+    "trust_ratio": -4.041446336753201,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.187775344014536,
-    "three_inst_ratio_change_20": -0.19272638429515254
+    "three_inst_ratio": 22.6085536632468,
+    "three_inst_ratio_change_20": -0.7292296794638524
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "第一金",
     "market": "TWSE",
     "foreign_ratio": 26.65,
-    "trust_ratio": -3.4644039089719776,
+    "trust_ratio": -4.043625589739715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.18559609102802,
-    "three_inst_ratio_change_20": -0.15218725168262992
+    "three_inst_ratio": 22.606374410260283,
+    "three_inst_ratio_change_20": -0.6084364572817513
   }
 ]

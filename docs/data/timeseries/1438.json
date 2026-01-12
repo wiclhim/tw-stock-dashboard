@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.06
   },
   {
+    "date": "2025-12-25",
+    "code": "1438",
+    "name": "三地開發",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.39
+  },
+  {
     "date": "2025-12-26",
     "code": "1438",
     "name": "三地開發",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.04999999999999999
+    "three_inst_ratio_change_20": 0.03999999999999998
   },
   {
     "date": "2025-12-29",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44,
-    "three_inst_ratio_change_20": 0.03999999999999998
+    "three_inst_ratio_change_20": 0.030000000000000027
   },
   {
     "date": "2026-01-08",

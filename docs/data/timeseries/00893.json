@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.11005572095284738
   },
   {
+    "date": "2025-12-25",
+    "code": "00893",
+    "name": "國泰智能電動車",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.4871827198007002
+  },
+  {
     "date": "2025-12-26",
     "code": "00893",
     "name": "國泰智能電動車",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.047238440753547606,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8072384407535476,
-    "three_inst_ratio_change_20": 0.32005572095284734
+    "three_inst_ratio_change_20": 0.3000557209528474
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.047350278419637105,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5773502784196372,
-    "three_inst_ratio_change_20": 0.07016755861893698
+    "three_inst_ratio_change_20": 0.19016755861893692
   },
   {
     "date": "2025-12-30",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.047350278419637105,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7373502784196371,
-    "three_inst_ratio_change_20": 0.35016755861893684
+    "three_inst_ratio_change_20": 0.37016755861893685
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.047350278419637105,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8873502784196371,
-    "three_inst_ratio_change_20": 0.5201675586189369
+    "three_inst_ratio_change_20": 0.4301675586189369
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.047632203179925885,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.5176322031799259,
-    "three_inst_ratio_change_20": 0.06044948337922568
+    "three_inst_ratio_change_20": 0.030393762426378257
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.04768899147320833,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6776889914732084,
-    "three_inst_ratio_change_20": 0.19045055071966077
+    "three_inst_ratio_change_20": 0.20045055071966078
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.04786017172229614,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7378601717222961,
-    "three_inst_ratio_change_20": 0.2606217309687485
+    "three_inst_ratio_change_20": 0.2106217309687486
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.04786017172229614,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.44786017172229614,
-    "three_inst_ratio_change_20": -0.07937826903125139
+    "three_inst_ratio_change_20": -0.03937826903125147
   },
   {
     "date": "2026-01-09",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.04786017172229614,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.49786017172229613,
-    "three_inst_ratio_change_20": 0.010621730968748522
+    "three_inst_ratio_change_20": 0.0007330415760135045
   }
 ]

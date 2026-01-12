@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -4.413145212814008
   },
   {
+    "date": "2025-12-25",
+    "code": "6442",
+    "name": "光聖",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -44.95407303934814
+  },
+  {
     "date": "2025-12-26",
     "code": "6442",
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 32.14,
-    "trust_ratio": 8.094668795053645,
+    "trust_ratio": 7.867111262367914,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.23466879505364,
-    "three_inst_ratio_change_20": -4.719404244294495
+    "three_inst_ratio": 40.007111262367914,
+    "three_inst_ratio_change_20": -4.458535984306181
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 32.13,
-    "trust_ratio": 8.136042891905596,
+    "trust_ratio": 7.908485359219865,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.2660428919056,
-    "three_inst_ratio_change_20": -4.199604354768496
+    "three_inst_ratio": 40.03848535921987,
+    "three_inst_ratio_change_20": -4.449685511093826
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 32.69,
-    "trust_ratio": 8.41786255261266,
+    "trust_ratio": 8.190305019926928,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 41.10786255261266,
-    "three_inst_ratio_change_20": -3.3803083177010365
+    "three_inst_ratio": 40.88030501992692,
+    "three_inst_ratio_change_20": -3.6047741324698848
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 31.85,
-    "trust_ratio": 8.418461894418998,
+    "trust_ratio": 8.193032679755975,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.268461894419,
-    "three_inst_ratio_change_20": -4.216617257977809
+    "three_inst_ratio": 40.043032679755974,
+    "three_inst_ratio_change_20": -4.453258256842126
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 31.92,
-    "trust_ratio": 8.432551220335437,
+    "trust_ratio": 8.207122005672414,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.35255122033544,
-    "three_inst_ratio_change_20": -4.143739716262658
+    "three_inst_ratio": 40.12712200567242,
+    "three_inst_ratio_change_20": -4.051530241914627
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 31.86,
-    "trust_ratio": 8.4258434203514,
+    "trust_ratio": 8.200414205688379,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.2858434203514,
-    "three_inst_ratio_change_20": -3.8928088272356476
+    "three_inst_ratio": 40.060414205688375,
+    "three_inst_ratio_change_20": -3.8808428218635953
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 31.97,
-    "trust_ratio": 8.248636844909106,
+    "trust_ratio": 8.023207630246084,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.218636844909106,
-    "three_inst_ratio_change_20": -3.7226201826428635
+    "three_inst_ratio": 39.99320763024608,
+    "three_inst_ratio_change_20": -3.8045140999390057
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 31.97,
-    "trust_ratio": 8.265245598468967,
+    "trust_ratio": 8.039816383805944,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.235245598468964,
-    "three_inst_ratio_change_20": -3.5624761317161244
+    "three_inst_ratio": 40.00981638380594,
+    "three_inst_ratio_change_20": -3.604470104249266
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 32.36,
-    "trust_ratio": 8.280572223370433,
+    "trust_ratio": 8.055143008707407,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.640572223370434,
-    "three_inst_ratio_change_20": -2.973714264684773
+    "three_inst_ratio": 40.4151430087074,
+    "three_inst_ratio_change_20": -2.943890560915982
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "光聖",
     "market": "TWSE",
     "foreign_ratio": 32.3,
-    "trust_ratio": 8.20363425708419,
+    "trust_ratio": 7.978205042421167,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 40.50363425708419,
-    "three_inst_ratio_change_20": -2.8553993125391983
+    "three_inst_ratio": 40.27820504242116,
+    "three_inst_ratio_change_20": -3.138161489823652
   }
 ]

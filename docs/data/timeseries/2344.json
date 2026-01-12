@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.9345235019104337
   },
   {
+    "date": "2025-12-25",
+    "code": "2344",
+    "name": "華邦電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -25.130195226291626
+  },
+  {
     "date": "2025-12-26",
     "code": "2344",
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 20.84,
-    "trust_ratio": 4.053718737251619,
+    "trust_ratio": 4.057296514875949,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.893718737251618,
-    "three_inst_ratio_change_20": -0.23647648904000818
+    "three_inst_ratio": 24.897296514875947,
+    "three_inst_ratio_change_20": 0.17219017811272863
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 20.88,
-    "trust_ratio": 4.053785403915426,
+    "trust_ratio": 4.057363181539757,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 24.933785403915426,
-    "three_inst_ratio_change_20": 0.2086790671522074
+    "three_inst_ratio": 24.937363181539755,
+    "three_inst_ratio_change_20": 0.17721240269288785
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 22.68,
-    "trust_ratio": 4.176730709753549,
+    "trust_ratio": 4.18030848737788,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.85673070975355,
-    "three_inst_ratio_change_20": 2.0965799309066817
+    "three_inst_ratio": 26.86030848737788,
+    "three_inst_ratio_change_20": 2.2809799324335245
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 21.09,
-    "trust_ratio": 4.1747095542846795,
+    "trust_ratio": 4.17828733190901,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.26470955428468,
-    "three_inst_ratio_change_20": 0.6853809993403246
+    "three_inst_ratio": 25.268287331909008,
+    "three_inst_ratio_change_20": 0.6286698880881545
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 22.53,
-    "trust_ratio": 4.399420655758181,
+    "trust_ratio": 4.402998433382511,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.929420655758182,
-    "three_inst_ratio_change_20": 2.289803211937329
+    "three_inst_ratio": 26.93299843338251,
+    "three_inst_ratio_change_20": 1.354692102760982
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 21.88,
-    "trust_ratio": 4.549960760412794,
+    "trust_ratio": 4.553538538037125,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.429960760412794,
-    "three_inst_ratio_change_20": 0.8516544297912638
+    "three_inst_ratio": 26.433538538037123,
+    "three_inst_ratio_change_20": 0.5393433192081609
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 21.72,
-    "trust_ratio": 4.7670671288791215,
+    "trust_ratio": 4.770644906503452,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.48706712887912,
-    "three_inst_ratio_change_20": 0.5928719100501567
+    "three_inst_ratio": 26.49064490650345,
+    "three_inst_ratio_change_20": 0.48500524329199735
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 20.93,
-    "trust_ratio": 4.871589057729625,
+    "trust_ratio": 4.875166835353956,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.801589057729625,
-    "three_inst_ratio_change_20": -0.20405060548182874
+    "three_inst_ratio": 25.805166835353955,
+    "three_inst_ratio_change_20": -0.6216728278060337
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 21.94,
-    "trust_ratio": 4.844243236680235,
+    "trust_ratio": 4.847821014304565,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.784243236680236,
-    "three_inst_ratio_change_20": 0.3574035735202479
+    "three_inst_ratio": 26.787821014304566,
+    "three_inst_ratio_change_20": 1.4425369066334177
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "華邦電",
     "market": "TWSE",
     "foreign_ratio": 21.89,
-    "trust_ratio": 4.847640480978975,
+    "trust_ratio": 4.851218258603305,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.737640480978975,
-    "three_inst_ratio_change_20": 1.3923563733078268
+    "three_inst_ratio": 26.741218258603304,
+    "three_inst_ratio_change_20": 1.47768970641242
   }
 ]

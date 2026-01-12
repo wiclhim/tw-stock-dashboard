@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.3478430905679488
   },
   {
+    "date": "2025-12-25",
+    "code": "8210",
+    "name": "勤誠",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.759292585277414
+  },
+  {
     "date": "2025-12-26",
     "code": "8210",
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.51,
-    "trust_ratio": 3.59161953977595,
+    "trust_ratio": 3.5557064967453007,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.101619539775953,
-    "three_inst_ratio_change_20": -0.6576730455014612
+    "three_inst_ratio": 22.065706496745303,
+    "three_inst_ratio_change_20": -0.6744324655824308
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.63,
-    "trust_ratio": 3.6746185725578937,
+    "trust_ratio": 3.6387055295272455,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.304618572557892,
-    "three_inst_ratio_change_20": -0.43552038976984164
+    "three_inst_ratio": 22.268705529527246,
+    "three_inst_ratio_change_20": -0.2309304375130381
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.69,
-    "trust_ratio": 3.850193449596623,
+    "trust_ratio": 3.814280406565974,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.540193449596625,
-    "three_inst_ratio_change_20": 0.040557482556341284
+    "three_inst_ratio": 22.504280406565975,
+    "three_inst_ratio_change_20": 0.2615139989241264
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.61,
-    "trust_ratio": 4.069662045895033,
+    "trust_ratio": 4.0337490028643845,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.679662045895032,
-    "three_inst_ratio_change_20": 0.43689563825318345
+    "three_inst_ratio": 22.643749002864382,
+    "three_inst_ratio_change_20": 0.5092514365117466
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.04,
-    "trust_ratio": 4.127122914744072,
+    "trust_ratio": 4.091209871713422,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.16712291474407,
-    "three_inst_ratio_change_20": 0.03262534839143427
+    "three_inst_ratio": 22.131209871713423,
+    "three_inst_ratio_change_20": 0.08266206149725619
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 17.94,
-    "trust_ratio": 4.108767359417296,
+    "trust_ratio": 4.072854316386647,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.048767359417297,
-    "three_inst_ratio_change_20": 0.00021954920113032017
+    "three_inst_ratio": 22.012854316386647,
+    "three_inst_ratio_change_20": 0.04233123812650064
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 18.13,
-    "trust_ratio": 4.0153950436728545,
+    "trust_ratio": 3.9794820006422054,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.145395043672853,
-    "three_inst_ratio_change_20": 0.17487196541270578
+    "three_inst_ratio": 22.109482000642203,
+    "three_inst_ratio_change_20": 0.029575348616884156
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 17.95,
-    "trust_ratio": 4.17341243300771,
+    "trust_ratio": 4.1374993899770605,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.123412433007708,
-    "three_inst_ratio_change_20": 0.04350578098238955
+    "three_inst_ratio": 22.08749938997706,
+    "three_inst_ratio_change_20": 0.12246765501755519
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 17.51,
-    "trust_ratio": 4.079240453505119,
+    "trust_ratio": 4.04332741047447,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.58924045350512,
-    "three_inst_ratio_change_20": -0.37579128145438645
+    "three_inst_ratio": 21.553327410474473,
+    "three_inst_ratio_change_20": -0.2634453880130927
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "勤誠",
     "market": "TWSE",
     "foreign_ratio": 17.03,
-    "trust_ratio": 4.2220945580048115,
+    "trust_ratio": 4.186181514974162,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.252094558004814,
-    "three_inst_ratio_change_20": -0.5646782404827526
+    "three_inst_ratio": 21.216181514974163,
+    "three_inst_ratio_change_20": -0.9459362097366402
   }
 ]

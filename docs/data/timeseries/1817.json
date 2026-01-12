@@ -781,18 +781,18 @@
     "three_inst_ratio_change_20": -0.1299999999999999
   },
   {
-    "date": "2025-12-26",
+    "date": "2025-12-25",
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
-    "foreign_ratio": 1.6,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.6,
-    "three_inst_ratio_change_20": -0.10999999999999988
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.71
   },
   {
-    "date": "2025-12-29",
+    "date": "2025-12-26",
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
@@ -803,7 +803,7 @@
     "three_inst_ratio_change_20": -0.09999999999999987
   },
   {
-    "date": "2025-12-30",
+    "date": "2025-12-29",
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
@@ -814,7 +814,7 @@
     "three_inst_ratio_change_20": -0.07999999999999985
   },
   {
-    "date": "2025-12-31",
+    "date": "2025-12-30",
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
@@ -825,7 +825,7 @@
     "three_inst_ratio_change_20": -0.029999999999999805
   },
   {
-    "date": "2026-01-02",
+    "date": "2025-12-31",
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
@@ -834,6 +834,17 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6,
     "three_inst_ratio_change_20": -0.020000000000000018
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1817",
+    "name": "凱撒衛",
+    "market": "TWSE",
+    "foreign_ratio": 1.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.6,
+    "three_inst_ratio_change_20": -0.010000000000000009
   },
   {
     "date": "2026-01-05",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-01-09",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.0
   }
 ]

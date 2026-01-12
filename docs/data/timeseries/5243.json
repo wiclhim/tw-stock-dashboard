@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.6690054979586151
   },
   {
+    "date": "2025-12-25",
+    "code": "5243",
+    "name": "乙盛-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -58.91672131218551
+  },
+  {
     "date": "2025-12-26",
     "code": "5243",
     "name": "乙盛-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.6871224442405032,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.7171224442405,
-    "three_inst_ratio_change_20": -1.1995988679450065
+    "three_inst_ratio_change_20": -1.1695988679450053
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.6871224442405032,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.1971224442405,
-    "three_inst_ratio_change_20": -1.6895988679450085
+    "three_inst_ratio_change_20": -1.2815878720277851
   },
   {
     "date": "2025-12-30",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.1597744496842,
-    "three_inst_ratio_change_20": -1.3189358665840842
+    "three_inst_ratio_change_20": -1.4589358665840848
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.0597744496842,
-    "three_inst_ratio_change_20": -1.5589358665840862
+    "three_inst_ratio_change_20": -1.5489358665840811
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.249774449684196,
-    "three_inst_ratio_change_20": -1.3589358665840834
+    "three_inst_ratio_change_20": -1.3789358665840865
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.2797744496842,
-    "three_inst_ratio_change_20": -1.3489358665840854
+    "three_inst_ratio_change_20": -0.9889358665840859
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.5797744496842,
-    "three_inst_ratio_change_20": -0.6889358665840817
+    "three_inst_ratio_change_20": -0.8789358665840794
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.7897744496842,
-    "three_inst_ratio_change_20": -0.6689358665840786
+    "three_inst_ratio_change_20": -0.9689358665840757
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.0397744496842,
-    "three_inst_ratio_change_20": -1.7189358665840757
+    "three_inst_ratio_change_20": -1.6489358665840825
   },
   {
     "date": "2026-01-09",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.4497744496841981,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 57.2397744496842,
-    "three_inst_ratio_change_20": -1.4489358665840868
+    "three_inst_ratio_change_20": -1.6489358665840825
   }
 ]

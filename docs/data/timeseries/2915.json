@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.13456259530105985
   },
   {
+    "date": "2025-12-25",
+    "code": "2915",
+    "name": "潤泰全",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.258552204199966
+  },
+  {
     "date": "2025-12-26",
     "code": "2915",
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.03,
-    "trust_ratio": 0.004351823152744523,
+    "trust_ratio": -0.0037979975586252194,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.034351823152745,
-    "three_inst_ratio_change_20": -0.22420038104722106
+    "three_inst_ratio": 7.026202002441375,
+    "three_inst_ratio_change_20": -0.21198798750475234
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 6.97,
-    "trust_ratio": 0.004351823152744523,
+    "trust_ratio": -0.0037979975586252194,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.974351823152745,
-    "three_inst_ratio_change_20": -0.26383816679338246
+    "three_inst_ratio": 6.966202002441374,
+    "three_inst_ratio_change_20": -0.23094045276267483
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.07,
-    "trust_ratio": -0.14886480622100662,
+    "trust_ratio": -0.15701462693237636,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.921135193778993,
-    "three_inst_ratio_change_20": -0.2760072614250557
+    "three_inst_ratio": 6.912985373067624,
+    "three_inst_ratio_change_20": -0.26058638514206134
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.17,
-    "trust_ratio": -0.4198010680923207,
+    "trust_ratio": -0.4279508888036905,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.750198931907679,
-    "three_inst_ratio_change_20": -0.423372826302006
+    "three_inst_ratio": 6.74204911119631,
+    "three_inst_ratio_change_20": -0.44147120146935226
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": -0.904262632601522,
+    "trust_ratio": -0.9124124533128919,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.535737367398479,
-    "three_inst_ratio_change_20": -0.647782945267183
+    "three_inst_ratio": 6.5275875466871085,
+    "three_inst_ratio_change_20": -0.6764246418152888
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.68,
-    "trust_ratio": -1.3868225722780705,
+    "trust_ratio": -1.3949723929894402,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.293177427721929,
-    "three_inst_ratio_change_20": -0.9108347607804683
+    "three_inst_ratio": 6.2850276070105595,
+    "three_inst_ratio_change_20": -0.8687129208014586
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.49,
-    "trust_ratio": -1.424945622494589,
+    "trust_ratio": -1.4330954432059586,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.065054377505412,
-    "three_inst_ratio_change_20": -1.0886861503066063
+    "three_inst_ratio": 6.056904556794041,
+    "three_inst_ratio_change_20": -0.946111542510299
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.4,
-    "trust_ratio": -1.4594465301727209,
+    "trust_ratio": -1.4675963508840906,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.94055346982728,
-    "three_inst_ratio_change_20": -1.0624626294770607
+    "three_inst_ratio": 5.93240364911591,
+    "three_inst_ratio_change_20": -1.0657225577616085
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.25,
-    "trust_ratio": -1.5139597753754386,
+    "trust_ratio": -1.522109596086808,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.736040224624562,
-    "three_inst_ratio_change_20": -1.262085982252957
+    "three_inst_ratio": 5.727890403913192,
+    "three_inst_ratio_change_20": -1.2802234654397413
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "潤泰全",
     "market": "TWSE",
     "foreign_ratio": 7.14,
-    "trust_ratio": -1.513778668248519,
+    "trust_ratio": -1.521928488959889,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.626221331751481,
-    "three_inst_ratio_change_20": -1.3818925376014528
+    "three_inst_ratio": 5.61807151104011,
+    "three_inst_ratio_change_20": -1.4193961458440194
   }
 ]

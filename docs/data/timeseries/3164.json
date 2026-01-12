@@ -715,6 +715,17 @@
     "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
+    "date": "2025-12-25",
+    "code": "3164",
+    "name": "景岳",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.44
+  },
+  {
     "date": "2025-12-26",
     "code": "3164",
     "name": "景岳",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.43,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2026-01-06",

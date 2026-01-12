@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.03999999999999915
   },
   {
+    "date": "2025-12-25",
+    "code": "5907",
+    "name": "大洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -49.84
+  },
+  {
     "date": "2025-12-26",
     "code": "5907",
     "name": "大洋-KY",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.19,
-    "three_inst_ratio_change_20": 4.349999999999994
+    "three_inst_ratio_change_20": 4.369999999999997
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.16,
-    "three_inst_ratio_change_20": 4.339999999999996
+    "three_inst_ratio_change_20": 4.329999999999998
   },
   {
     "date": "2025-12-30",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.19,
-    "three_inst_ratio_change_20": 4.359999999999999
+    "three_inst_ratio_change_20": 4.369999999999997
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.17,
-    "three_inst_ratio_change_20": 4.350000000000001
+    "three_inst_ratio_change_20": 4.359999999999999
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.17,
-    "three_inst_ratio_change_20": 4.359999999999999
+    "three_inst_ratio_change_20": 4.3700000000000045
   },
   {
     "date": "2026-01-09",

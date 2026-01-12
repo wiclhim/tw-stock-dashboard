@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.07850259624168654
   },
   {
+    "date": "2025-12-25",
+    "code": "6790",
+    "name": "永豐實",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.6413488806594323
+  },
+  {
     "date": "2025-12-26",
     "code": "6790",
     "name": "永豐實",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.23022582784069726,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7102258278406972,
-    "three_inst_ratio_change_20": 0.06887694718126491
+    "three_inst_ratio_change_20": 0.058876947181264905
   },
   {
     "date": "2025-12-29",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.23022582784069726,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7202258278406972,
-    "three_inst_ratio_change_20": 0.06887694718126491
+    "three_inst_ratio_change_20": 0.058876947181264905
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.23022582784069726,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.7202258278406972,
-    "three_inst_ratio_change_20": 0.058876947181264905
+    "three_inst_ratio_change_20": 0.028876947181264878
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.22947712596154052,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6794771259615404,
-    "three_inst_ratio_change_20": -0.011871754697891923
+    "three_inst_ratio_change_20": -0.011123052818735157
   },
   {
     "date": "2026-01-05",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.22947712596154052,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.6294771259615404,
-    "three_inst_ratio_change_20": -0.0611230528187352
+    "three_inst_ratio_change_20": -0.08112305281873522
   },
   {
     "date": "2026-01-09",

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.080839353038705
   },
   {
+    "date": "2025-12-25",
+    "code": "2027",
+    "name": "大成鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.41541289486006
+  },
+  {
     "date": "2025-12-26",
     "code": "2027",
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 18.32,
-    "trust_ratio": 2.6724644797483013,
+    "trust_ratio": 2.934821920040754,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.9924644797483,
-    "three_inst_ratio_change_20": -3.4229484151117617
+    "three_inst_ratio": 21.254821920040754,
+    "three_inst_ratio_change_20": -2.6160635676638186
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 18.04,
-    "trust_ratio": 2.6724644797483013,
+    "trust_ratio": 2.934821920040754,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.7124644797483,
-    "three_inst_ratio_change_20": -3.1584210079562745
+    "three_inst_ratio": 20.974821920040753,
+    "three_inst_ratio_change_20": -3.4860635676638196
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 17.54,
-    "trust_ratio": 2.996696484499107,
+    "trust_ratio": 3.25905392479156,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.536696484499107,
-    "three_inst_ratio_change_20": -3.9241890032054663
+    "three_inst_ratio": 20.799053924791558,
+    "three_inst_ratio_change_20": -3.881831562913014
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.9,
-    "trust_ratio": 3.3153949916154257,
+    "trust_ratio": 3.577752431907879,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.215394991615426,
-    "three_inst_ratio_change_20": -4.465490496089146
+    "three_inst_ratio": 20.477752431907877,
+    "three_inst_ratio_change_20": -4.203133055796695
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.62,
-    "trust_ratio": 3.608902540969151,
+    "trust_ratio": 3.8712599812616038,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.228902540969152,
-    "three_inst_ratio_change_20": -4.45198294673542
+    "three_inst_ratio": 20.491259981261607,
+    "three_inst_ratio_change_20": -4.279625506442969
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.29,
-    "trust_ratio": 3.658897498617801,
+    "trust_ratio": 3.9212549389102542,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.9488974986178,
-    "three_inst_ratio_change_20": -4.821987989086775
+    "three_inst_ratio": 20.211254938910255,
+    "three_inst_ratio_change_20": -4.57963054879432
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.07,
-    "trust_ratio": 3.6593231522819925,
+    "trust_ratio": 3.9216805925744453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.729323152281992,
-    "three_inst_ratio_change_20": -5.0615623354225825
+    "three_inst_ratio": 19.991680592574447,
+    "three_inst_ratio_change_20": -4.789204895130126
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.65,
-    "trust_ratio": 3.6593231522819925,
+    "trust_ratio": 3.9216805925744453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.30932315228199,
-    "three_inst_ratio_change_20": -4.471562335422583
+    "three_inst_ratio": 20.571680592574445,
+    "three_inst_ratio_change_20": -4.069204895130127
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.26,
-    "trust_ratio": 3.6593231522819925,
+    "trust_ratio": 3.9216805925744453,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.919323152281994,
-    "three_inst_ratio_change_20": -4.721562335422579
+    "three_inst_ratio": 20.18168059257445,
+    "three_inst_ratio_change_20": -4.2392048951301255
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "大成鋼",
     "market": "TWSE",
     "foreign_ratio": 16.06,
-    "trust_ratio": 3.6595940227955683,
+    "trust_ratio": 3.9219514630880212,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.71959402279557,
-    "three_inst_ratio_change_20": -4.701291464909005
+    "three_inst_ratio": 19.98195146308802,
+    "three_inst_ratio_change_20": -4.428934024616552
   }
 ]

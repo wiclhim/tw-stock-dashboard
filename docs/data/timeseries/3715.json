@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -6.187144591382548
   },
   {
+    "date": "2025-12-25",
+    "code": "3715",
+    "name": "定穎投控",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.546971208283146
+  },
+  {
     "date": "2025-12-26",
     "code": "3715",
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 14.01,
-    "trust_ratio": 8.66615041917861,
+    "trust_ratio": 8.683782464792401,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.67615041917861,
-    "three_inst_ratio_change_20": -5.870820789104535
+    "three_inst_ratio": 22.6937824647924,
+    "three_inst_ratio_change_20": -6.703188743490749
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 11.92,
-    "trust_ratio": 8.378395434761531,
+    "trust_ratio": 8.396027480375322,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 20.29839543476153,
-    "three_inst_ratio_change_20": -9.098575773521617
+    "three_inst_ratio": 20.316027480375322,
+    "three_inst_ratio_change_20": -7.946153093126501
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 13.17,
-    "trust_ratio": 8.03986015897673,
+    "trust_ratio": 8.057492204590522,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.20986015897673,
-    "three_inst_ratio_change_20": -7.0523204145250915
+    "three_inst_ratio": 21.227492204590522,
+    "three_inst_ratio_change_20": -5.414688368911296
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 15.03,
-    "trust_ratio": 7.411101412388918,
+    "trust_ratio": 7.428733458002711,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.441101412388917,
-    "three_inst_ratio_change_20": -4.201079161112901
+    "three_inst_ratio": 22.458733458002712,
+    "three_inst_ratio_change_20": -1.7216129993453606
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 15.3,
-    "trust_ratio": 7.696387910420068,
+    "trust_ratio": 7.7140199560338605,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.99638791042007,
-    "three_inst_ratio_change_20": -1.1839585469280038
+    "three_inst_ratio": 23.014019956033863,
+    "three_inst_ratio_change_20": -0.32632650131421315
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 12.16,
-    "trust_ratio": 7.016061777948337,
+    "trust_ratio": 7.033693823562129,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 19.176061777948338,
-    "three_inst_ratio_change_20": -4.164284679399739
+    "three_inst_ratio": 19.19369382356213,
+    "three_inst_ratio_change_20": -3.5190983781180947
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 11.57,
-    "trust_ratio": 6.397988756284308,
+    "trust_ratio": 6.415620801898099,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.967988756284306,
-    "three_inst_ratio_change_20": -4.744803445395917
+    "three_inst_ratio": 17.9856208018981,
+    "three_inst_ratio_change_20": -4.962765535974292
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 11.23,
-    "trust_ratio": 6.146555785831639,
+    "trust_ratio": 6.16418783144543,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.37655578583164,
-    "three_inst_ratio_change_20": -5.571830552040751
+    "three_inst_ratio": 17.39418783144543,
+    "three_inst_ratio_change_20": -4.705278907793478
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 16.36,
-    "trust_ratio": 6.349676951302518,
+    "trust_ratio": 6.36730899691631,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.70967695130252,
-    "three_inst_ratio_change_20": 0.6102102120636133
+    "three_inst_ratio": 22.72730899691631,
+    "three_inst_ratio_change_20": 0.28201322263687345
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "定穎投控",
     "market": "TWSE",
     "foreign_ratio": 19.2,
-    "trust_ratio": 6.38846745165286,
+    "trust_ratio": 6.406099497266653,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 25.58846745165286,
-    "three_inst_ratio_change_20": 3.1431716773734237
+    "three_inst_ratio": 25.60609949726665,
+    "three_inst_ratio_change_20": 1.7467419096813224
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.4099999999999966
   },
   {
+    "date": "2025-12-25",
+    "code": "8478",
+    "name": "東哥遊艇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -40.323008524769584
+  },
+  {
     "date": "2025-12-26",
     "code": "8478",
     "name": "東哥遊艇",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.29300852476958,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2025-12-30",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.24300852476958,
-    "three_inst_ratio_change_20": -0.11000000000000654
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.173008524769585,
-    "three_inst_ratio_change_20": -0.1699999999999946
+    "three_inst_ratio_change_20": -0.19999999999999574
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.19300852476958,
-    "three_inst_ratio_change_20": -0.17999999999999972
+    "three_inst_ratio_change_20": -0.2700000000000031
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.11300852476958,
-    "three_inst_ratio_change_20": -0.3500000000000014
+    "three_inst_ratio_change_20": -0.22999999999999687
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.103008524769585,
-    "three_inst_ratio_change_20": -0.23999999999999488
+    "three_inst_ratio_change_20": -0.27999999999999403
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.22300852476958,
-    "three_inst_ratio_change_20": -0.1599999999999966
+    "three_inst_ratio_change_20": -0.18999999999999773
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.08300852476958204,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 40.22300852476958,
-    "three_inst_ratio_change_20": -0.18999999999999773
+    "three_inst_ratio_change_20": -0.13000000000000256
   },
   {
     "date": "2026-01-09",

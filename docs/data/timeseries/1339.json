@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.07000000000000006
   },
   {
+    "date": "2025-12-25",
+    "code": "1339",
+    "name": "昭輝",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.83
+  },
+  {
     "date": "2025-12-26",
     "code": "1339",
     "name": "昭輝",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0,
-    "three_inst_ratio_change_20": 0.17000000000000004
+    "three_inst_ratio_change_20": 0.16000000000000003
   },
   {
     "date": "2026-01-07",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.03,
-    "three_inst_ratio_change_20": 0.19000000000000006
+    "three_inst_ratio_change_20": 0.16000000000000003
   },
   {
     "date": "2026-01-09",

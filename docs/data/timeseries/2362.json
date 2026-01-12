@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.094975918542481
   },
   {
+    "date": "2025-12-25",
+    "code": "2362",
+    "name": "藍天",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -10.245018987148521
+  },
+  {
     "date": "2025-12-26",
     "code": "2362",
     "name": "藍天",
@@ -800,7 +811,7 @@
     "trust_ratio": -0.08388655600606174,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.996113443993938,
-    "three_inst_ratio_change_20": -0.24890554315458324
+    "three_inst_ratio_change_20": -0.23342638080682931
   },
   {
     "date": "2025-12-30",
@@ -811,7 +822,7 @@
     "trust_ratio": -0.08404725975994073,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.955952740240058,
-    "three_inst_ratio_change_20": -0.27358708456070957
+    "three_inst_ratio_change_20": -0.2603214075077602
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": -0.0843686672676987,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.965631332732302,
-    "three_inst_ratio_change_20": -0.25064281501551555
+    "three_inst_ratio_change_20": -0.26064281501551534
   },
   {
     "date": "2026-01-02",
@@ -844,7 +855,7 @@
     "trust_ratio": -0.0843686672676987,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.855631332732301,
-    "three_inst_ratio_change_20": -0.37064281501551655
+    "three_inst_ratio_change_20": -0.31064281501551605
   },
   {
     "date": "2026-01-06",
@@ -866,7 +877,7 @@
     "trust_ratio": -0.0843686672676987,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.885631332732302,
-    "three_inst_ratio_change_20": -0.2806428150155149
+    "three_inst_ratio_change_20": -0.2906428150155147
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": -0.08452937102157769,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.815470628978423,
-    "three_inst_ratio_change_20": -0.3608035187693943
+    "three_inst_ratio_change_20": -0.37064281501551477
   }
 ]

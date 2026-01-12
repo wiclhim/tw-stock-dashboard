@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.25669233358321
   },
   {
+    "date": "2025-12-25",
+    "code": "2393",
+    "name": "億光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.895641474752267
+  },
+  {
     "date": "2025-12-26",
     "code": "2393",
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 30.19,
-    "trust_ratio": -11.376167241362893,
+    "trust_ratio": -13.108768682964984,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.81383275863711,
-    "three_inst_ratio_change_20": -4.081808716115159
+    "three_inst_ratio": 17.08123131703502,
+    "three_inst_ratio_change_20": -5.665366887610869
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 29.79,
-    "trust_ratio": -11.03290523569418,
+    "trust_ratio": -12.76550667729627,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.75709476430582,
-    "three_inst_ratio_change_20": -3.9895034403400693
+    "three_inst_ratio": 17.024493322703727,
+    "three_inst_ratio_change_20": -5.69539923055995
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 28.67,
-    "trust_ratio": -10.730690329257865,
+    "trust_ratio": -12.463291770859954,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.939309670742137,
-    "three_inst_ratio_change_20": -4.780582882521539
+    "three_inst_ratio": 16.206708229140048,
+    "three_inst_ratio_change_20": -6.53655924107035
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 28.36,
-    "trust_ratio": -10.443030453569138,
+    "trust_ratio": -12.175631895171229,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.916969546430863,
-    "three_inst_ratio_change_20": -4.826297923779535
+    "three_inst_ratio": 16.18436810482877,
+    "three_inst_ratio_change_20": -6.509738698045464
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.91,
-    "trust_ratio": -10.177202447401266,
+    "trust_ratio": -11.909803889003358,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.732797552598733,
-    "three_inst_ratio_change_20": -4.961309250275502
+    "three_inst_ratio": 16.00019611099664,
+    "three_inst_ratio_change_20": -6.712110536247742
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.66,
-    "trust_ratio": -9.916842050171255,
+    "trust_ratio": -11.649443491773347,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 17.743157949828746,
-    "three_inst_ratio_change_20": -4.969148697415637
+    "three_inst_ratio": 16.010556508226653,
+    "three_inst_ratio_change_20": -6.6943702146947786
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.82,
-    "trust_ratio": -9.661090204730888,
+    "trust_ratio": -11.393691646332979,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.15890979526911,
-    "three_inst_ratio_change_20": -4.546016927652321
+    "three_inst_ratio": 16.42630835366702,
+    "three_inst_ratio_change_20": -6.120306991525798
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.91,
-    "trust_ratio": -9.642493387909976,
+    "trust_ratio": -11.375094829512069,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.267506612090024,
-    "three_inst_ratio_change_20": -4.279108733102795
+    "three_inst_ratio": 16.53490517048793,
+    "three_inst_ratio_change_20": -5.688336697293469
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.71,
-    "trust_ratio": -9.645191670850727,
+    "trust_ratio": -11.377793112452817,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.064808329149272,
-    "three_inst_ratio_change_20": -4.158433538632128
+    "three_inst_ratio": 16.332206887547184,
+    "three_inst_ratio_change_20": -6.05667743050914
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "億光",
     "market": "TWSE",
     "foreign_ratio": 27.73,
-    "trust_ratio": -9.65999050332508,
+    "trust_ratio": -11.39259194492717,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 18.07000949667492,
-    "three_inst_ratio_change_20": -4.318874821381403
+    "three_inst_ratio": 16.337408055072828,
+    "three_inst_ratio_change_20": -5.803269204202255
   }
 ]

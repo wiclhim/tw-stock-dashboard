@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.20170773855004143
   },
   {
+    "date": "2025-12-25",
+    "code": "4763",
+    "name": "材料*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -48.446365081732516
+  },
+  {
     "date": "2025-12-26",
     "code": "4763",
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 46.97,
-    "trust_ratio": 1.3416044761086847,
+    "trust_ratio": 1.6046594990811625,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.311604476108684,
-    "three_inst_ratio_change_20": -0.13476060562383196
+    "three_inst_ratio": 48.574659499081164,
+    "three_inst_ratio_change_20": 0.1782944173486456
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.02,
-    "trust_ratio": 1.3333145022871078,
+    "trust_ratio": 1.5963695252595858,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.35331450228711,
-    "three_inst_ratio_change_20": -0.043050579445406356
+    "three_inst_ratio": 48.616369525259586,
+    "three_inst_ratio_change_20": 0.2500044435270681
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.09,
-    "trust_ratio": 1.191475072144761,
+    "trust_ratio": 1.4545300951172389,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.281475072144765,
-    "three_inst_ratio_change_20": -0.0848900095877525
+    "three_inst_ratio": 48.544530095117246,
+    "three_inst_ratio_change_20": 0.25221752998471914
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.28,
-    "trust_ratio": 0.8957139794040857,
+    "trust_ratio": 1.1587690023765636,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.17571397940409,
-    "three_inst_ratio_change_20": -0.11659858572843973
+    "three_inst_ratio": 48.43876900237657,
+    "three_inst_ratio_change_20": 0.22716132087873575
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.4,
-    "trust_ratio": 0.5707540824051907,
+    "trust_ratio": 0.8338091053776687,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.970754082405186,
-    "three_inst_ratio_change_20": -0.24085359909264525
+    "three_inst_ratio": 48.23380910537767,
+    "three_inst_ratio_change_20": 0.02381897974746039
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.37,
-    "trust_ratio": 0.5412792826770574,
+    "trust_ratio": 0.8043343056495353,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.91127928267706,
-    "three_inst_ratio_change_20": -0.29871084295314887
+    "three_inst_ratio": 48.17433430564953,
+    "three_inst_ratio_change_20": 0.026669416579032657
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.23,
-    "trust_ratio": 0.517218139146139,
+    "trust_ratio": 0.7802731621186169,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.747218139146135,
-    "three_inst_ratio_change_20": -0.40044674992436313
+    "three_inst_ratio": 48.010273162118615,
+    "three_inst_ratio_change_20": 0.0035267751545902115
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 47.09,
-    "trust_ratio": 0.49996468167860286,
+    "trust_ratio": 0.7630197046510807,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.58996468167861,
-    "three_inst_ratio_change_20": -0.41678170528541614
+    "three_inst_ratio": 47.85301970465108,
+    "three_inst_ratio_change_20": -0.12634658366690843
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 46.87,
-    "trust_ratio": 0.48290118592827086,
+    "trust_ratio": 0.7459562089007488,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.35290118592827,
-    "three_inst_ratio_change_20": -0.626465102389723
+    "three_inst_ratio": 47.61595620890075,
+    "three_inst_ratio_change_20": -0.38371606710256145
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "材料*-KY",
     "market": "TWSE",
     "foreign_ratio": 46.97,
-    "trust_ratio": 0.45764891469533026,
+    "trust_ratio": 0.7207039376678082,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.42764891469533,
-    "three_inst_ratio_change_20": -0.572023361307977
+    "three_inst_ratio": 47.690703937667806,
+    "three_inst_ratio_change_20": -0.2802739755470256
   }
 ]

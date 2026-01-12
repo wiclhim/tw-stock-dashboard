@@ -759,6 +759,17 @@
     "three_inst_ratio_change_20": 0.0600000000000005
   },
   {
+    "date": "2025-12-25",
+    "code": "1338",
+    "name": "廣華-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.05
+  },
+  {
     "date": "2025-12-26",
     "code": "1338",
     "name": "廣華-KY",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.11,
-    "three_inst_ratio_change_20": 0.0600000000000005
+    "three_inst_ratio_change_20": 0.05000000000000071
   },
   {
     "date": "2025-12-29",
@@ -778,7 +789,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.12,
-    "three_inst_ratio_change_20": 0.0600000000000005
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2025-12-30",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.12,
-    "three_inst_ratio_change_20": 0.04999999999999982
+    "three_inst_ratio_change_20": 0.0600000000000005
   },
   {
     "date": "2025-12-31",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.12,
-    "three_inst_ratio_change_20": 0.0600000000000005
+    "three_inst_ratio_change_20": 0.04999999999999982
   },
   {
     "date": "2026-01-02",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.11,
-    "three_inst_ratio_change_20": 0.040000000000000036
+    "three_inst_ratio_change_20": 0.05000000000000071
   },
   {
     "date": "2026-01-05",

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 1.4887672597173776
   },
   {
+    "date": "2025-12-25",
+    "code": "6531",
+    "name": "愛普*",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -26.14064904419554
+  },
+  {
     "date": "2025-12-26",
     "code": "6531",
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 24.62,
-    "trust_ratio": 2.2917169357363494,
+    "trust_ratio": 2.3458733707344237,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 26.91171693573635,
-    "three_inst_ratio_change_20": 0.7710678915408096
+    "three_inst_ratio": 26.965873370734425,
+    "three_inst_ratio_change_20": 0.4070705686410925
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 25.02,
-    "trust_ratio": 2.2917169357363494,
+    "trust_ratio": 2.3458733707344237,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.31171693573635,
-    "three_inst_ratio_change_20": 0.7529141336430172
+    "three_inst_ratio": 27.365873370734423,
+    "three_inst_ratio_change_20": 1.0141468739256432
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.11,
-    "trust_ratio": 2.32925719181456,
+    "trust_ratio": 2.3834136268126342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.43925719181456,
-    "three_inst_ratio_change_20": 4.087530695005778
+    "three_inst_ratio": 30.493413626812632,
+    "three_inst_ratio_change_20": 4.37999426335654
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.17,
-    "trust_ratio": 2.340950058461871,
+    "trust_ratio": 2.395106493459946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.510950058461873,
-    "three_inst_ratio_change_20": 4.397530695005781
+    "three_inst_ratio": 30.565106493459947,
+    "three_inst_ratio_change_20": 4.862917958071993
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.11,
-    "trust_ratio": 2.422800124993052,
+    "trust_ratio": 2.4769565599911263,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.532800124993052,
-    "three_inst_ratio_change_20": 4.830611589605098
+    "three_inst_ratio": 30.586956559991126,
+    "three_inst_ratio_change_20": 5.074614649148273
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.58,
-    "trust_ratio": 2.73358421219791,
+    "trust_ratio": 2.787740647195984,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.31358421219791,
-    "three_inst_ratio_change_20": 5.801242301355057
+    "three_inst_ratio": 31.367740647195983,
+    "three_inst_ratio_change_20": 6.031552876693819
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.61,
-    "trust_ratio": 2.697890198221906,
+    "trust_ratio": 2.7520466332199804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.307890198221905,
-    "three_inst_ratio_change_20": 5.971702427719741
+    "three_inst_ratio": 31.36204663321998,
+    "three_inst_ratio_change_20": 5.885090073228852
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 28.75,
-    "trust_ratio": 2.6948131280515613,
+    "trust_ratio": 2.7489695630496356,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.44481312805156,
-    "three_inst_ratio_change_20": 5.967856568060434
+    "three_inst_ratio": 31.498969563049634,
+    "three_inst_ratio_change_20": 5.80309045567175
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 29.12,
-    "trust_ratio": 2.691120643847147,
+    "trust_ratio": 2.7452770788452217,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.811120643847147,
-    "three_inst_ratio_change_20": 6.115241536469263
+    "three_inst_ratio": 31.865277078845224,
+    "three_inst_ratio_change_20": 6.087860392489414
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "愛普*",
     "market": "TWSE",
     "foreign_ratio": 30.54,
-    "trust_ratio": 2.697890198221906,
+    "trust_ratio": 2.7520466332199804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.237890198221905,
-    "three_inst_ratio_change_20": 7.460473511866095
+    "three_inst_ratio": 33.29204663321998,
+    "three_inst_ratio_change_20": 7.514014532830103
   }
 ]

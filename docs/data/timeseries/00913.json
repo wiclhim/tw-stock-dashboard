@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.10999999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "00913",
+    "name": "兆豐台灣晶圓製造",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.92
+  },
+  {
     "date": "2025-12-26",
     "code": "00913",
     "name": "兆豐台灣晶圓製造",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.06,
-    "three_inst_ratio_change_20": 0.14
+    "three_inst_ratio_change_20": -0.1399999999999999
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.18,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2025-12-30",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.46,
-    "three_inst_ratio_change_20": 0.28
+    "three_inst_ratio_change_20": 0.31000000000000005
   },
   {
     "date": "2026-01-05",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
-    "three_inst_ratio_change_20": 0.27
+    "three_inst_ratio_change_20": 0.29000000000000004
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.42,
-    "three_inst_ratio_change_20": 0.29000000000000004
+    "three_inst_ratio_change_20": 0.2999999999999998
   }
 ]

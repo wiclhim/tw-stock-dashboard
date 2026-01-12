@@ -583,6 +583,17 @@
     "three_inst_ratio_change_20": -0.0799999999999983
   },
   {
+    "date": "2025-12-25",
+    "code": "5538",
+    "name": "東明-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -63.79
+  },
+  {
     "date": "2025-12-26",
     "code": "5538",
     "name": "東明-KY",
@@ -602,7 +613,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 63.7,
-    "three_inst_ratio_change_20": -0.0899999999999963
+    "three_inst_ratio_change_20": -0.09999999999999432
   },
   {
     "date": "2025-12-30",
@@ -690,6 +701,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 63.7,
-    "three_inst_ratio_change_20": -0.09999999999999432
+    "three_inst_ratio_change_20": -0.0799999999999983
   }
 ]

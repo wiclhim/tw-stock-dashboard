@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.4267010646514482
   },
   {
+    "date": "2025-12-25",
+    "code": "6282",
+    "name": "康舒",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.451984677227129
+  },
+  {
     "date": "2025-12-26",
     "code": "6282",
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 10.07,
-    "trust_ratio": 0.03528361257568193,
+    "trust_ratio": 0.03598452330696108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.105283612575683,
-    "three_inst_ratio_change_20": -1.3467010646514463
+    "three_inst_ratio": 10.105984523306962,
+    "three_inst_ratio_change_20": -1.3860001539201683
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 10.01,
-    "trust_ratio": 0.03528361257568193,
+    "trust_ratio": 0.03598452330696108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.045283612575682,
-    "three_inst_ratio_change_20": -1.4467010646514478
+    "three_inst_ratio": 10.045984523306961,
+    "three_inst_ratio_change_20": -1.2260001539201681
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 9.64,
-    "trust_ratio": 0.03481633875482917,
+    "trust_ratio": 0.035517249486108314,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.67481633875483,
-    "three_inst_ratio_change_20": -1.597168338472299
+    "three_inst_ratio": 9.67551724948611,
+    "three_inst_ratio_change_20": -1.5111268413509062
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 8.76,
-    "trust_ratio": 0.03481633875482917,
+    "trust_ratio": 0.035517249486108314,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.79481633875483,
-    "three_inst_ratio_change_20": -2.391827752082186
+    "three_inst_ratio": 8.795517249486108,
+    "three_inst_ratio_change_20": -2.1552038282595554
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 9.9,
-    "trust_ratio": 0.034582701844402784,
+    "trust_ratio": 0.03528361257568193,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.934582701844404,
-    "three_inst_ratio_change_20": -1.01613837590126
+    "three_inst_ratio": 9.935283612575683,
+    "three_inst_ratio_change_20": -1.1002133641201137
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 8.89,
-    "trust_ratio": 0.032479969650565335,
+    "trust_ratio": 0.03318088038184449,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.922479969650565,
-    "three_inst_ratio_change_20": -2.113017007045231
+    "three_inst_ratio": 8.923180880381844,
+    "three_inst_ratio_change_20": -1.8751117444798826
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 9.68,
-    "trust_ratio": 0.030026782091088316,
+    "trust_ratio": 0.030727692822367463,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.710026782091088,
-    "three_inst_ratio_change_20": -1.0882658427706389
+    "three_inst_ratio": 9.710727692822367,
+    "three_inst_ratio_change_20": -0.8082638440808445
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 9.32,
-    "trust_ratio": 0.027573594531611293,
+    "trust_ratio": 0.028274505262890444,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.347573594531612,
-    "three_inst_ratio_change_20": -1.1714179423715994
+    "three_inst_ratio": 9.348274505262891,
+    "three_inst_ratio_change_20": -0.8108335169805674
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 8.94,
-    "trust_ratio": 0.02675586534511895,
+    "trust_ratio": 0.027456776076398102,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.96675586534512,
-    "three_inst_ratio_change_20": -1.1923521568983393
+    "three_inst_ratio": 8.967456776076398,
+    "three_inst_ratio_change_20": -1.0047963503537325
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "康舒",
     "market": "TWSE",
     "foreign_ratio": 11.48,
-    "trust_ratio": 0.11764062350098194,
+    "trust_ratio": 0.11834153423226107,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.597640623500983,
-    "three_inst_ratio_change_20": 1.625387497070852
+    "three_inst_ratio": 11.598341534232262,
+    "three_inst_ratio_change_20": 1.5339916716776827
   }
 ]

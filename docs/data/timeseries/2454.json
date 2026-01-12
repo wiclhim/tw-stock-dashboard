@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 1.1108767131117148
   },
   {
+    "date": "2025-12-25",
+    "code": "2454",
+    "name": "聯發科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -56.6763192134917
+  },
+  {
     "date": "2025-12-26",
     "code": "2454",
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.59,
-    "trust_ratio": 1.061594405921159,
+    "trust_ratio": 1.0864710796242334,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.65159440592116,
-    "three_inst_ratio_change_20": 0.9752751924294571
+    "three_inst_ratio": 57.676471079624235,
+    "three_inst_ratio_change_20": 0.5065176680726751
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.55,
-    "trust_ratio": 1.1145872074933838,
+    "trust_ratio": 1.1394638811964581,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.66458720749338,
-    "three_inst_ratio_change_20": 0.494633795941823
+    "three_inst_ratio": 57.68946388119645,
+    "three_inst_ratio_change_20": 0.18918592683897373
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.49,
-    "trust_ratio": 1.1487716227097027,
+    "trust_ratio": 1.173648296412777,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.638771622709704,
-    "three_inst_ratio_change_20": 0.13849366835222554
+    "three_inst_ratio": 57.66364829641278,
+    "three_inst_ratio_change_20": 0.02522024837392678
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.53,
-    "trust_ratio": 1.1847259602645752,
+    "trust_ratio": 1.2096026339676496,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.71472596026457,
-    "three_inst_ratio_change_20": 0.07629791222571924
+    "three_inst_ratio": 57.73960263396765,
+    "three_inst_ratio_change_20": 0.00011112371488053441
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.53,
-    "trust_ratio": 1.246062734873598,
+    "trust_ratio": 1.2709394085766723,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.7760627348736,
-    "three_inst_ratio_change_20": 0.03657122462082896
+    "three_inst_ratio": 57.800939408576674,
+    "three_inst_ratio_change_20": 0.012150430552686942
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.55,
-    "trust_ratio": 1.3297218662810804,
+    "trust_ratio": 1.354598539984155,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.87972186628108,
-    "three_inst_ratio_change_20": 0.09093288825709323
+    "three_inst_ratio": 57.90459853998415,
+    "three_inst_ratio_change_20": 0.028648682487528276
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.34,
-    "trust_ratio": 1.3485235191012472,
+    "trust_ratio": 1.3734001928043214,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.68852351910125,
-    "three_inst_ratio_change_20": -0.18742633839536893
+    "three_inst_ratio": 57.71340019280432,
+    "three_inst_ratio_change_20": -0.2744175973843923
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.31,
-    "trust_ratio": 1.3946794126911868,
+    "trust_ratio": 1.4195560863942611,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.70467941269119,
-    "three_inst_ratio_change_20": -0.28313837749752224
+    "three_inst_ratio": 57.72955608639426,
+    "three_inst_ratio_change_20": -0.22968135757945873
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.23,
-    "trust_ratio": 1.3957885133140038,
+    "trust_ratio": 1.4206651870170781,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.625788513314,
-    "three_inst_ratio_change_20": -0.3334489306597206
+    "three_inst_ratio": 57.650665187017076,
+    "three_inst_ratio_change_20": -0.4977141675827781
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "聯發科",
     "market": "TWSE",
     "foreign_ratio": 56.17,
-    "trust_ratio": 1.3811957567636954,
+    "trust_ratio": 1.4060724304667698,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 57.5511957567637,
-    "three_inst_ratio_change_20": -0.5971835978361568
+    "three_inst_ratio": 57.57607243046677,
+    "three_inst_ratio_change_20": -0.35624106834048774
   }
 ]

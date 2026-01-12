@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.85
   },
   {
+    "date": "2025-12-25",
+    "code": "00964",
+    "name": "中信亞太高股息",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.6
+  },
+  {
     "date": "2025-12-26",
     "code": "00964",
     "name": "中信亞太高股息",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.2,
-    "three_inst_ratio_change_20": 4.6000000000000005
+    "three_inst_ratio_change_20": 3.66
   },
   {
     "date": "2025-12-30",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.35,
-    "three_inst_ratio_change_20": 0.81
+    "three_inst_ratio_change_20": 1.77
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.34,
-    "three_inst_ratio_change_20": -0.23999999999999994
+    "three_inst_ratio_change_20": -0.06999999999999995
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": 0.22000000000000003
+    "three_inst_ratio_change_20": 0.58
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.15,
-    "three_inst_ratio_change_20": 1.0999999999999999
+    "three_inst_ratio_change_20": 1.1099999999999999
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.08,
-    "three_inst_ratio_change_20": 2.04
+    "three_inst_ratio_change_20": 1.78
   }
 ]

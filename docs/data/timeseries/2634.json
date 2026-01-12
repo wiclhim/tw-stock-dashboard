@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7046715720246817
   },
   {
+    "date": "2025-12-25",
+    "code": "2634",
+    "name": "漢翔",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.3453292590161294
+  },
+  {
     "date": "2025-12-26",
     "code": "2634",
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 2.91,
-    "trust_ratio": 0.2606576869914474,
+    "trust_ratio": 0.2569416637899958,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.1706576869914476,
-    "three_inst_ratio_change_20": -0.17467157202468186
+    "three_inst_ratio": 3.166941663789996,
+    "three_inst_ratio_change_20": -0.2283875952261334
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.17,
-    "trust_ratio": 0.2601268265340972,
+    "trust_ratio": 0.25641080333264554,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.430126826534097,
-    "three_inst_ratio_change_20": 0.03479756751796792
+    "three_inst_ratio": 3.4264108033326455,
+    "three_inst_ratio_change_20": 0.08108154431651604
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 2.74,
-    "trust_ratio": 0.25980831025968704,
+    "trust_ratio": 0.25609228705823545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.999808310259687,
-    "three_inst_ratio_change_20": -0.34552094875644235
+    "three_inst_ratio": 2.996092287058236,
+    "three_inst_ratio_change_20": -0.4992369719578935
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 2.72,
-    "trust_ratio": 0.25980831025968704,
+    "trust_ratio": 0.25609228705823545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 2.979808310259687,
-    "three_inst_ratio_change_20": -0.5155209487564423
+    "three_inst_ratio": 2.976092287058236,
+    "three_inst_ratio_change_20": -0.5592369719578936
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 2.85,
-    "trust_ratio": 0.25980831025968704,
+    "trust_ratio": 0.25609228705823545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.109808310259687,
-    "three_inst_ratio_change_20": -0.4255209487564424
+    "three_inst_ratio": 3.1060922870582357,
+    "three_inst_ratio_change_20": -0.4592369719578935
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.07,
-    "trust_ratio": 0.25980831025968704,
+    "trust_ratio": 0.25609228705823545,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3298083102596867,
-    "three_inst_ratio_change_20": -0.23552094875644247
+    "three_inst_ratio": 3.3260922870582355,
+    "three_inst_ratio_change_20": -0.2992369719578938
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.2,
-    "trust_ratio": 0.25938362189380687,
+    "trust_ratio": 0.2556675986923552,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.459383621893807,
-    "three_inst_ratio_change_20": -0.16594563712232224
+    "three_inst_ratio": 3.4556675986923553,
+    "three_inst_ratio_change_20": -0.27966166032377426
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.09,
-    "trust_ratio": 0.2589589335279267,
+    "trust_ratio": 0.255242910326475,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.3489589335279266,
-    "three_inst_ratio_change_20": -0.38637032548820294
+    "three_inst_ratio": 3.345242910326475,
+    "three_inst_ratio_change_20": -0.27008634868965453
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.98,
-    "trust_ratio": 0.25864041725351655,
+    "trust_ratio": 0.2549243940520649,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.238640417253516,
-    "three_inst_ratio_change_20": 0.6233111582373869
+    "three_inst_ratio": 4.234924394052065,
+    "three_inst_ratio_change_20": 0.6395951350359357
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "漢翔",
     "market": "TWSE",
     "foreign_ratio": 3.28,
-    "trust_ratio": 0.2583219009791064,
+    "trust_ratio": 0.25460587777765475,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 3.5383219009791063,
-    "three_inst_ratio_change_20": -0.05700735803702317
+    "three_inst_ratio": 3.5346058777776546,
+    "three_inst_ratio_change_20": -0.14072338123847494
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.8620649860273097
   },
   {
+    "date": "2025-12-25",
+    "code": "6414",
+    "name": "樺漢",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.010833975814407
+  },
+  {
     "date": "2025-12-26",
     "code": "6414",
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 23.26,
-    "trust_ratio": 5.306834273037636,
+    "trust_ratio": 5.759794334320296,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.56683427303764,
-    "three_inst_ratio_change_20": 0.5560002972232319
+    "three_inst_ratio": 29.0197943343203,
+    "three_inst_ratio_change_20": 0.96354781876828
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 23.17,
-    "trust_ratio": 5.333735592889094,
+    "trust_ratio": 5.786695654171755,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.503735592889097,
-    "three_inst_ratio_change_20": 0.4474890773370781
+    "three_inst_ratio": 28.956695654171757,
+    "three_inst_ratio_change_20": 1.0548115148118669
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 23.15,
-    "trust_ratio": 5.32428377780615,
+    "trust_ratio": 5.77724383908881,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.47428377780615,
-    "three_inst_ratio_change_20": 0.5723996384462602
+    "three_inst_ratio": 28.92724383908881,
+    "three_inst_ratio_change_20": 1.1297220759210518
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 23.14,
-    "trust_ratio": 5.274843514295361,
+    "trust_ratio": 5.727803575578022,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.414843514295363,
-    "three_inst_ratio_change_20": 0.617321751127605
+    "three_inst_ratio": 28.867803575578023,
+    "three_inst_ratio_change_20": 0.9417359378076391
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 23.17,
-    "trust_ratio": 5.223949125387197,
+    "trust_ratio": 5.676909186669858,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.3939491253872,
-    "three_inst_ratio_change_20": 0.4678814876168147
+    "three_inst_ratio": 28.846909186669862,
+    "three_inst_ratio_change_20": 0.9321167965152206
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 22.97,
-    "trust_ratio": 5.1774171126711614,
+    "trust_ratio": 5.630377173953822,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.14741711267116,
-    "three_inst_ratio_change_20": 0.232624722516519
+    "three_inst_ratio": 28.60037717395382,
+    "three_inst_ratio_change_20": 0.7124976552227942
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 22.79,
-    "trust_ratio": 5.131612162653814,
+    "trust_ratio": 5.584572223936474,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.921612162653812,
-    "three_inst_ratio_change_20": 0.033732643922785854
+    "three_inst_ratio": 28.374572223936475,
+    "three_inst_ratio_change_20": 0.4343326393277529
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 22.75,
-    "trust_ratio": 5.137428664243318,
+    "trust_ratio": 5.590388725525979,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.887428664243316,
-    "three_inst_ratio_change_20": -0.05281092036540613
+    "three_inst_ratio": 28.34038872552598,
+    "three_inst_ratio_change_20": 0.4799702631356233
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 22.8,
-    "trust_ratio": 5.261756385718976,
+    "trust_ratio": 5.714716447001638,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.061756385718976,
-    "three_inst_ratio_change_20": 0.20133792332861944
+    "three_inst_ratio": 28.51471644700164,
+    "three_inst_ratio_change_20": 0.5490296679388358
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "樺漢",
     "market": "TWSE",
     "foreign_ratio": 22.67,
-    "trust_ratio": 5.248669257142591,
+    "trust_ratio": 5.701629318425252,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.918669257142593,
-    "three_inst_ratio_change_20": -0.04701752192021047
+    "three_inst_ratio": 28.371629318425253,
+    "three_inst_ratio_change_20": 0.34666960206113373
   }
 ]

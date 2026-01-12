@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.04999999999999716
   },
   {
+    "date": "2025-12-25",
+    "code": "8429",
+    "name": "金麗-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -31.26
+  },
+  {
     "date": "2025-12-26",
     "code": "8429",
     "name": "金麗-KY",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.15,
-    "three_inst_ratio_change_20": -0.11000000000000298
+    "three_inst_ratio_change_20": -0.10000000000000142
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.15,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.11000000000000298
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.16,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.12,
-    "three_inst_ratio_change_20": -0.129999999999999
+    "three_inst_ratio_change_20": -0.10999999999999943
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.15,
-    "three_inst_ratio_change_20": -0.08000000000000185
+    "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.18,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.010000000000001563
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.18,
-    "three_inst_ratio_change_20": -0.010000000000001563
+    "three_inst_ratio_change_20": 0.00999999999999801
   }
 ]

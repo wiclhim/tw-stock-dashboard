@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.18000000000000327
   },
   {
+    "date": "2025-12-25",
+    "code": "3130",
+    "name": "一零四",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -22.536154705986917
+  },
+  {
     "date": "2025-12-26",
     "code": "3130",
     "name": "一零四",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.346154705986915,
-    "three_inst_ratio_change_20": -0.19000000000000128
+    "three_inst_ratio_change_20": -0.1700000000000017
   },
   {
     "date": "2025-12-30",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.326154705986916,
-    "three_inst_ratio_change_20": -0.19000000000000128
+    "three_inst_ratio_change_20": -0.17999999999999972
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.316154705986918,
-    "three_inst_ratio_change_20": -0.18999999999999773
+    "three_inst_ratio_change_20": -0.1999999999999993
   },
   {
     "date": "2026-01-05",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.306154705986916,
-    "three_inst_ratio_change_20": -0.21000000000000085
+    "three_inst_ratio_change_20": -0.1999999999999993
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.276154705986915,
-    "three_inst_ratio_change_20": -0.23000000000000043
+    "three_inst_ratio_change_20": -0.20000000000000284
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.03615470598691802,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.166154705986916,
-    "three_inst_ratio_change_20": -0.3100000000000023
+    "three_inst_ratio_change_20": -0.3000000000000007
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.0139570104711488
   },
   {
+    "date": "2025-12-25",
+    "code": "4938",
+    "name": "和碩",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -29.40921881951578
+  },
+  {
     "date": "2025-12-26",
     "code": "4938",
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 27.94,
-    "trust_ratio": 0.29953779328447067,
+    "trust_ratio": 0.35356262157298113,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.239537793284473,
-    "three_inst_ratio_change_20": -1.1696810262313058
+    "three_inst_ratio": 28.29356262157298,
+    "three_inst_ratio_change_20": -1.0927399018888408
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.15,
-    "trust_ratio": 0.00847076993792808,
+    "trust_ratio": 0.06249559822643851,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.158470769937928,
-    "three_inst_ratio_change_20": -1.227831753523894
+    "three_inst_ratio": 28.212495598226436,
+    "three_inst_ratio_change_20": -1.1447848461343746
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.34,
-    "trust_ratio": -0.2484809762159643,
+    "trust_ratio": -0.19445614792745386,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 28.091519023784034,
-    "three_inst_ratio_change_20": -1.2657614205767764
+    "three_inst_ratio": 28.145543852072546,
+    "three_inst_ratio_change_20": -1.2232468073194873
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.48,
-    "trust_ratio": -0.5035289867036442,
+    "trust_ratio": -0.44950415841513375,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.976471013296358,
-    "three_inst_ratio_change_20": -1.3923196460956753
+    "three_inst_ratio": 28.030495841584866,
+    "three_inst_ratio_change_20": -1.3889005648882424
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.62,
-    "trust_ratio": -0.7389366280998909,
+    "trust_ratio": -0.6849117998113804,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.88106337190011,
-    "three_inst_ratio_change_20": -1.5383330345729966
+    "three_inst_ratio": 27.93508820018862,
+    "three_inst_ratio_change_20": -1.4152525806535614
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.72,
-    "trust_ratio": -0.941529715540392,
+    "trust_ratio": -0.8875048872518816,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.77847028445961,
-    "three_inst_ratio_change_20": -1.571870496382573
+    "three_inst_ratio": 27.832495112748116,
+    "three_inst_ratio_change_20": -1.5306500826571643
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 28.8,
-    "trust_ratio": -1.1703693533114445,
+    "trust_ratio": -1.1163445250229342,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.629630646688558,
-    "three_inst_ratio_change_20": -1.7335145487167232
+    "three_inst_ratio": 27.683655474977066,
+    "three_inst_ratio_change_20": -1.6405401644375353
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 29.16,
-    "trust_ratio": -1.4703740767099658,
+    "trust_ratio": -1.4163492484214553,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.689625923290034,
-    "three_inst_ratio_change_20": -1.6345697161245667
+    "three_inst_ratio": 27.743650751578546,
+    "three_inst_ratio_change_20": -1.4978085155826264
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 29.21,
-    "trust_ratio": -1.466530888430139,
+    "trust_ratio": -1.4125060601416284,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.743469111569862,
-    "three_inst_ratio_change_20": -1.4979901555913102
+    "three_inst_ratio": 27.797493939858374,
+    "three_inst_ratio_change_20": -1.4514162635836705
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "和碩",
     "market": "TWSE",
     "foreign_ratio": 29.07,
-    "trust_ratio": -1.4383842561503324,
+    "trust_ratio": -1.3843594278618219,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.631615743849668,
-    "three_inst_ratio_change_20": -1.617294459592376
+    "three_inst_ratio": 27.68564057213818,
+    "three_inst_ratio_change_20": -1.2846363078601328
   }
 ]

@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.2999999999999998
   },
   {
+    "date": "2025-12-25",
+    "code": "00783",
+    "name": "富邦中証500",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.71
+  },
+  {
     "date": "2025-12-26",
     "code": "00783",
     "name": "富邦中証500",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.02,
-    "three_inst_ratio_change_20": 0.31000000000000005
+    "three_inst_ratio_change_20": 0.2999999999999998
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.03,
-    "three_inst_ratio_change_20": 0.3099999999999996
+    "three_inst_ratio_change_20": 0.2999999999999998
   },
   {
     "date": "2026-01-02",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.93,
-    "three_inst_ratio_change_20": 1.2000000000000002
+    "three_inst_ratio_change_20": 1.19
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
-    "three_inst_ratio_change_20": 1.1999999999999997
+    "three_inst_ratio_change_20": 1.1
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.94,
-    "three_inst_ratio_change_20": 1.1
+    "three_inst_ratio_change_20": 1.0899999999999999
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.54,
-    "three_inst_ratio_change_20": 0.69
+    "three_inst_ratio_change_20": 0.6000000000000001
   }
 ]

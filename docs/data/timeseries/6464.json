@@ -704,6 +704,17 @@
     "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
+    "date": "2025-12-25",
+    "code": "6464",
+    "name": "台數科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.67
+  },
+  {
     "date": "2025-12-29",
     "code": "6464",
     "name": "台數科",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.63,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-01-07",
@@ -800,6 +811,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.65,
-    "three_inst_ratio_change_20": -0.010000000000000009
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

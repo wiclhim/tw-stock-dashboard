@@ -561,6 +561,17 @@
     "three_inst_ratio_change_20": -0.9100000000000001
   },
   {
+    "date": "2025-12-25",
+    "code": "00983D",
+    "name": "主動富邦複合收益",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.49
+  },
+  {
     "date": "2025-12-26",
     "code": "00983D",
     "name": "主動富邦複合收益",
@@ -580,7 +591,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.03,
-    "three_inst_ratio_change_20": -1.46
+    "three_inst_ratio_change_20": -1.4100000000000001
   },
   {
     "date": "2025-12-30",
@@ -613,7 +624,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.74,
-    "three_inst_ratio_change_20": -2.7
+    "three_inst_ratio_change_20": -2.75
   },
   {
     "date": "2026-01-05",
@@ -624,7 +635,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.12,
-    "three_inst_ratio_change_20": -2.37
+    "three_inst_ratio_change_20": -2.2800000000000002
   },
   {
     "date": "2026-01-06",
@@ -635,7 +646,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.33,
-    "three_inst_ratio_change_20": -2.0700000000000003
+    "three_inst_ratio_change_20": -2.16
   },
   {
     "date": "2026-01-07",
@@ -646,7 +657,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.33,
-    "three_inst_ratio_change_20": -2.16
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2026-01-08",
@@ -657,7 +668,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.43,
-    "three_inst_ratio_change_20": 0.050000000000000266
+    "three_inst_ratio_change_20": -0.31000000000000005
   },
   {
     "date": "2026-01-09",

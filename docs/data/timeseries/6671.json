@@ -737,6 +737,17 @@
     "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
+    "date": "2025-12-25",
+    "code": "6671",
+    "name": "三能-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -49.81
+  },
+  {
     "date": "2025-12-26",
     "code": "6671",
     "name": "三能-KY",
@@ -745,7 +756,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.8,
-    "three_inst_ratio_change_20": -0.010000000000005116
+    "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
     "date": "2025-12-29",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.79,
-    "three_inst_ratio_change_20": -0.030000000000001137
+    "three_inst_ratio_change_20": -0.020000000000003126
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 49.81,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": 0.010000000000005116
   },
   {
     "date": "2026-01-09",

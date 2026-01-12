@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.8837011259043663
   },
   {
+    "date": "2025-12-25",
+    "code": "3533",
+    "name": "嘉澤",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -37.326770653771106
+  },
+  {
     "date": "2025-12-26",
     "code": "3533",
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 36.88,
-    "trust_ratio": -0.12202459417603058,
+    "trust_ratio": -0.11935874956105756,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.75797540582397,
-    "three_inst_ratio_change_20": -0.5687952479471363
+    "three_inst_ratio": 36.760641250438944,
+    "three_inst_ratio_change_20": -0.06880757872254861
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 36.97,
-    "trust_ratio": -0.12202459417603058,
+    "trust_ratio": -0.11935874956105756,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.847975405823966,
-    "three_inst_ratio_change_20": 0.018526576662473815
+    "three_inst_ratio": 36.85064125043894,
+    "three_inst_ratio_change_20": 0.1785265766624775
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.12,
-    "trust_ratio": -0.12113597930437292,
+    "trust_ratio": -0.1184701346893999,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.99886402069563,
-    "three_inst_ratio_change_20": 0.3267493469191649
+    "three_inst_ratio": 37.001529865310594,
+    "three_inst_ratio_change_20": 0.4073194208175295
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.22,
-    "trust_ratio": -0.24052671900081016,
+    "trust_ratio": -0.23786087438583714,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.97947328099919,
-    "three_inst_ratio_change_20": 0.38526283650612214
+    "three_inst_ratio": 36.98213912561416,
+    "three_inst_ratio_change_20": 0.27059452573607246
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.34,
-    "trust_ratio": -0.23983981970501878,
+    "trust_ratio": -0.2371739750900458,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.100160180294985,
-    "three_inst_ratio_change_20": 0.3886155804168965
+    "three_inst_ratio": 37.10282602490996,
+    "three_inst_ratio_change_20": 0.37882848605325137
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.26,
-    "trust_ratio": -0.24401630960180978,
+    "trust_ratio": -0.24135046498683682,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.01598369039819,
-    "three_inst_ratio_change_20": 0.29198615154147944
+    "three_inst_ratio": 37.01864953501316,
+    "three_inst_ratio_change_20": 0.23778080911956323
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.39,
-    "trust_ratio": -0.26810221569809084,
+    "trust_ratio": -0.2654363710831178,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.12189778430191,
-    "three_inst_ratio_change_20": 0.34102905840831
+    "three_inst_ratio": 37.12456362891688,
+    "three_inst_ratio_change_20": 0.43312352366080376
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.46,
-    "trust_ratio": -0.31269913026197405,
+    "trust_ratio": -0.31003328564700106,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.147300869738025,
-    "three_inst_ratio_change_20": 0.45586076448194746
+    "three_inst_ratio": 37.149966714353,
+    "three_inst_ratio_change_20": 0.3297262391736666
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.66,
-    "trust_ratio": -0.12138034839407877,
+    "trust_ratio": -0.11871450377910578,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.53861965160592,
-    "three_inst_ratio_change_20": 0.7183791764265877
+    "three_inst_ratio": 37.541285496220894,
+    "three_inst_ratio_change_20": 0.760156406169898
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "嘉澤",
     "market": "TWSE",
     "foreign_ratio": 37.61,
-    "trust_ratio": -0.02096686789676261,
+    "trust_ratio": -0.018301023281789612,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 37.58903313210324,
-    "three_inst_ratio_change_20": 0.8079040420522432
+    "three_inst_ratio": 37.59169897671821,
+    "three_inst_ratio_change_20": 0.7685427589613241
   }
 ]

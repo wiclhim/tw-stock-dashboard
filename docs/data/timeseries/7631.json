@@ -561,6 +561,17 @@
     "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
+    "date": "2025-12-25",
+    "code": "7631",
+    "name": "聚賢研發-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.38
+  },
+  {
     "date": "2025-12-26",
     "code": "7631",
     "name": "聚賢研發-創",
@@ -569,7 +580,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.33,
-    "three_inst_ratio_change_20": -0.04999999999999999
+    "three_inst_ratio_change_20": -0.02999999999999997
   },
   {
     "date": "2025-12-29",
@@ -602,7 +613,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.31,
-    "three_inst_ratio_change_20": -0.04999999999999999
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-01-02",

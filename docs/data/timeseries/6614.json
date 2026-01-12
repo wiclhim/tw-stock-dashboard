@@ -231,6 +231,17 @@
     "three_inst_ratio_change_20": 0.15000000000000002
   },
   {
+    "date": "2025-12-25",
+    "code": "6614",
+    "name": "資拓宏宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.28
+  },
+  {
     "date": "2025-12-26",
     "code": "6614",
     "name": "資拓宏宇",
@@ -239,7 +250,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.15,
-    "three_inst_ratio_change_20": -0.13000000000000003
+    "three_inst_ratio_change_20": 0.03
   },
   {
     "date": "2025-12-29",
@@ -261,7 +272,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.19,
-    "three_inst_ratio_change_20": 0.07
+    "three_inst_ratio_change_20": 0.06
   },
   {
     "date": "2025-12-31",
@@ -272,7 +283,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.35,
-    "three_inst_ratio_change_20": 0.21999999999999997
+    "three_inst_ratio_change_20": 0.24999999999999997
   },
   {
     "date": "2026-01-02",
@@ -283,7 +294,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.3,
-    "three_inst_ratio_change_20": 0.19999999999999998
+    "three_inst_ratio_change_20": 0.21999999999999997
   },
   {
     "date": "2026-01-05",
@@ -294,7 +305,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.29,
-    "three_inst_ratio_change_20": 0.20999999999999996
+    "three_inst_ratio_change_20": 0.22999999999999998
   },
   {
     "date": "2026-01-06",
@@ -316,7 +327,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.37,
-    "three_inst_ratio_change_20": 0.31
+    "three_inst_ratio_change_20": 0.33999999999999997
   },
   {
     "date": "2026-01-08",
@@ -327,7 +338,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.42,
-    "three_inst_ratio_change_20": 0.39
+    "three_inst_ratio_change_20": 0.38
   },
   {
     "date": "2026-01-09",
@@ -338,6 +349,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.41,
-    "three_inst_ratio_change_20": 0.37
+    "three_inst_ratio_change_20": 0.38
   }
 ]

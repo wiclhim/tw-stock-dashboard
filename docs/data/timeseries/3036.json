@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -2.0462211115523594
   },
   {
+    "date": "2025-12-25",
+    "code": "3036",
+    "name": "文曄",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -25.705425335978475
+  },
+  {
     "date": "2025-12-26",
     "code": "3036",
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 20.15,
-    "trust_ratio": 3.5466810119455046,
+    "trust_ratio": 3.862755085579482,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.696681011945504,
-    "three_inst_ratio_change_20": -2.008744324032971
+    "three_inst_ratio": 24.01275508557948,
+    "three_inst_ratio_change_20": -1.6331462464153255
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.97,
-    "trust_ratio": 3.332013048957287,
+    "trust_ratio": 3.648087122591264,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.302013048957285,
-    "three_inst_ratio_change_20": -2.343888283037522
+    "three_inst_ratio": 23.618087122591263,
+    "three_inst_ratio_change_20": -1.6549704842768378
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.8,
-    "trust_ratio": 3.3233978766576864,
+    "trust_ratio": 3.639471950291664,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.123397876657688,
-    "three_inst_ratio_change_20": -2.149659730210413
+    "three_inst_ratio": 23.439471950291665,
+    "three_inst_ratio_change_20": -1.0611426784537628
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.54,
-    "trust_ratio": 3.42611760348344,
+    "trust_ratio": 3.7421916771174173,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.96611760348344,
-    "three_inst_ratio_change_20": -1.534497025261988
+    "three_inst_ratio": 23.282191677117417,
+    "three_inst_ratio_change_20": -1.4099261886892975
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.24,
-    "trust_ratio": 3.4540181156096703,
+    "trust_ratio": 3.770092189243648,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.69401811560967,
-    "three_inst_ratio_change_20": -1.9980997501970457
+    "three_inst_ratio": 23.010092189243647,
+    "three_inst_ratio_change_20": -1.7880549594365682
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.24,
-    "trust_ratio": 3.3498594969333273,
+    "trust_ratio": 3.6659335705673044,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.589859496933325,
-    "three_inst_ratio_change_20": -2.2082876517468897
+    "three_inst_ratio": 22.905933570567303,
+    "three_inst_ratio_change_20": -1.8554743848720072
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.51,
-    "trust_ratio": 3.1635662757392073,
+    "trust_ratio": 3.4796403493731844,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.67356627573921,
-    "three_inst_ratio_change_20": -2.0878416797001016
+    "three_inst_ratio": 22.989640349373186,
+    "three_inst_ratio_change_20": -1.8161979845805938
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.77,
-    "trust_ratio": 2.928542004257759,
+    "trust_ratio": 3.2446160778917363,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.69854200425776,
-    "three_inst_ratio_change_20": -2.1072963296960197
+    "three_inst_ratio": 23.014616077891738,
+    "three_inst_ratio_change_20": -1.5188504432945749
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.7,
-    "trust_ratio": 2.9883336711653277,
+    "trust_ratio": 3.304407744799305,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.688333671165328,
-    "three_inst_ratio_change_20": -1.8451328500209847
+    "three_inst_ratio": 23.004407744799305,
+    "three_inst_ratio_change_20": -1.0929501608441186
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "文曄",
     "market": "TWSE",
     "foreign_ratio": 19.66,
-    "trust_ratio": 2.972880897437851,
+    "trust_ratio": 3.2889549710718278,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.63288089743785,
-    "three_inst_ratio_change_20": -1.4644770082055736
+    "three_inst_ratio": 22.948954971071828,
+    "three_inst_ratio_change_20": -1.0451462114695858
   }
 ]

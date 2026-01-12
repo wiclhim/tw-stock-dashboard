@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.0056453631209195
   },
   {
+    "date": "2025-12-25",
+    "code": "3406",
+    "name": "玉晶光",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -33.141190925334364
+  },
+  {
     "date": "2025-12-26",
     "code": "3406",
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 28.02,
-    "trust_ratio": 4.138175667624003,
+    "trust_ratio": 4.468129449348028,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.158175667624,
-    "three_inst_ratio_change_20": -0.9830152577103632
+    "three_inst_ratio": 32.48812944934803,
+    "three_inst_ratio_change_20": -0.7648354210493622
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 28.49,
-    "trust_ratio": 4.16921970622707,
+    "trust_ratio": 4.4991734879510945,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 32.65921970622707,
-    "three_inst_ratio_change_20": -0.593745164170322
+    "three_inst_ratio": 32.98917348795109,
+    "three_inst_ratio_change_20": -0.32201743738326627
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 28.98,
-    "trust_ratio": 4.168332733695554,
+    "trust_ratio": 4.498286515419578,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 33.148332733695554,
-    "three_inst_ratio_change_20": -0.16285819163880433
+    "three_inst_ratio": 33.478286515419576,
+    "three_inst_ratio_change_20": -0.23314771206810292
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 30.19,
-    "trust_ratio": 4.171880623821618,
+    "trust_ratio": 4.501834405545643,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.36188062382162,
-    "three_inst_ratio_change_20": 0.6504463963339404
+    "three_inst_ratio": 34.69183440554564,
+    "three_inst_ratio_change_20": 0.9939480681840251
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 30.18,
-    "trust_ratio": 4.128418969777325,
+    "trust_ratio": 4.458372751501349,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.30841896977732,
-    "three_inst_ratio_change_20": 0.6105326324157048
+    "three_inst_ratio": 34.63837275150135,
+    "three_inst_ratio_change_20": 0.9904864141397383
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 30.28,
-    "trust_ratio": 4.071652727760288,
+    "trust_ratio": 4.4016065094843135,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.35165272776029,
-    "three_inst_ratio_change_20": 0.7037663903986768
+    "three_inst_ratio": 34.68160650948431,
+    "three_inst_ratio_change_20": 1.1654941171857232
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 29.99,
-    "trust_ratio": 4.067217865102707,
+    "trust_ratio": 4.397171646826732,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.05721786510271,
-    "three_inst_ratio_change_20": 0.5411054728041194
+    "three_inst_ratio": 34.38717164682673,
+    "three_inst_ratio_change_20": 0.8546071446542101
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 30.16,
-    "trust_ratio": 3.963442078915312,
+    "trust_ratio": 4.293395860639337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.12344207891531,
-    "three_inst_ratio_change_20": 0.5908775767427912
+    "three_inst_ratio": 34.45339586063934,
+    "three_inst_ratio_change_20": 0.9465535618807905
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 30.38,
-    "trust_ratio": 3.9421547381589233,
+    "trust_ratio": 4.2721085198829485,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 34.32215473815892,
-    "three_inst_ratio_change_20": 0.8153124394003726
+    "three_inst_ratio": 34.652108519882944,
+    "three_inst_ratio_change_20": 2.497040166187425
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "玉晶光",
     "market": "TWSE",
     "foreign_ratio": 31.52,
-    "trust_ratio": 3.921754369934051,
+    "trust_ratio": 4.251708151658075,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.44175436993405,
-    "three_inst_ratio_change_20": 3.2866860162385336
+    "three_inst_ratio": 35.771708151658075,
+    "three_inst_ratio_change_20": 4.089300715557105
   }
 ]

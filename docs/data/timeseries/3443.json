@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7589841900694942
   },
   {
+    "date": "2025-12-25",
+    "code": "3443",
+    "name": "創意",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -32.260805118956924
+  },
+  {
     "date": "2025-12-26",
     "code": "3443",
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.96,
-    "trust_ratio": 3.407562033795638,
+    "trust_ratio": 3.344134835895296,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.36756203379564,
-    "three_inst_ratio_change_20": -0.8932430851612843
+    "three_inst_ratio": 31.304134835895297,
+    "three_inst_ratio_change_20": -0.5442797692064829
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.86,
-    "trust_ratio": 3.417150733713513,
+    "trust_ratio": 3.353723535813171,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.277150733713512,
-    "three_inst_ratio_change_20": -0.5712638713882683
+    "three_inst_ratio": 31.21372353581317,
+    "three_inst_ratio_change_20": -0.6682746180673469
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.84,
-    "trust_ratio": 3.4011133532749933,
+    "trust_ratio": 3.3376861553746515,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.241113353274994,
-    "three_inst_ratio_change_20": -0.640884800605523
+    "three_inst_ratio": 31.17768615537465,
+    "three_inst_ratio_change_20": -0.9221248794817924
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.85,
-    "trust_ratio": 3.4572217987399645,
+    "trust_ratio": 3.3937946008396223,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.307221798739967,
-    "three_inst_ratio_change_20": -0.792589236116477
+    "three_inst_ratio": 31.243794600839625,
+    "three_inst_ratio_change_20": -1.0497474456580171
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.43,
-    "trust_ratio": 3.552735696754597,
+    "trust_ratio": 3.489308498854255,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 30.982735696754595,
-    "three_inst_ratio_change_20": -1.3108063497430464
+    "three_inst_ratio": 30.919308498854257,
+    "three_inst_ratio_change_20": -1.462441773254021
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.69,
-    "trust_ratio": 3.665525671072626,
+    "trust_ratio": 3.6020984731722843,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.355525671072627,
-    "three_inst_ratio_change_20": -1.0262246010356506
+    "three_inst_ratio": 31.292098473172285,
+    "three_inst_ratio_change_20": -0.8427840711114136
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.3,
-    "trust_ratio": 3.708530803653714,
+    "trust_ratio": 3.645103605753372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.008530803653713,
-    "three_inst_ratio_change_20": -1.1263517406299854
+    "three_inst_ratio": 30.945103605753374,
+    "three_inst_ratio_change_20": -0.8725640508178394
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.53,
-    "trust_ratio": 3.602355166773198,
+    "trust_ratio": 3.5389279688728563,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.1323551667732,
-    "three_inst_ratio_change_20": -0.6853124897980152
+    "three_inst_ratio": 31.068927968872856,
+    "three_inst_ratio_change_20": -0.6666952359182474
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.76,
-    "trust_ratio": 3.6045609408554737,
+    "trust_ratio": 3.541133742955132,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.364560940855476,
-    "three_inst_ratio_change_20": -0.37106226393562736
+    "three_inst_ratio": 31.301133742955134,
+    "three_inst_ratio_change_20": -0.4219208908229035
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "創意",
     "market": "TWSE",
     "foreign_ratio": 27.95,
-    "trust_ratio": 3.6462079851991667,
+    "trust_ratio": 3.582780787298825,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 31.596207985199165,
-    "three_inst_ratio_change_20": -0.12684664857887284
+    "three_inst_ratio": 31.532780787298826,
+    "three_inst_ratio_change_20": -0.5065070503322602
   }
 ]

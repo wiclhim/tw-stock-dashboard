@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.9806639283904861
   },
   {
+    "date": "2025-12-25",
+    "code": "8163",
+    "name": "達方",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.348797854432865
+  },
+  {
     "date": "2025-12-26",
     "code": "8163",
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.6,
-    "trust_ratio": 0.7108860688896926,
+    "trust_ratio": 0.7095096403231799,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.310886068889692,
-    "three_inst_ratio_change_20": -1.037911785543173
+    "three_inst_ratio": 8.30950964032318,
+    "three_inst_ratio_change_20": -1.0292882141096857
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.64,
-    "trust_ratio": 0.6923146403845906,
+    "trust_ratio": 0.6909382118180778,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.33231464038459,
-    "three_inst_ratio_change_20": -1.0064832140482753
+    "three_inst_ratio": 8.330938211818077,
+    "three_inst_ratio_change_20": -0.9578596426147872
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.47,
-    "trust_ratio": 0.6919574975287233,
+    "trust_ratio": 0.6905810689622104,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.161957497528723,
-    "three_inst_ratio_change_20": -1.1268403569041414
+    "three_inst_ratio": 8.16058106896221,
+    "three_inst_ratio_change_20": -1.1682167854706549
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.41,
-    "trust_ratio": 0.6033989264164324,
+    "trust_ratio": 0.6020224978499197,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.013398926416432,
-    "three_inst_ratio_change_20": -1.3153989280164335
+    "three_inst_ratio": 8.01202249784992,
+    "three_inst_ratio_change_20": -1.325399285159289
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.32,
-    "trust_ratio": 0.6020221407070637,
+    "trust_ratio": 0.6006457121405511,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.922022140707064,
-    "three_inst_ratio_change_20": -1.4153996423021447
+    "three_inst_ratio": 7.920645712140551,
+    "three_inst_ratio_change_20": -1.3340239280213435
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.19,
-    "trust_ratio": 0.5978921407218137,
+    "trust_ratio": 0.5965157121553011,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.787892140721814,
-    "three_inst_ratio_change_20": -1.4667774994400808
+    "three_inst_ratio": 7.7865157121553015,
+    "three_inst_ratio_change_20": -1.268153928006594
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.2,
-    "trust_ratio": 0.5937610693079962,
+    "trust_ratio": 0.5923846407414834,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.793761069307997,
-    "three_inst_ratio_change_20": -1.260908570853899
+    "three_inst_ratio": 7.792384640741483,
+    "three_inst_ratio_change_20": -1.2622849994204124
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.23,
-    "trust_ratio": 0.5868760693325855,
+    "trust_ratio": 0.5854996407660726,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.816876069332586,
-    "three_inst_ratio_change_20": -1.23779357082931
+    "three_inst_ratio": 7.815499640766073,
+    "three_inst_ratio_change_20": -1.1864178565485064
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.18,
-    "trust_ratio": 0.5841224979138482,
+    "trust_ratio": 0.5827460693473354,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.7641224979138475,
-    "three_inst_ratio_change_20": -1.237794999400732
+    "three_inst_ratio": 7.762746069347335,
+    "three_inst_ratio_change_20": -1.1950792851247183
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "達方",
     "market": "TWSE",
     "foreign_ratio": 7.18,
-    "trust_ratio": 0.5841224979138482,
+    "trust_ratio": 0.5827460693473354,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.7641224979138475,
-    "three_inst_ratio_change_20": -1.1937028565582057
+    "three_inst_ratio": 7.762746069347335,
+    "three_inst_ratio_change_20": -1.213703213701061
   }
 ]

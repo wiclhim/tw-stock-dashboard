@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.45808237160644794
   },
   {
+    "date": "2025-12-25",
+    "code": "5388",
+    "name": "中磊",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -24.290010089819994
+  },
+  {
     "date": "2025-12-26",
     "code": "5388",
     "name": "中磊",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.5432265379547795,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.43322653795478,
-    "three_inst_ratio_change_20": -0.8567835518652132
+    "three_inst_ratio_change_20": -0.8367835518652136
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.33851963865790535,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.468519638657906,
-    "three_inst_ratio_change_20": -0.8014904511620884
+    "three_inst_ratio_change_20": -0.8414904511620875
   },
   {
     "date": "2025-12-30",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.13880559056339406,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.388805590563393,
-    "three_inst_ratio_change_20": -0.9212044992566
+    "three_inst_ratio_change_20": -0.8812044992566008
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": -0.06234440153691677,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.457655598463084,
-    "three_inst_ratio_change_20": -0.8123544913569098
+    "three_inst_ratio_change_20": -0.8723544913569121
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": -0.28075201738982114,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.119247982610176,
-    "three_inst_ratio_change_20": -1.2107621072098205
+    "three_inst_ratio_change_20": -1.110762107209819
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": -0.5004374702937835,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.289562529706217,
-    "three_inst_ratio_change_20": -1.9404475601137783
+    "three_inst_ratio_change_20": -1.8004475601137777
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": -0.7067187820031361,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.753281217996864,
-    "three_inst_ratio_change_20": -4.33672887182313
+    "three_inst_ratio_change_20": -4.456728871823131
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": -0.9590241960958688,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.03097580390413,
-    "three_inst_ratio_change_20": -4.179034285915865
+    "three_inst_ratio_change_20": -4.0790342859158635
   },
   {
     "date": "2026-01-08",
@@ -888,6 +899,6 @@
     "trust_ratio": -0.9593570528426928,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.600642947157304,
-    "three_inst_ratio_change_20": -4.50936714266269
+    "three_inst_ratio_change_20": -4.44741289496757
   }
 ]

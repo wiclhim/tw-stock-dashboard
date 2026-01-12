@@ -781,51 +781,18 @@
     "three_inst_ratio_change_20": 0.2675612312366411
   },
   {
+    "date": "2025-12-25",
+    "code": "1702",
+    "name": "南僑",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -8.93217287942043
+  },
+  {
     "date": "2025-12-26",
-    "code": "1702",
-    "name": "南僑",
-    "market": "TWSE",
-    "foreign_ratio": 8.58,
-    "trust_ratio": 0.6121660040264375,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.192166004026438,
-    "three_inst_ratio_change_20": 0.25999312460600876
-  },
-  {
-    "date": "2025-12-29",
-    "code": "1702",
-    "name": "南僑",
-    "market": "TWSE",
-    "foreign_ratio": 8.65,
-    "trust_ratio": 0.6121660040264375,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.262166004026438,
-    "three_inst_ratio_change_20": 0.31999312460600926
-  },
-  {
-    "date": "2025-12-30",
-    "code": "1702",
-    "name": "南僑",
-    "market": "TWSE",
-    "foreign_ratio": 8.55,
-    "trust_ratio": 0.6121660040264375,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.162166004026439,
-    "three_inst_ratio_change_20": 0.19999312460601004
-  },
-  {
-    "date": "2025-12-31",
-    "code": "1702",
-    "name": "南僑",
-    "market": "TWSE",
-    "foreign_ratio": 8.56,
-    "trust_ratio": 0.6121660040264375,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.172166004026439,
-    "three_inst_ratio_change_20": 0.21999312460600962
-  },
-  {
-    "date": "2026-01-02",
     "code": "1702",
     "name": "南僑",
     "market": "TWSE",
@@ -833,7 +800,51 @@
     "trust_ratio": 0.6109495473683089,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.190949547368309,
-    "three_inst_ratio_change_20": 0.23999278462371088
+    "three_inst_ratio_change_20": 0.24877666794787956
+  },
+  {
+    "date": "2025-12-29",
+    "code": "1702",
+    "name": "南僑",
+    "market": "TWSE",
+    "foreign_ratio": 8.65,
+    "trust_ratio": 0.6109495473683089,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.260949547368309,
+    "three_inst_ratio_change_20": 0.29877666794788027
+  },
+  {
+    "date": "2025-12-30",
+    "code": "1702",
+    "name": "南僑",
+    "market": "TWSE",
+    "foreign_ratio": 8.55,
+    "trust_ratio": 0.6109495473683089,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.16094954736831,
+    "three_inst_ratio_change_20": 0.2087766679478804
+  },
+  {
+    "date": "2025-12-31",
+    "code": "1702",
+    "name": "南僑",
+    "market": "TWSE",
+    "foreign_ratio": 8.56,
+    "trust_ratio": 0.6109495473683089,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.17094954736831,
+    "three_inst_ratio_change_20": 0.2199927846237113
+  },
+  {
+    "date": "2026-01-02",
+    "code": "1702",
+    "name": "南僑",
+    "market": "TWSE",
+    "foreign_ratio": 8.58,
+    "trust_ratio": 0.6097330907101802,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.189733090710181,
+    "three_inst_ratio_change_20": 0.25120822133495047
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "南僑",
     "market": "TWSE",
     "foreign_ratio": 8.58,
-    "trust_ratio": 0.6072998374116261,
+    "trust_ratio": 0.6060833807534974,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.187299837411626,
-    "three_inst_ratio_change_20": 0.2487749680363951
+    "three_inst_ratio": 9.186083380753498,
+    "three_inst_ratio_change_20": 0.25755851137826724
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "南僑",
     "market": "TWSE",
     "foreign_ratio": 8.53,
-    "trust_ratio": 0.6036491075080528,
+    "trust_ratio": 0.6024326508499241,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.133649107508052,
-    "three_inst_ratio_change_20": 0.20512423813282155
+    "three_inst_ratio": 9.132432650849923,
+    "three_inst_ratio_change_20": 0.18390778147469256
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "南僑",
     "market": "TWSE",
     "foreign_ratio": 8.56,
-    "trust_ratio": 0.5975647843236285,
+    "trust_ratio": 0.5963483276654998,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.157564784323629,
-    "three_inst_ratio_change_20": 0.20903991494839858
+    "three_inst_ratio": 9.1563483276655,
+    "three_inst_ratio_change_20": 0.19025569164193
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "南僑",
     "market": "TWSE",
     "foreign_ratio": 8.59,
-    "trust_ratio": 0.5951315310250743,
+    "trust_ratio": 0.5939150743669457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.185131531025075,
-    "three_inst_ratio_change_20": 0.2190388950015052
+    "three_inst_ratio": 9.183915074366945,
+    "three_inst_ratio_change_20": 0.2544523702855166
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "南僑",
     "market": "TWSE",
     "foreign_ratio": 8.62,
-    "trust_ratio": 0.5951315310250743,
+    "trust_ratio": 0.5939150743669457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.215131531025074,
-    "three_inst_ratio_change_20": 0.28566882694364537
+    "three_inst_ratio": 9.213915074366945,
+    "three_inst_ratio_change_20": 0.2456684869613479
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -1.0277680071527016
   },
   {
+    "date": "2025-12-25",
+    "code": "2382",
+    "name": "廣達",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.173536506090862
+  },
+  {
     "date": "2025-12-26",
     "code": "2382",
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.82,
-    "trust_ratio": 0.17307387568928756,
+    "trust_ratio": 0.17366932529981577,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.993073875689287,
-    "three_inst_ratio_change_20": -1.1804626304015748
+    "three_inst_ratio": 21.993669325299816,
+    "three_inst_ratio_change_20": -1.1177218535116538
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.65,
-    "trust_ratio": 0.17560482131428096,
+    "trust_ratio": 0.1762002709248092,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.82560482131428,
-    "three_inst_ratio_change_20": -1.2857863574971908
+    "three_inst_ratio": 21.826200270924808,
+    "three_inst_ratio_change_20": -1.4334754242070566
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.55,
-    "trust_ratio": 0.1642578299796013,
+    "trust_ratio": 0.16485327959012952,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.7142578299796,
-    "three_inst_ratio_change_20": -1.5454178651522632
+    "three_inst_ratio": 21.71485327959013,
+    "three_inst_ratio_change_20": -1.6979477493235997
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.59,
-    "trust_ratio": 0.19686017183549068,
+    "trust_ratio": 0.1974556214460189,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.78686017183549,
-    "three_inst_ratio_change_20": -1.6259408570782412
+    "three_inst_ratio": 21.787455621446018,
+    "three_inst_ratio_change_20": -1.8334153681120569
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.74,
-    "trust_ratio": 0.21919507250058798,
+    "trust_ratio": 0.2197905221111162,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.959195072500588,
-    "three_inst_ratio_change_20": -1.6616759170574866
+    "three_inst_ratio": 21.959790522111113,
+    "three_inst_ratio_change_20": -1.769515910650739
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.65,
-    "trust_ratio": 0.2241043992047121,
+    "trust_ratio": 0.2246998488152403,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.87410439920471,
-    "three_inst_ratio_change_20": -1.8552020335571413
+    "three_inst_ratio": 21.87469984881524,
+    "three_inst_ratio_change_20": -2.1936521558882767
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.75,
-    "trust_ratio": 0.21842458659367797,
+    "trust_ratio": 0.21902003620420618,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.968424586593677,
-    "three_inst_ratio_change_20": -2.0999274181098393
+    "three_inst_ratio": 21.969020036204206,
+    "three_inst_ratio_change_20": -2.2182972065217825
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.72,
-    "trust_ratio": 0.21411402330661022,
+    "trust_ratio": 0.21470947291713843,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.93411402330661,
-    "three_inst_ratio_change_20": -2.2532032194193796
+    "three_inst_ratio": 21.934709472917138,
+    "three_inst_ratio_change_20": -2.3124465841881907
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 21.58,
-    "trust_ratio": 0.21227664703231466,
+    "trust_ratio": 0.21287209664284287,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 21.792276647032313,
-    "three_inst_ratio_change_20": -2.4548794100730156
+    "three_inst_ratio": 21.792872096642842,
+    "three_inst_ratio_change_20": -2.518749677206767
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "廣達",
     "market": "TWSE",
     "foreign_ratio": 22.21,
-    "trust_ratio": 0.21342415609914303,
+    "trust_ratio": 0.21401960570967124,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.423424156099145,
-    "three_inst_ratio_change_20": -1.888197617750464
+    "three_inst_ratio": 22.42401960570967,
+    "three_inst_ratio_change_20": -1.9053195442433228
   }
 ]

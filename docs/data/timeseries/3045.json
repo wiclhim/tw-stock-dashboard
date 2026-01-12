@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7116965466439495
   },
   {
+    "date": "2025-12-25",
+    "code": "3045",
+    "name": "台灣大",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -16.358415014989664
+  },
+  {
     "date": "2025-12-26",
     "code": "3045",
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.99,
-    "trust_ratio": 4.167204104250944,
+    "trust_ratio": 4.170239077501177,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.157204104250944,
-    "three_inst_ratio_change_20": -0.20121091073871966
+    "three_inst_ratio": 16.160239077501178,
+    "three_inst_ratio_change_20": -0.18710161067424025
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.96,
-    "trust_ratio": 4.233704128307403,
+    "trust_ratio": 4.236739101557637,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.193704128307402,
-    "three_inst_ratio_change_20": -0.1536365598680156
+    "three_inst_ratio": 16.19673910155764,
+    "three_inst_ratio_change_20": -0.12839921664858522
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.91,
-    "trust_ratio": 4.298566609717256,
+    "trust_ratio": 4.301601582967489,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.208566609717256,
-    "three_inst_ratio_change_20": -0.11657170848896925
+    "three_inst_ratio": 16.21160158296749,
+    "three_inst_ratio_change_20": -0.04431562217905949
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.77,
-    "trust_ratio": 4.391079846090362,
+    "trust_ratio": 4.394114819340595,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.16107984609036,
-    "three_inst_ratio_change_20": -0.09483735905618929
+    "three_inst_ratio": 16.164114819340593,
+    "three_inst_ratio_change_20": -0.029017896716478475
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.65,
-    "trust_ratio": 4.417731557690881,
+    "trust_ratio": 4.420766530941115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.06773155769088,
-    "three_inst_ratio_change_20": -0.12540115836619137
+    "three_inst_ratio": 16.070766530941114,
+    "three_inst_ratio_change_20": -0.0030732581727654917
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.55,
-    "trust_ratio": 4.4470338215493275,
+    "trust_ratio": 4.450068794799561,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.997033821549328,
-    "three_inst_ratio_change_20": -0.07680596756455138
+    "three_inst_ratio": 16.00006879479956,
+    "three_inst_ratio_change_20": 0.01122462537190394
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 4.452432313790893,
+    "trust_ratio": 4.455467287041126,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.962432313790892,
-    "three_inst_ratio_change_20": -0.026411855636764514
+    "three_inst_ratio": 15.965467287041125,
+    "three_inst_ratio_change_20": 0.046104454621710644
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.51,
-    "trust_ratio": 4.44788573585485,
+    "trust_ratio": 4.450920709105084,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.95788573585485,
-    "three_inst_ratio_change_20": 0.038522903435435296
+    "three_inst_ratio": 15.960920709105084,
+    "three_inst_ratio_change_20": 0.24174588387816165
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.55,
-    "trust_ratio": 4.3968820703487195,
+    "trust_ratio": 4.399917043598952,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.946882070348721,
-    "three_inst_ratio_change_20": 0.22770724512179896
+    "three_inst_ratio": 15.949917043598953,
+    "three_inst_ratio_change_20": 0.3011591377504672
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "台灣大",
     "market": "TWSE",
     "foreign_ratio": 11.62,
-    "trust_ratio": 4.371869539743199,
+    "trust_ratio": 4.374904512993432,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.991869539743199,
-    "three_inst_ratio_change_20": 0.3431116338947131
+    "three_inst_ratio": 15.99490451299343,
+    "three_inst_ratio_change_20": 0.34604747363816024
   }
 ]

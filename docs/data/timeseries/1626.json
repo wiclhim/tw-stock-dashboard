@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.060000000000002274
   },
   {
+    "date": "2025-12-25",
+    "code": "1626",
+    "name": "艾美特-KY",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -43.07
+  },
+  {
     "date": "2025-12-26",
     "code": "1626",
     "name": "艾美特-KY",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.99,
-    "three_inst_ratio_change_20": -0.0799999999999983
+    "three_inst_ratio_change_20": -0.07000000000000028
   },
   {
     "date": "2026-01-05",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.96,
-    "three_inst_ratio_change_20": -0.10000000000000142
+    "three_inst_ratio_change_20": -0.0899999999999963
   },
   {
     "date": "2026-01-08",

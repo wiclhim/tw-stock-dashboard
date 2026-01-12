@@ -605,6 +605,17 @@
     "three_inst_ratio_change_20": -0.06
   },
   {
+    "date": "2025-12-25",
+    "code": "3054",
+    "name": "立萬利",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.29
+  },
+  {
     "date": "2025-12-26",
     "code": "3054",
     "name": "立萬利",
@@ -646,7 +657,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.030000000000000027
   },
   {
     "date": "2026-01-02",
@@ -657,7 +668,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.25,
-    "three_inst_ratio_change_20": -0.030000000000000027
+    "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
     "date": "2026-01-05",
@@ -701,7 +712,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": -0.03999999999999998
+    "three_inst_ratio_change_20": -0.04999999999999999
   },
   {
     "date": "2026-01-09",
@@ -712,6 +723,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.26,
-    "three_inst_ratio_change_20": -0.04999999999999999
+    "three_inst_ratio_change_20": -0.03999999999999998
   }
 ]

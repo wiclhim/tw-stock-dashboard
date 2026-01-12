@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.1200000000000001
   },
   {
+    "date": "2025-12-25",
+    "code": "1789",
+    "name": "神隆",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.3801264639431277
+  },
+  {
     "date": "2025-12-26",
     "code": "1789",
     "name": "神隆",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.240126463943128,
-    "three_inst_ratio_change_20": -0.13999999999999968
+    "three_inst_ratio_change_20": -0.1499999999999999
   },
   {
     "date": "2025-12-30",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1301264639431277,
-    "three_inst_ratio_change_20": -0.26000000000000023
+    "three_inst_ratio_change_20": -0.2400000000000002
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.1301264639431277,
-    "three_inst_ratio_change_20": -0.2400000000000002
+    "three_inst_ratio_change_20": -0.22999999999999998
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.120126463943128,
-    "three_inst_ratio_change_20": -0.23999999999999977
+    "three_inst_ratio_change_20": -0.22999999999999998
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.120126463943128,
-    "three_inst_ratio_change_20": -0.22999999999999998
+    "three_inst_ratio_change_20": -0.20999999999999996
   },
   {
     "date": "2026-01-09",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.00012646394312789002,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2301264639431277,
-    "three_inst_ratio_change_20": -0.10000000000000009
+    "three_inst_ratio_change_20": -0.10999999999999988
   }
 ]

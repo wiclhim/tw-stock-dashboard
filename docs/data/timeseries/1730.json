@@ -759,18 +759,18 @@
     "three_inst_ratio_change_20": -0.07999999999999918
   },
   {
-    "date": "2025-12-29",
+    "date": "2025-12-25",
     "code": "1730",
     "name": "花仙子",
     "market": "TWSE",
-    "foreign_ratio": 6.73,
+    "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 6.73,
-    "three_inst_ratio_change_20": -0.07999999999999918
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.81
   },
   {
-    "date": "2025-12-30",
+    "date": "2025-12-29",
     "code": "1730",
     "name": "花仙子",
     "market": "TWSE",
@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": -0.02999999999999936
   },
   {
+    "date": "2025-12-30",
+    "code": "1730",
+    "name": "花仙子",
+    "market": "TWSE",
+    "foreign_ratio": 6.73,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.73,
+    "three_inst_ratio_change_20": -0.019999999999999574
+  },
+  {
     "date": "2025-12-31",
     "code": "1730",
     "name": "花仙子",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.74,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": -0.019999999999999574
   },
   {
     "date": "2026-01-02",

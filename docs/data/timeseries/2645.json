@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.8291651969540546
   },
   {
+    "date": "2025-12-25",
+    "code": "2645",
+    "name": "長榮航太",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -11.685272025384604
+  },
+  {
     "date": "2025-12-26",
     "code": "2645",
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 6.09,
-    "trust_ratio": 4.383949015246943,
+    "trust_ratio": 4.353514194728207,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.473949015246943,
-    "three_inst_ratio_change_20": -1.2113230101376615
+    "three_inst_ratio": 10.443514194728207,
+    "three_inst_ratio_change_20": -1.231757830656397
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 6.0,
-    "trust_ratio": 4.454429652237698,
+    "trust_ratio": 4.423994831718963,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.454429652237698,
-    "three_inst_ratio_change_20": -1.2208423731469065
+    "three_inst_ratio": 10.423994831718963,
+    "three_inst_ratio_change_20": -1.1740689467006789
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 5.8,
-    "trust_ratio": 4.53238550830323,
+    "trust_ratio": 4.501950687784495,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.33238550830323,
-    "three_inst_ratio_change_20": -1.2656782701164122
+    "three_inst_ratio": 10.301950687784494,
+    "three_inst_ratio_change_20": -1.2894387878898108
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 5.77,
-    "trust_ratio": 4.53238550830323,
+    "trust_ratio": 4.501950687784495,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.30238550830323,
-    "three_inst_ratio_change_20": -1.289003967371075
+    "three_inst_ratio": 10.271950687784495,
+    "three_inst_ratio_change_20": -1.40943878788981
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 5.86,
-    "trust_ratio": 4.53238550830323,
+    "trust_ratio": 4.501950687784495,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.392385508303231,
-    "three_inst_ratio_change_20": -1.2890039673710731
+    "three_inst_ratio": 10.361950687784496,
+    "three_inst_ratio_change_20": -1.1994387878898092
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 5.98,
-    "trust_ratio": 4.53238550830323,
+    "trust_ratio": 4.501950687784495,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.51238550830323,
-    "three_inst_ratio_change_20": -1.0490039673710747
+    "three_inst_ratio": 10.481950687784495,
+    "three_inst_ratio_change_20": -1.039438787889809
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 6.12,
-    "trust_ratio": 4.528113954546216,
+    "trust_ratio": 4.4976791340274795,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.648113954546215,
-    "three_inst_ratio_change_20": -0.8732755211280896
+    "three_inst_ratio": 10.61767913402748,
+    "three_inst_ratio_change_20": -0.813710341646825
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 6.08,
-    "trust_ratio": 4.527846982436402,
+    "trust_ratio": 4.497412161917666,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.607846982436403,
-    "three_inst_ratio_change_20": -0.8235424932379019
+    "three_inst_ratio": 10.577412161917666,
+    "three_inst_ratio_change_20": -0.7239773137566399
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 6.2,
-    "trust_ratio": 4.533987340962111,
+    "trust_ratio": 4.503552520443376,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.733987340962111,
-    "three_inst_ratio_change_20": -0.5674021347121947
+    "three_inst_ratio": 10.703552520443377,
+    "three_inst_ratio_change_20": -0.5078369552309283
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "長榮航太",
     "market": "TWSE",
     "foreign_ratio": 5.69,
-    "trust_ratio": 4.533453396742485,
+    "trust_ratio": 4.503018576223749,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.223453396742485,
-    "three_inst_ratio_change_20": -0.9879360789318206
+    "three_inst_ratio": 10.19301857622375,
+    "three_inst_ratio_change_20": -0.9983250829785355
   }
 ]

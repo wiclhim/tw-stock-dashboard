@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.3369212547546283
   },
   {
+    "date": "2025-12-25",
+    "code": "2605",
+    "name": "新興",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -35.42835894165981
+  },
+  {
     "date": "2025-12-26",
     "code": "2605",
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.74,
-    "trust_ratio": 0.5914376869051785,
+    "trust_ratio": 0.8306094840360999,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.33143768690518,
-    "three_inst_ratio_change_20": -0.09692125475462632
+    "three_inst_ratio": 35.570609484036105,
+    "three_inst_ratio_change_20": -0.18774945762370265
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.77,
-    "trust_ratio": 0.5914376869051785,
+    "trust_ratio": 0.8306094840360999,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.361437686905184,
-    "three_inst_ratio_change_20": -0.3969212547546235
+    "three_inst_ratio": 35.600609484036106,
+    "three_inst_ratio_change_20": 0.22225054237629394
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.96,
-    "trust_ratio": 0.5914376869051785,
+    "trust_ratio": 0.8306094840360999,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.55143768690518,
-    "three_inst_ratio_change_20": 0.1730787452453697
+    "three_inst_ratio": 35.7906094840361,
+    "three_inst_ratio_change_20": -0.1477494576237035
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.58,
-    "trust_ratio": 0.5914376869051785,
+    "trust_ratio": 0.8306094840360999,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.17143768690518,
-    "three_inst_ratio_change_20": -0.766921254754628
+    "three_inst_ratio": 35.4106094840361,
+    "three_inst_ratio_change_20": -0.8177494576237123
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.36,
-    "trust_ratio": 0.663189226044455,
+    "trust_ratio": 0.9023610231753765,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.02318922604445,
-    "three_inst_ratio_change_20": -1.2051697156153622
+    "three_inst_ratio": 35.26236102317537,
+    "three_inst_ratio_change_20": -1.1059979184844408
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.61,
-    "trust_ratio": 0.663189226044455,
+    "trust_ratio": 0.9023610231753765,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.27318922604445,
-    "three_inst_ratio_change_20": -1.0951697156153628
+    "three_inst_ratio": 35.51236102317537,
+    "three_inst_ratio_change_20": -0.14599791848444
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 34.66,
-    "trust_ratio": 0.663189226044455,
+    "trust_ratio": 0.9023610231753765,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.32318922604445,
-    "three_inst_ratio_change_20": -0.3351697156153648
+    "three_inst_ratio": 35.56236102317537,
+    "three_inst_ratio_change_20": -0.2359979184844434
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 35.31,
-    "trust_ratio": 0.663189226044455,
+    "trust_ratio": 0.9023610231753765,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.973189226044454,
-    "three_inst_ratio_change_20": 0.17483028438464032
+    "three_inst_ratio": 36.212361023175376,
+    "three_inst_ratio_change_20": 1.084002081515564
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 35.37,
-    "trust_ratio": 0.7503160949992906,
+    "trust_ratio": 0.989487892130212,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.12031609499929,
-    "three_inst_ratio_change_20": 0.9919571533394773
+    "three_inst_ratio": 36.35948789213021,
+    "three_inst_ratio_change_20": 1.421128950470404
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "新興",
     "market": "TWSE",
     "foreign_ratio": 35.93,
-    "trust_ratio": 0.7503160949992906,
+    "trust_ratio": 0.989487892130212,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 36.68031609499929,
-    "three_inst_ratio_change_20": 1.7419571533394844
+    "three_inst_ratio": 36.91948789213021,
+    "three_inst_ratio_change_20": 1.9594878921302126
   }
 ]

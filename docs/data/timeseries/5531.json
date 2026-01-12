@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.0
   },
   {
+    "date": "2025-12-25",
+    "code": "5531",
+    "name": "鄉林",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.76
+  },
+  {
     "date": "2025-12-26",
     "code": "5531",
     "name": "鄉林",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.75,
-    "three_inst_ratio_change_20": -0.009999999999999787
+    "three_inst_ratio_change_20": -0.020000000000000018
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.75,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.73,
-    "three_inst_ratio_change_20": -0.029999999999999805
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-01-05",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.69,
-    "three_inst_ratio_change_20": -0.08000000000000007
+    "three_inst_ratio_change_20": -0.08999999999999986
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7,
-    "three_inst_ratio_change_20": -0.07999999999999963
+    "three_inst_ratio_change_20": -0.06999999999999984
   },
   {
     "date": "2026-01-09",

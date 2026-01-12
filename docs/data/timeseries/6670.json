@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.7010926564851907
   },
   {
+    "date": "2025-12-25",
+    "code": "6670",
+    "name": "復盛應用",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -23.8320677722157
+  },
+  {
     "date": "2025-12-26",
     "code": "6670",
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.41,
-    "trust_ratio": -2.2431199506714306,
+    "trust_ratio": -2.5950516910931127,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.16688004932857,
-    "three_inst_ratio_change_20": -0.6651877228871328
+    "three_inst_ratio": 22.81494830890689,
+    "three_inst_ratio_change_20": -1.0260052989313415
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.5,
-    "trust_ratio": -2.4332381477284826,
+    "trust_ratio": -2.7851698881501643,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 23.06676185227152,
-    "three_inst_ratio_change_20": -0.7741917555667115
+    "three_inst_ratio": 22.714830111849835,
+    "three_inst_ratio_change_20": -1.1354500490515704
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.4,
-    "trust_ratio": -2.445434409426482,
+    "trust_ratio": -2.7973661498481643,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.954565590573516,
-    "three_inst_ratio_change_20": -0.8957145703278897
+    "three_inst_ratio": 22.602633850151832,
+    "three_inst_ratio_change_20": -1.1876902909714566
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.31,
-    "trust_ratio": -2.447268153244134,
+    "trust_ratio": -2.7991998936658162,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.862731846755864,
-    "three_inst_ratio_change_20": -0.9275922943674253
+    "three_inst_ratio": 22.510800106334184,
+    "three_inst_ratio_change_20": -1.2614726328837058
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.02,
-    "trust_ratio": -2.4595383099394805,
+    "trust_ratio": -2.8114700503611623,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.56046169006052,
-    "three_inst_ratio_change_20": -1.2118110491573688
+    "three_inst_ratio": 22.208529949638837,
+    "three_inst_ratio_change_20": -1.6495322095846063
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.03,
-    "trust_ratio": -2.4734700279343897,
+    "trust_ratio": -2.8254017683560715,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.55652997206561,
-    "three_inst_ratio_change_20": -1.3015321871578323
+    "three_inst_ratio": 22.204598231643928,
+    "three_inst_ratio_change_20": -1.5465663657105182
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.11,
-    "trust_ratio": -2.480337240697522,
+    "trust_ratio": -2.8322689811192037,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.629662759302477,
-    "three_inst_ratio_change_20": -1.1215018380519695
+    "three_inst_ratio": 22.277731018880797,
+    "three_inst_ratio_change_20": -1.4235056042862766
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.19,
-    "trust_ratio": -2.485806187928337,
+    "trust_ratio": -2.837737928350019,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.704193812071665,
-    "three_inst_ratio_change_20": -0.9970428110954082
+    "three_inst_ratio": 22.35226207164998,
+    "three_inst_ratio_change_20": -1.2505438478099364
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.33,
-    "trust_ratio": -2.5612831121599866,
+    "trust_ratio": -2.9132148525816683,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.76871688784001,
-    "three_inst_ratio_change_20": -0.8340890316199072
+    "three_inst_ratio": 22.41678514741833,
+    "three_inst_ratio_change_20": -1.1738745130794968
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "復盛應用",
     "market": "TWSE",
     "foreign_ratio": 25.37,
-    "trust_ratio": -2.5629568697212473,
+    "trust_ratio": -2.914888610142929,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 22.807043130278753,
-    "three_inst_ratio_change_20": -0.7836165302190743
+    "three_inst_ratio": 22.455111389857073,
+    "three_inst_ratio_change_20": -1.2037057664635533
   }
 ]

@@ -759,6 +759,17 @@
     "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
+    "date": "2025-12-25",
+    "code": "4930",
+    "name": "燦星網",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.06
+  },
+  {
     "date": "2025-12-26",
     "code": "4930",
     "name": "燦星網",
@@ -778,7 +789,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": -0.010000000000000231
+    "three_inst_ratio_change_20": 0.0
   },
   {
     "date": "2025-12-30",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2025-12-31",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": -0.03000000000000025
+    "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
     "date": "2026-01-07",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.03,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.03000000000000025
   },
   {
     "date": "2026-01-08",

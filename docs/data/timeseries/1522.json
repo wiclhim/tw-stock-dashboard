@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.5425831925336677
   },
   {
+    "date": "2025-12-25",
+    "code": "1522",
+    "name": "堤維西",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -5.433489528840881
+  },
+  {
     "date": "2025-12-26",
     "code": "1522",
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.72,
-    "trust_ratio": 0.09255128193086101,
+    "trust_ratio": 0.09150940846416279,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.812551281930861,
-    "three_inst_ratio_change_20": -0.6209382469100202
+    "three_inst_ratio": 4.811509408464163,
+    "three_inst_ratio_change_20": -0.5911047549088382
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.91,
-    "trust_ratio": 0.09255128193086101,
+    "trust_ratio": 0.09150940846416279,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.002551281930861,
-    "three_inst_ratio_change_20": -0.40006288144213986
+    "three_inst_ratio": 5.001509408464163,
+    "three_inst_ratio_change_20": -0.12110475490883843
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.95,
-    "trust_ratio": 0.09255128193086101,
+    "trust_ratio": 0.09150940846416279,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.042551281930861,
-    "three_inst_ratio_change_20": -0.08006288144214047
+    "three_inst_ratio": 5.041509408464163,
+    "three_inst_ratio_change_20": -0.04110475490883836
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.84,
-    "trust_ratio": 0.09167463809062996,
+    "trust_ratio": 0.09063276462393173,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.93167463809063,
-    "three_inst_ratio_change_20": -0.15093952528237153
+    "three_inst_ratio": 4.930632764623931,
+    "three_inst_ratio_change_20": -0.2300644794075808
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.83,
-    "trust_ratio": 0.08975548159752478,
+    "trust_ratio": 0.08871360813082656,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.919755481597525,
-    "three_inst_ratio_change_20": -0.24094176243398735
+    "three_inst_ratio": 4.918713608130827,
+    "three_inst_ratio_change_20": -0.22946268562298044
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.94,
-    "trust_ratio": 0.08619042070150677,
+    "trust_ratio": 0.08514854723480854,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 5.026190420701507,
-    "three_inst_ratio_change_20": -0.12198587305230024
+    "three_inst_ratio": 5.025148547234809,
+    "three_inst_ratio_change_20": -0.11215238105111958
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.91,
-    "trust_ratio": 0.08084714386416698,
+    "trust_ratio": 0.07980527039746875,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.990847143864167,
-    "three_inst_ratio_change_20": -0.1464537844217615
+    "three_inst_ratio": 4.9898052703974685,
+    "three_inst_ratio_change_20": 0.02294218464202391
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.86,
-    "trust_ratio": 0.07344345038885067,
+    "trust_ratio": 0.07240157692215245,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.933443450388851,
-    "three_inst_ratio_change_20": -0.033419635366593425
+    "three_inst_ratio": 4.932401576922153,
+    "three_inst_ratio_change_20": -0.02147810735733202
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.76,
-    "trust_ratio": 0.06960545699572826,
+    "trust_ratio": 0.06856358352903004,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.829605456995728,
-    "three_inst_ratio_change_20": -0.12427422728375692
+    "three_inst_ratio": 4.8285635835290295,
+    "three_inst_ratio_change_20": -0.022795150472751047
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "堤維西",
     "market": "TWSE",
     "foreign_ratio": 4.85,
-    "trust_ratio": 0.06829065103192565,
+    "trust_ratio": 0.06724877756522742,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.918290651031925,
-    "three_inst_ratio_change_20": 0.06693191703014456
+    "three_inst_ratio": 4.917248777565227,
+    "three_inst_ratio_change_20": 0.1437939382529727
   }
 ]

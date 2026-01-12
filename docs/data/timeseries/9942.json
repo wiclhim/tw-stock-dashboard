@@ -770,6 +770,17 @@
     "three_inst_ratio_change_20": -0.040000000000000036
   },
   {
+    "date": "2025-12-25",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -3.221202482115484
+  },
+  {
     "date": "2025-12-26",
     "code": "9942",
     "name": "茂順",
@@ -778,7 +789,7 @@
     "trust_ratio": 0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.181202482115484,
-    "three_inst_ratio_change_20": -0.040000000000000036
+    "three_inst_ratio_change_20": -0.04999999999999982
   },
   {
     "date": "2025-12-29",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2112024821154836,
-    "three_inst_ratio_change_20": -0.020000000000000018
+    "three_inst_ratio_change_20": -0.010000000000000231
   },
   {
     "date": "2025-12-30",
@@ -822,7 +833,7 @@
     "trust_ratio": -0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2187975178845165,
-    "three_inst_ratio_change_20": -0.0024049642309673658
+    "three_inst_ratio_change_20": 0.027595035769032883
   },
   {
     "date": "2026-01-05",
@@ -833,7 +844,7 @@
     "trust_ratio": -0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2287975178845163,
-    "three_inst_ratio_change_20": 0.03759503576903267
+    "three_inst_ratio_change_20": 0.05759503576903269
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": -0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.2287975178845163,
-    "three_inst_ratio_change_20": 0.05759503576903269
+    "three_inst_ratio_change_20": 0.06759503576903247
   },
   {
     "date": "2026-01-08",
@@ -877,6 +888,6 @@
     "trust_ratio": -0.0012024821154834964,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.278797517884516,
-    "three_inst_ratio_change_20": 0.1175950357690323
+    "three_inst_ratio_change_20": 0.07759503576903226
   }
 ]

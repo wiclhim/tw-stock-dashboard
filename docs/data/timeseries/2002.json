@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.12053017056341275
   },
   {
+    "date": "2025-12-25",
+    "code": "2002",
+    "name": "中鋼",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -13.135266230188867
+  },
+  {
     "date": "2025-12-26",
     "code": "2002",
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.12,
-    "trust_ratio": -0.035194031908231165,
+    "trust_ratio": -0.03494617461856438,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.084805968091768,
-    "three_inst_ratio_change_20": -0.05046026209709886
+    "three_inst_ratio": 13.085053825381435,
+    "three_inst_ratio_change_20": -0.09028866858886708
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.27,
-    "trust_ratio": -0.035194031908231165,
+    "trust_ratio": -0.03494617461856438,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.234805968091768,
-    "three_inst_ratio_change_20": 0.059463474121466575
+    "three_inst_ratio": 13.235053825381435,
+    "three_inst_ratio_change_20": -0.00037764300054199396
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.28,
-    "trust_ratio": -0.04194337656531126,
+    "trust_ratio": -0.04169551927564448,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.238056623434687,
-    "three_inst_ratio_change_20": 0.0026251550527103262
+    "three_inst_ratio": 13.238304480724356,
+    "three_inst_ratio_change_20": -0.05882385679456981
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.2,
-    "trust_ratio": -0.041973888433200754,
+    "trust_ratio": -0.04172603114353397,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.158026111566798,
-    "three_inst_ratio_change_20": -0.1391022259521275
+    "three_inst_ratio": 13.158273968856465,
+    "three_inst_ratio_change_20": -0.18026524861902615
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.19,
-    "trust_ratio": -0.042027857769196916,
+    "trust_ratio": -0.041780000479530136,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.147972142230802,
-    "three_inst_ratio_change_20": -0.1905670752446884
+    "three_inst_ratio": 13.14821999952047,
+    "three_inst_ratio_change_20": -0.15195888925589252
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.18,
-    "trust_ratio": -0.0427332977474793,
+    "trust_ratio": -0.042485440457812516,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.13726670225252,
-    "three_inst_ratio_change_20": -0.1629121865238421
+    "three_inst_ratio": 13.137514559542188,
+    "three_inst_ratio_change_20": -0.16360491587188442
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.13,
-    "trust_ratio": -0.04357855465839423,
+    "trust_ratio": -0.043330697368727446,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.086421445341607,
-    "three_inst_ratio_change_20": -0.21469803007246568
+    "three_inst_ratio": 13.086669302631273,
+    "three_inst_ratio_change_20": -0.24466625349686844
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.46,
-    "trust_ratio": -0.04489416208600015,
+    "trust_ratio": -0.04464630479633337,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.415105837914,
-    "three_inst_ratio_change_20": 0.0837702817858581
+    "three_inst_ratio": 13.415353695203667,
+    "three_inst_ratio_change_20": 0.10394823060920899
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.33,
-    "trust_ratio": -0.043972641393649294,
+    "trust_ratio": -0.04372478410398251,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.28602735860635,
-    "three_inst_ratio_change_20": -0.02537810598810708
+    "three_inst_ratio": 13.286275215896017,
+    "three_inst_ratio_change_20": -0.01610746101718341
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "中鋼",
     "market": "TWSE",
     "foreign_ratio": 13.19,
-    "trust_ratio": -0.0447466806433333,
+    "trust_ratio": -0.04449882335366652,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 13.145253319356666,
-    "three_inst_ratio_change_20": -0.1571293575565349
+    "three_inst_ratio": 13.145501176646333,
+    "three_inst_ratio_change_20": -0.15757121084022963
   }
 ]

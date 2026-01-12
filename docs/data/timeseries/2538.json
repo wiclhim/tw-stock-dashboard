@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.120000000000001
   },
   {
+    "date": "2025-12-25",
+    "code": "2538",
+    "name": "基泰",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -9.88
+  },
+  {
     "date": "2025-12-26",
     "code": "2538",
     "name": "基泰",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.04,
-    "three_inst_ratio_change_20": 0.15999999999999837
+    "three_inst_ratio_change_20": 0.11999999999999922
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.04,
-    "three_inst_ratio_change_20": 0.11999999999999922
+    "three_inst_ratio_change_20": 0.08999999999999986
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.02,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.05999999999999872
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.96,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.95,
-    "three_inst_ratio_change_20": -0.02000000000000135
+    "three_inst_ratio_change_20": -0.010000000000001563
   },
   {
     "date": "2026-01-07",
@@ -888,6 +899,6 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.96,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio_change_20": -0.009999999999999787
   }
 ]

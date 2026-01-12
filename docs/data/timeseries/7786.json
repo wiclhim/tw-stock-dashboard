@@ -297,15 +297,26 @@
     "three_inst_ratio_change_20": 0.3468601868949026
   },
   {
+    "date": "2025-12-25",
+    "code": "7786",
+    "name": "東方風能",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.41
+  },
+  {
     "date": "2025-12-26",
     "code": "7786",
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.59,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7268601868949026,
-    "three_inst_ratio_change_20": 0.31686018689490264
+    "three_inst_ratio": 0.7348436977971052,
+    "three_inst_ratio_change_20": 0.2848436977971052
   },
   {
     "date": "2025-12-29",
@@ -313,10 +324,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.59,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7268601868949026,
-    "three_inst_ratio_change_20": 0.2768601868949026
+    "three_inst_ratio": 0.7348436977971052,
+    "three_inst_ratio_change_20": 0.1948436977971052
   },
   {
     "date": "2025-12-30",
@@ -324,10 +335,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.59,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7268601868949026,
-    "three_inst_ratio_change_20": 0.18686018689490258
+    "three_inst_ratio": 0.7348436977971052,
+    "three_inst_ratio_change_20": 0.11800068845236011
   },
   {
     "date": "2025-12-31",
@@ -335,10 +346,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.64,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7768601868949027,
-    "three_inst_ratio_change_20": 0.16001717755015754
+    "three_inst_ratio": 0.7848436977971053,
+    "three_inst_ratio_change_20": 0.08781861992422912
   },
   {
     "date": "2026-01-02",
@@ -346,10 +357,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.66,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7968601868949027,
-    "three_inst_ratio_change_20": 0.09983510902202652
+    "three_inst_ratio": 0.8048436977971053,
+    "three_inst_ratio_change_20": -0.01495018848042784
   },
   {
     "date": "2026-01-05",
@@ -357,10 +368,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.62,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.7568601868949026,
-    "three_inst_ratio_change_20": -0.06293369938263049
+    "three_inst_ratio": 0.7648436977971053,
+    "three_inst_ratio_change_20": -0.0340329781955947
   },
   {
     "date": "2026-01-06",
@@ -368,10 +379,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.67,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8068601868949027,
-    "three_inst_ratio_change_20": 0.007983510902202728
+    "three_inst_ratio": 0.8148436977971053,
+    "three_inst_ratio_change_20": 0.06596702180440539
   },
   {
     "date": "2026-01-07",
@@ -379,10 +390,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.7,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.8368601868949026,
-    "three_inst_ratio_change_20": 0.08798351090220269
+    "three_inst_ratio": 0.8448436977971052,
+    "three_inst_ratio_change_20": 0.16596702180440526
   },
   {
     "date": "2026-01-08",
@@ -390,10 +401,10 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.87,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0068601868949025,
-    "three_inst_ratio_change_20": 0.32798351090220257
+    "three_inst_ratio": 1.0148436977971054,
+    "three_inst_ratio_change_20": 0.3059670218044055
   },
   {
     "date": "2026-01-09",
@@ -401,9 +412,9 @@
     "name": "東方風能",
     "market": "TWSE",
     "foreign_ratio": 0.91,
-    "trust_ratio": 0.13686018689490262,
+    "trust_ratio": 0.14484369779710526,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 1.0468601868949026,
-    "three_inst_ratio_change_20": 0.3379835109022027
+    "three_inst_ratio": 1.0548436977971054,
+    "three_inst_ratio_change_20": 0.38596702180440545
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 0.3408212063486644
   },
   {
+    "date": "2025-12-25",
+    "code": "1215",
+    "name": "卜蜂",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -46.95328342643313
+  },
+  {
     "date": "2025-12-26",
     "code": "1215",
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 41.69,
-    "trust_ratio": 5.684722829462203,
+    "trust_ratio": 6.3920057450505,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.3747228294622,
-    "three_inst_ratio_change_20": 0.4214394030290691
+    "three_inst_ratio": 48.082005745050495,
+    "three_inst_ratio_change_20": 1.1087223186173603
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 41.21,
-    "trust_ratio": 5.713896129577596,
+    "trust_ratio": 6.421179045165893,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.9238961295776,
-    "three_inst_ratio_change_20": -0.04938729685553511
+    "three_inst_ratio": 47.631179045165894,
+    "three_inst_ratio_change_20": 0.6498823996455911
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 41.05,
-    "trust_ratio": 5.713556905157649,
+    "trust_ratio": 6.420839820745947,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.76355690515764,
-    "three_inst_ratio_change_20": -0.21773974036265997
+    "three_inst_ratio": 47.470839820745944,
+    "three_inst_ratio_change_20": 0.4916782071831989
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.88,
-    "trust_ratio": 5.712200007477863,
+    "trust_ratio": 6.419482923066161,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.592200007477864,
-    "three_inst_ratio_change_20": -0.3869616060848813
+    "three_inst_ratio": 47.299482923066165,
+    "three_inst_ratio_change_20": 0.3570429915186679
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.83,
-    "trust_ratio": 5.665387037525256,
+    "trust_ratio": 6.3726699531135536,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.495387037525255,
-    "three_inst_ratio_change_20": -0.44705289402224224
+    "three_inst_ratio": 47.20266995311355,
+    "three_inst_ratio_change_20": 0.29211711704101617
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.88,
-    "trust_ratio": 5.6531749584071855,
+    "trust_ratio": 6.3604578739954825,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.53317495840719,
-    "three_inst_ratio_change_20": -0.3773778776653458
+    "three_inst_ratio": 47.24045787399548,
+    "three_inst_ratio_change_20": 0.31583434488359075
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.9,
-    "trust_ratio": 5.649104265367828,
+    "trust_ratio": 6.356387180956126,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.54910426536782,
-    "three_inst_ratio_change_20": -0.3755192637440672
+    "three_inst_ratio": 47.256387180956125,
+    "three_inst_ratio_change_20": 0.31972830532455276
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 41.01,
-    "trust_ratio": 5.733231921514541,
+    "trust_ratio": 6.44051483710284,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.743231921514536,
-    "three_inst_ratio_change_20": -0.1934269541170366
+    "three_inst_ratio": 47.45051483710284,
+    "three_inst_ratio_change_20": 0.49183485572842756
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.78,
-    "trust_ratio": 5.8193949241809335,
+    "trust_ratio": 6.52667783976923,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.599394924180935,
-    "three_inst_ratio_change_20": -0.3592850571934747
+    "three_inst_ratio": 47.30667783976923,
+    "three_inst_ratio_change_20": 0.38767287475171486
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "卜蜂",
     "market": "TWSE",
     "foreign_ratio": 40.96,
-    "trust_ratio": 5.818038026501148,
+    "trust_ratio": 6.525320942089445,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 46.77803802650115,
-    "three_inst_ratio_change_20": -0.14096693851636388
+    "three_inst_ratio": 47.485320942089444,
+    "three_inst_ratio_change_20": 0.38497332016898156
   }
 ]

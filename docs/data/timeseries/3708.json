@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.9568657945280323
   },
   {
+    "date": "2025-12-25",
+    "code": "3708",
+    "name": "上緯投控",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -6.187538258329167
+  },
+  {
     "date": "2025-12-26",
     "code": "3708",
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.64,
-    "trust_ratio": 0.210672463801134,
+    "trust_ratio": 0.21160464284450184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.850672463801134,
-    "three_inst_ratio_change_20": -1.3368657945280331
+    "three_inst_ratio": 4.851604642844501,
+    "three_inst_ratio_change_20": -1.3059336154846655
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.6,
-    "trust_ratio": 0.210672463801134,
+    "trust_ratio": 0.21160464284450184,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.810672463801134,
-    "three_inst_ratio_change_20": -1.346865794528033
+    "three_inst_ratio": 4.811604642844501,
+    "three_inst_ratio_change_20": -1.1259336154846658
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.6,
-    "trust_ratio": 0.20974028475776615,
+    "trust_ratio": 0.210672463801134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.8097402847577655,
-    "three_inst_ratio_change_20": -1.1277979735714014
+    "three_inst_ratio": 4.810672463801134,
+    "three_inst_ratio_change_20": -1.1643232268749752
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.62,
-    "trust_ratio": 0.20974028475776615,
+    "trust_ratio": 0.210672463801134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.829740284757766,
-    "three_inst_ratio_change_20": -1.145255405918343
+    "three_inst_ratio": 4.830672463801134,
+    "three_inst_ratio_change_20": -1.1408484801785495
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.63,
-    "trust_ratio": 0.20974028475776615,
+    "trust_ratio": 0.210672463801134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.839740284757766,
-    "three_inst_ratio_change_20": -1.131780659221918
+    "three_inst_ratio": 4.840672463801134,
+    "three_inst_ratio_change_20": -0.7283059125254931
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.7,
-    "trust_ratio": 0.20601156858429476,
+    "trust_ratio": 0.2069437476276626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.906011568584295,
-    "three_inst_ratio_change_20": -0.6629668077423325
+    "three_inst_ratio": 4.906943747627663,
+    "three_inst_ratio_change_20": -0.7666955239158035
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.51,
-    "trust_ratio": 0.20228285241082333,
+    "trust_ratio": 0.2032150314541912,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.712282852410823,
-    "three_inst_ratio_change_20": -0.9613564191326436
+    "three_inst_ratio": 4.713215031454191,
+    "three_inst_ratio_change_20": -0.9713564191326434
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.53,
-    "trust_ratio": 0.19855413623735196,
+    "trust_ratio": 0.19948631528071978,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.728554136237352,
-    "three_inst_ratio_change_20": -0.9560173143494826
+    "three_inst_ratio": 4.72948631528072,
+    "three_inst_ratio_change_20": -0.7860173143494817
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.48,
-    "trust_ratio": 0.19668977815061622,
+    "trust_ratio": 0.1976219571939841,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.6766897781506165,
-    "three_inst_ratio_change_20": -0.8388138514795855
+    "three_inst_ratio": 4.677621957193985,
+    "three_inst_ratio_change_20": -0.9725425676530568
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "上緯投控",
     "market": "TWSE",
     "foreign_ratio": 4.53,
-    "trust_ratio": 0.19668977815061622,
+    "trust_ratio": 0.1976219571939841,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 4.726689778150616,
-    "three_inst_ratio_change_20": -0.9234747466964253
+    "three_inst_ratio": 4.727621957193985,
+    "three_inst_ratio_change_20": -0.9453391047831605
   }
 ]

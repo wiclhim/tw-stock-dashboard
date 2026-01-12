@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.05000000000000002
   },
   {
+    "date": "2025-12-25",
+    "code": "00896",
+    "name": "中信綠能及電動車",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.18
+  },
+  {
     "date": "2025-12-26",
     "code": "00896",
     "name": "中信綠能及電動車",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.4,
-    "three_inst_ratio_change_20": 0.22000000000000003
+    "three_inst_ratio_change_20": 0.16000000000000003
   },
   {
     "date": "2025-12-29",
@@ -811,7 +822,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9,
-    "three_inst_ratio_change_20": 0.66
+    "three_inst_ratio_change_20": 0.8
   },
   {
     "date": "2025-12-31",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 1.0599999999999998
+    "three_inst_ratio_change_20": 1.0699999999999998
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.44,
-    "three_inst_ratio_change_20": 1.3499999999999999
+    "three_inst_ratio_change_20": 1.3599999999999999
   },
   {
     "date": "2026-01-05",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.89,
-    "three_inst_ratio_change_20": 3.81
+    "three_inst_ratio_change_20": 3.7800000000000002
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.79,
-    "three_inst_ratio_change_20": 4.68
+    "three_inst_ratio_change_20": 4.69
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.07,
-    "three_inst_ratio_change_20": 4.970000000000001
+    "three_inst_ratio_change_20": 4.98
   },
   {
     "date": "2026-01-09",

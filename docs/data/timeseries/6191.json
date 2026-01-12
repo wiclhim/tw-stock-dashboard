@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -3.3490629737854576
   },
   {
+    "date": "2025-12-25",
+    "code": "6191",
+    "name": "精成科",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -18.77467377524269
+  },
+  {
     "date": "2025-12-26",
     "code": "6191",
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 8.23,
-    "trust_ratio": 8.252778973889601,
+    "trust_ratio": 8.260189303889621,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 16.4827789738896,
-    "three_inst_ratio_change_20": -2.291894801353088
+    "three_inst_ratio": 16.490189303889622,
+    "three_inst_ratio_change_20": -3.3460867048665826
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 8.16,
-    "trust_ratio": 7.836598818753342,
+    "trust_ratio": 7.844009148753363,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.996598818753341,
-    "three_inst_ratio_change_20": -3.8396771900028632
+    "three_inst_ratio": 16.00400914875336,
+    "three_inst_ratio_change_20": -3.1263003627056136
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 8.13,
-    "trust_ratio": 7.665760670374502,
+    "trust_ratio": 7.673171000374522,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.795760670374502,
-    "three_inst_ratio_change_20": -3.334548841084473
+    "three_inst_ratio": 15.803171000374522,
+    "three_inst_ratio_change_20": -3.1707295770303823
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.94,
-    "trust_ratio": 7.685388030915095,
+    "trust_ratio": 7.692798360915115,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.625388030915095,
-    "three_inst_ratio_change_20": -3.3485125464898093
+    "three_inst_ratio": 15.632798360915116,
+    "three_inst_ratio_change_20": -3.0311908200030846
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.75,
-    "trust_ratio": 7.5662219133472055,
+    "trust_ratio": 7.573632243347227,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.316221913347206,
-    "three_inst_ratio_change_20": -3.347767267570994
+    "three_inst_ratio": 15.323632243347227,
+    "three_inst_ratio_change_20": -3.3404455410842715
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.84,
-    "trust_ratio": 7.400633883633785,
+    "trust_ratio": 7.408044213633806,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.240633883633784,
-    "three_inst_ratio_change_20": -3.4234439007977144
+    "three_inst_ratio": 15.248044213633806,
+    "three_inst_ratio_change_20": -3.1560335707976943
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.78,
-    "trust_ratio": 7.402236117147304,
+    "trust_ratio": 7.409646447147324,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.182236117147305,
-    "three_inst_ratio_change_20": -3.2218416672841954
+    "three_inst_ratio": 15.189646447147325,
+    "three_inst_ratio_change_20": -3.0852324540409306
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.62,
-    "trust_ratio": 7.463521549039361,
+    "trust_ratio": 7.47093187903938,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 15.08352154903936,
-    "three_inst_ratio_change_20": -3.191357352148895
+    "three_inst_ratio": 15.090931879039381,
+    "three_inst_ratio_change_20": -2.425307678904396
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.44,
-    "trust_ratio": 7.464122386606931,
+    "trust_ratio": 7.4715327166069505,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.904122386606932,
-    "three_inst_ratio_change_20": -2.6121171713368447
+    "three_inst_ratio": 14.911532716606951,
+    "three_inst_ratio_change_20": -2.463421409444768
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "精成科",
     "market": "TWSE",
     "foreign_ratio": 7.24,
-    "trust_ratio": 7.485151701471852,
+    "trust_ratio": 7.492562031471872,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.725151701471852,
-    "three_inst_ratio_change_20": -2.6498024245798675
+    "three_inst_ratio": 14.732562031471872,
+    "three_inst_ratio_change_20": -2.3075993534987767
   }
 ]

@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": 2.0972241475569753
   },
   {
+    "date": "2025-12-25",
+    "code": "3013",
+    "name": "晟銘電",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -7.798645647610622
+  },
+  {
     "date": "2025-12-26",
     "code": "3013",
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 8.64,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.695869795167598,
-    "three_inst_ratio_change_20": 1.897224147556976
+    "three_inst_ratio": 9.598374892566712,
+    "three_inst_ratio_change_20": 1.009729244956091
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.8,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.855869795167597,
-    "three_inst_ratio_change_20": -0.7327758524430239
+    "three_inst_ratio": 7.75837489256671,
+    "three_inst_ratio_change_20": -0.4802707550439109
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.78,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.835869795167597,
-    "three_inst_ratio_change_20": -0.40277585244302383
+    "three_inst_ratio": 7.738374892566711,
+    "three_inst_ratio_change_20": -0.40027075504391085
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.92,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.975869795167597,
-    "three_inst_ratio_change_20": -0.1627758524430245
+    "three_inst_ratio": 7.878374892566711,
+    "three_inst_ratio_change_20": -0.6402707550439111
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.95,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.005869795167598,
-    "three_inst_ratio_change_20": -0.5127758524430241
+    "three_inst_ratio": 7.908374892566711,
+    "three_inst_ratio_change_20": -0.9602707550439114
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.88,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.935869795167597,
-    "three_inst_ratio_change_20": -0.932775852443025
+    "three_inst_ratio": 7.83837489256671,
+    "three_inst_ratio_change_20": -1.2502707550439105
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.8,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.855869795167597,
-    "three_inst_ratio_change_20": -1.232775852443024
+    "three_inst_ratio": 7.75837489256671,
+    "three_inst_ratio_change_20": -3.1602707550439124
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.56,
-    "trust_ratio": 1.055869795167597,
+    "trust_ratio": 0.9583748925667108,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.615869795167597,
-    "three_inst_ratio_change_20": -3.302775852443026
+    "three_inst_ratio": 7.51837489256671,
+    "three_inst_ratio_change_20": -3.640270755043913
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.53,
-    "trust_ratio": 1.0056599203281404,
+    "trust_ratio": 0.9081650177272544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.535659920328141,
-    "three_inst_ratio_change_20": -3.622985727282482
+    "three_inst_ratio": 7.438165017727255,
+    "three_inst_ratio_change_20": -3.5404806298833664
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "晟銘電",
     "market": "TWSE",
     "foreign_ratio": 6.12,
-    "trust_ratio": 1.0056599203281404,
+    "trust_ratio": 0.9081650177272544,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 7.1256599203281406,
-    "three_inst_ratio_change_20": -3.852985727282481
+    "three_inst_ratio": 7.028165017727255,
+    "three_inst_ratio_change_20": -4.330480629883367
   }
 ]

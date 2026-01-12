@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.016743867575289784
   },
   {
+    "date": "2025-12-25",
+    "code": "2539",
+    "name": "櫻花建",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.2818779527558495
+  },
+  {
     "date": "2025-12-26",
     "code": "2539",
     "name": "櫻花建",
@@ -789,7 +800,7 @@
     "trust_ratio": 0.119039722369019,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2990397223690193,
-    "three_inst_ratio_change_20": 0.01716176961316984
+    "three_inst_ratio_change_20": 0.027161769613170073
   },
   {
     "date": "2025-12-29",
@@ -800,7 +811,7 @@
     "trust_ratio": 0.119039722369019,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3190397223690193,
-    "three_inst_ratio_change_20": 0.04716176961317009
+    "three_inst_ratio_change_20": 0.06716176961317011
   },
   {
     "date": "2025-12-30",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.12872128721008944,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.3087212872100897,
-    "three_inst_ratio_change_20": 0.0568433344542405
+    "three_inst_ratio_change_20": 0.057261068861941045
   },
   {
     "date": "2026-01-02",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.12872128721008944,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2987212872100895,
-    "three_inst_ratio_change_20": 0.047261068861940814
+    "three_inst_ratio_change_20": 0.03726106886194058
   },
   {
     "date": "2026-01-05",
@@ -844,7 +855,7 @@
     "trust_ratio": 0.1285026974558192,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.278502697455819,
-    "three_inst_ratio_change_20": 0.017042479107669983
+    "three_inst_ratio_change_20": -0.0029575208923300345
   },
   {
     "date": "2026-01-06",
@@ -855,7 +866,7 @@
     "trust_ratio": 0.1285026974558192,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.288502697455819,
-    "three_inst_ratio_change_20": 0.0070424791076701965
+    "three_inst_ratio_change_20": 0.027042479107670214
   },
   {
     "date": "2026-01-07",
@@ -877,7 +888,7 @@
     "trust_ratio": 0.12742793655896048,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.2774279365589605,
-    "three_inst_ratio_change_20": 0.015967718210811555
+    "three_inst_ratio_change_20": 0.026385704063781823
   },
   {
     "date": "2026-01-09",

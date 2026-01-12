@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.06656781500887377
   },
   {
+    "date": "2025-12-25",
+    "code": "2324",
+    "name": "仁寶",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -35.17994329579402
+  },
+  {
     "date": "2025-12-26",
     "code": "2324",
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.54,
-    "trust_ratio": 0.74522653305187,
+    "trust_ratio": 0.5784973401015447,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.28522653305187,
-    "three_inst_ratio_change_20": 0.10528323725785071
+    "three_inst_ratio": 35.11849734010154,
+    "three_inst_ratio_change_20": 0.0473287617246001
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.61,
-    "trust_ratio": 0.7784392015775059,
+    "trust_ratio": 0.6117100086271806,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.388439201577505,
-    "three_inst_ratio_change_20": 0.31727062320056376
+    "three_inst_ratio": 35.22171000862718,
+    "three_inst_ratio_change_20": 0.08299199541608004
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.63,
-    "trust_ratio": 0.7849059707651547,
+    "trust_ratio": 0.6181767778148294,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.414905970765155,
-    "three_inst_ratio_change_20": 0.27618795755405756
+    "three_inst_ratio": 35.248176777814834,
+    "three_inst_ratio_change_20": -0.006388888865252795
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.64,
-    "trust_ratio": 0.8361786919217828,
+    "trust_ratio": 0.6694494989714576,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.47617869192178,
-    "three_inst_ratio_change_20": 0.22161302524169457
+    "three_inst_ratio": 35.30944949897146,
+    "three_inst_ratio_change_20": -0.0631258853340313
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.68,
-    "trust_ratio": 0.8627945524730528,
+    "trust_ratio": 0.6960653595227274,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.542794552473055,
-    "three_inst_ratio_change_20": 0.17021916816756288
+    "three_inst_ratio": 35.37606535952273,
+    "three_inst_ratio_change_20": -0.020228046077313877
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.71,
-    "trust_ratio": 0.87981236612476,
+    "trust_ratio": 0.7130831731744346,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.58981236612476,
-    "three_inst_ratio_change_20": 0.19351896052472028
+    "three_inst_ratio": 35.42308317317443,
+    "three_inst_ratio_change_20": -0.023265354825809936
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.67,
-    "trust_ratio": 0.894515757119835,
+    "trust_ratio": 0.7277865641695096,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.564515757119835,
-    "three_inst_ratio_change_20": 0.11816722911959232
+    "three_inst_ratio": 35.397786564169515,
+    "three_inst_ratio_change_20": -0.13611809971263966
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.88,
-    "trust_ratio": 0.8458840871898606,
+    "trust_ratio": 0.6791548942395353,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.72588408718986,
-    "three_inst_ratio_change_20": 0.191979423307707
+    "three_inst_ratio": 35.55915489423954,
+    "three_inst_ratio_change_20": 0.11602491186687303
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.7,
-    "trust_ratio": 0.805086715262168,
+    "trust_ratio": 0.6383575223118427,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.50508671526217,
-    "three_inst_ratio_change_20": 0.06195673288950587
+    "three_inst_ratio": 35.338357522311846,
+    "three_inst_ratio_change_20": -0.15986667053537928
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "仁寶",
     "market": "TWSE",
     "foreign_ratio": 34.6,
-    "trust_ratio": 0.7484165335660917,
+    "trust_ratio": 0.5816873406157663,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 35.348416533566095,
-    "three_inst_ratio_change_20": -0.14980765928113016
+    "three_inst_ratio": 35.18168734061577,
+    "three_inst_ratio_change_20": -0.3552434983939321
   }
 ]

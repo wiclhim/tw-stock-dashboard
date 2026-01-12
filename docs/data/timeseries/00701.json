@@ -781,6 +781,17 @@
     "three_inst_ratio_change_20": 0.14039104016747794
   },
   {
+    "date": "2025-12-25",
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.596460374136804
+  },
+  {
     "date": "2025-12-26",
     "code": "00701",
     "name": "國泰股利精選30",
@@ -800,7 +811,7 @@
     "trust_ratio": 2.3368514143042822,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.6668514143042823,
-    "three_inst_ratio_change_20": 0.0703910401674781
+    "three_inst_ratio_change_20": 0.030391040167478067
   },
   {
     "date": "2025-12-30",
@@ -822,7 +833,7 @@
     "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.596161334448916,
-    "three_inst_ratio_change_20": -0.04029903968788817
+    "three_inst_ratio_change_20": -0.05029903968788796
   },
   {
     "date": "2026-01-02",
@@ -855,7 +866,7 @@
     "trust_ratio": 2.3739626391277318,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3439626391277315,
-    "three_inst_ratio_change_20": 0.6975022649909275
+    "three_inst_ratio_change_20": 0.6875022649909273
   },
   {
     "date": "2026-01-07",
@@ -866,7 +877,7 @@
     "trust_ratio": 2.379360683247609,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.869360683247609,
-    "three_inst_ratio_change_20": 1.2129003091108048
+    "three_inst_ratio_change_20": 1.1929003091108048
   },
   {
     "date": "2026-01-08",
@@ -877,7 +888,7 @@
     "trust_ratio": 2.3902307541196306,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.010230754119631,
-    "three_inst_ratio_change_20": 1.3337703799828264
+    "three_inst_ratio_change_20": 1.3185864368341784
   },
   {
     "date": "2026-01-09",
@@ -888,6 +899,6 @@
     "trust_ratio": 2.395703119634051,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.0557031196340505,
-    "three_inst_ratio_change_20": 1.3640588023485982
+    "three_inst_ratio_change_20": 1.3440588023485982
   }
 ]

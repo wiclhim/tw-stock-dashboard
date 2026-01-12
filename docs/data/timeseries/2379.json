@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.1339648565182685
   },
   {
+    "date": "2025-12-25",
+    "code": "2379",
+    "name": "瑞昱",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -47.889382904938664
+  },
+  {
     "date": "2025-12-26",
     "code": "2379",
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.11,
-    "trust_ratio": 1.717796953362112,
+    "trust_ratio": 1.8232830819839694,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.82779695336211,
-    "three_inst_ratio_change_20": -0.061585951576553555
+    "three_inst_ratio": 47.933283081983966,
+    "three_inst_ratio_change_20": 0.040724603111414126
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 45.99,
-    "trust_ratio": 1.7246188446413968,
+    "trust_ratio": 1.8301049732632537,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.7146188446414,
-    "three_inst_ratio_change_20": -0.17793963423115144
+    "three_inst_ratio": 47.820104973263255,
+    "three_inst_ratio_change_20": -0.21746546911091968
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 45.72,
-    "trust_ratio": 1.696940541172879,
+    "trust_ratio": 1.8018846214869055,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.41694054117288,
-    "three_inst_ratio_change_20": -0.6206299012012977
+    "three_inst_ratio": 47.521884621486905,
+    "three_inst_ratio_change_20": -0.7614144201193653
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 45.66,
-    "trust_ratio": 1.6815832068024883,
+    "trust_ratio": 1.7865272871165152,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.34158320680248,
-    "three_inst_ratio_change_20": -0.9417158348037873
+    "three_inst_ratio": 47.44652728711651,
+    "three_inst_ratio_change_20": -0.9369383764788495
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 45.93,
-    "trust_ratio": 1.5050808424307873,
+    "trust_ratio": 1.610024922744814,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.435080842430786,
-    "three_inst_ratio_change_20": -0.9483848211645736
+    "three_inst_ratio": 47.54002492274481,
+    "three_inst_ratio_change_20": -0.7809343156387882
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.01,
-    "trust_ratio": 1.5010072274832926,
+    "trust_ratio": 1.6059513077973195,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.51100722748329,
-    "three_inst_ratio_change_20": -0.8099520109003109
+    "three_inst_ratio": 47.61595130779732,
+    "three_inst_ratio_change_20": -0.6379326846146185
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.05,
-    "trust_ratio": 1.515242183944816,
+    "trust_ratio": 1.6201862642588427,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.56524218394481,
-    "three_inst_ratio_change_20": -0.6886418084671249
+    "three_inst_ratio": 47.67018626425884,
+    "three_inst_ratio_change_20": -0.5893577831422547
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.23,
-    "trust_ratio": 1.4940607440894937,
+    "trust_ratio": 1.5990048244035202,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 47.72406074408949,
-    "three_inst_ratio_change_20": -0.5354833033116009
+    "three_inst_ratio": 47.82900482440352,
+    "three_inst_ratio_change_20": -0.40996584721794704
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.51,
-    "trust_ratio": 1.4979403773728217,
+    "trust_ratio": 1.6028844576868484,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.00794037737282,
-    "three_inst_ratio_change_20": -0.2310302942486473
+    "three_inst_ratio": 48.112884457686846,
+    "three_inst_ratio_change_20": -0.2472466853395332
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "瑞昱",
     "market": "TWSE",
     "foreign_ratio": 46.51,
-    "trust_ratio": 1.4926163566181105,
+    "trust_ratio": 1.5975604369321372,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 48.002616356618105,
-    "three_inst_ratio_change_20": -0.3575147864082737
+    "three_inst_ratio": 48.10756043693213,
+    "three_inst_ratio_change_20": -0.15250421668599756
   }
 ]

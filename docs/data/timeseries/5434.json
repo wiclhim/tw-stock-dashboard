@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -0.766381652023945
   },
   {
+    "date": "2025-12-25",
+    "code": "5434",
+    "name": "崇越",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -28.519161456163108
+  },
+  {
     "date": "2025-12-26",
     "code": "5434",
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.07,
-    "trust_ratio": 0.7445910523982427,
+    "trust_ratio": 0.6259492811654489,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.814591052398242,
-    "three_inst_ratio_change_20": -0.7045704037648655
+    "three_inst_ratio": 27.69594928116545,
+    "three_inst_ratio_change_20": -0.7255116733441831
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.02,
-    "trust_ratio": 0.7670650443057764,
+    "trust_ratio": 0.6484232730729826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.787065044305777,
-    "three_inst_ratio_change_20": -0.6343959102038568
+    "three_inst_ratio": 27.66842327307298,
+    "three_inst_ratio_change_20": -0.7472188892334053
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.12,
-    "trust_ratio": 0.7733368560009021,
+    "trust_ratio": 0.6546950847681082,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.893336856000904,
-    "three_inst_ratio_change_20": -0.5223053063054834
+    "three_inst_ratio": 27.77469508476811,
+    "three_inst_ratio_change_20": -0.7214697285128686
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.11,
-    "trust_ratio": 0.7566120248139003,
+    "trust_ratio": 0.6379702535811065,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.8666120248139,
-    "three_inst_ratio_change_20": -0.6295527884670769
+    "three_inst_ratio": 27.747970253581105,
+    "three_inst_ratio_change_20": -0.694222246351277
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.08,
-    "trust_ratio": 0.7357059858301481,
+    "trust_ratio": 0.6170642145973543,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.815705985830146,
-    "three_inst_ratio_change_20": -0.6264865141022362
+    "three_inst_ratio": 27.697064214597354,
+    "three_inst_ratio_change_20": -0.7227583257973578
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.12,
-    "trust_ratio": 0.7027789744307383,
+    "trust_ratio": 0.5841372031979445,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.82277897443074,
-    "three_inst_ratio_change_20": -0.5970435659639719
+    "three_inst_ratio": 27.704137203197945,
+    "three_inst_ratio_change_20": -0.7756853371967658
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.02,
-    "trust_ratio": 0.6844861903199552,
+    "trust_ratio": 0.5658444190871613,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.704486190319955,
-    "three_inst_ratio_change_20": -0.7753363500747561
+    "three_inst_ratio": 27.58584441908716,
+    "three_inst_ratio_change_20": -0.8545007722821474
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.03,
-    "trust_ratio": 0.7451137033728366,
+    "trust_ratio": 0.6264719321400427,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.77511370337284,
-    "three_inst_ratio_change_20": -0.6652314879964685
+    "three_inst_ratio": 27.656471932140043,
+    "three_inst_ratio_change_20": -0.732827957280076
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.03,
-    "trust_ratio": 0.7289115231604286,
+    "trust_ratio": 0.6102697519276348,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.758911523160428,
-    "three_inst_ratio_change_20": -0.630388366259691
+    "three_inst_ratio": 27.640269751927637,
+    "three_inst_ratio_change_20": -0.719030137492485
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "崇越",
     "market": "TWSE",
     "foreign_ratio": 27.11,
-    "trust_ratio": 0.73047947608421,
+    "trust_ratio": 0.6118377048514162,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 27.84047947608421,
-    "three_inst_ratio_change_20": -0.5188204133359129
+    "three_inst_ratio": 27.721837704851417,
+    "three_inst_ratio_change_20": -0.594779298213016
   }
 ]

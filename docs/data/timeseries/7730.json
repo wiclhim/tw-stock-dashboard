@@ -396,6 +396,17 @@
     "three_inst_ratio_change_20": 0.19999999999999996
   },
   {
+    "date": "2025-12-25",
+    "code": "7730",
+    "name": "暉盛-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -1.05
+  },
+  {
     "date": "2025-12-26",
     "code": "7730",
     "name": "暉盛-創",
@@ -404,7 +415,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 0.10999999999999988
+    "three_inst_ratio_change_20": 0.1299999999999999
   },
   {
     "date": "2025-12-29",
@@ -415,7 +426,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.15,
-    "three_inst_ratio_change_20": 0.11999999999999988
+    "three_inst_ratio_change_20": 0.1399999999999999
   },
   {
     "date": "2025-12-30",
@@ -470,7 +481,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.09,
-    "three_inst_ratio_change_20": 0.08000000000000007
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-01-07",
@@ -481,7 +492,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.12,
-    "three_inst_ratio_change_20": 0.07000000000000006
+    "three_inst_ratio_change_20": 0.040000000000000036
   },
   {
     "date": "2026-01-08",
@@ -492,7 +503,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.16,
-    "three_inst_ratio_change_20": 0.07999999999999985
+    "three_inst_ratio_change_20": 0.06999999999999984
   },
   {
     "date": "2026-01-09",

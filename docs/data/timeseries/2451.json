@@ -781,15 +781,26 @@
     "three_inst_ratio_change_20": -2.857798390266302
   },
   {
+    "date": "2025-12-25",
+    "code": "2451",
+    "name": "創見",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -14.588572024940465
+  },
+  {
     "date": "2025-12-26",
     "code": "2451",
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 10.89,
-    "trust_ratio": 0.5170200464161185,
+    "trust_ratio": 0.49167884011595725,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.407020046416118,
-    "three_inst_ratio_change_20": -3.1815519785243467
+    "three_inst_ratio": 11.381678840115958,
+    "three_inst_ratio_change_20": -2.477263893854138
   },
   {
     "date": "2025-12-29",
@@ -797,10 +808,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.56,
-    "trust_ratio": -0.14113852703266128,
+    "trust_ratio": -0.16647973333282254,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.41886147296734,
-    "three_inst_ratio_change_20": -2.4400812610027565
+    "three_inst_ratio": 11.393520266667178,
+    "three_inst_ratio_change_20": -2.3256220636940874
   },
   {
     "date": "2025-12-30",
@@ -808,10 +819,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.75,
-    "trust_ratio": -0.7383036065508685,
+    "trust_ratio": -0.7636448128510297,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 11.011696393449132,
-    "three_inst_ratio_change_20": -2.7074459369121335
+    "three_inst_ratio": 10.98635518714897,
+    "three_inst_ratio_change_20": -2.747878795688454
   },
   {
     "date": "2025-12-31",
@@ -819,10 +830,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.37,
-    "trust_ratio": -1.2797456615417158,
+    "trust_ratio": -1.305086867841877,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.090254338458283,
-    "three_inst_ratio_change_20": -3.64397964437914
+    "three_inst_ratio": 10.064913132158122,
+    "three_inst_ratio_change_20": -3.4788228261475904
   },
   {
     "date": "2026-01-02",
@@ -830,10 +841,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.75,
-    "trust_ratio": -1.9183187527654726,
+    "trust_ratio": -1.9436599590656338,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.831681247234528,
-    "three_inst_ratio_change_20": -3.7120547110711843
+    "three_inst_ratio": 9.806340040934366,
+    "three_inst_ratio_change_20": -3.5892023109731355
   },
   {
     "date": "2026-01-05",
@@ -841,10 +852,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.5,
-    "trust_ratio": -2.3511789221623065,
+    "trust_ratio": -2.376520128462468,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.148821077837693,
-    "three_inst_ratio_change_20": -4.246721274069808
+    "three_inst_ratio": 9.123479871537532,
+    "three_inst_ratio_change_20": -4.324470218278117
   },
   {
     "date": "2026-01-06",
@@ -852,10 +863,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.62,
-    "trust_ratio": -2.840482103999247,
+    "trust_ratio": -2.865823310299408,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.779517896000751,
-    "three_inst_ratio_change_20": -4.668432193814898
+    "three_inst_ratio": 8.754176689700591,
+    "three_inst_ratio_change_20": -4.062254481016357
   },
   {
     "date": "2026-01-07",
@@ -863,10 +874,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 11.83,
-    "trust_ratio": -2.933987196590308,
+    "trust_ratio": -2.959328402890469,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 8.896012803409691,
-    "three_inst_ratio_change_20": -3.9204183673072563
+    "three_inst_ratio": 8.870671597109531,
+    "three_inst_ratio_change_20": -3.9612669825349514
   },
   {
     "date": "2026-01-08",
@@ -874,10 +885,10 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 12.21,
-    "trust_ratio": -2.9263928448850356,
+    "trust_ratio": -2.9517340511851966,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.283607155114964,
-    "three_inst_ratio_change_20": -3.5483314245295183
+    "three_inst_ratio": 9.258265948814804,
+    "three_inst_ratio_change_20": -3.537724236851412
   },
   {
     "date": "2026-01-09",
@@ -885,9 +896,9 @@
     "name": "創見",
     "market": "TWSE",
     "foreign_ratio": 12.59,
-    "trust_ratio": -2.9082828619136434,
+    "trust_ratio": -2.933624068213805,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 9.681717138086356,
-    "three_inst_ratio_change_20": -3.114273047579861
+    "three_inst_ratio": 9.656375931786195,
+    "three_inst_ratio_change_20": -3.078171220834003
   }
 ]
