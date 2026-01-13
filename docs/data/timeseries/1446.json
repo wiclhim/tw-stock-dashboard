@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.65,
     "three_inst_ratio_change_20": 0.08000000000000007
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1446",
+    "name": "宏和",
+    "market": "TWSE",
+    "foreign_ratio": 6.68,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.68,
+    "three_inst_ratio_change_20": 0.2599999999999998
   }
 ]

@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.090881677198368,
     "three_inst_ratio_change_20": -0.29194013633750693
+  },
+  {
+    "date": "2026-01-12",
+    "code": "3035",
+    "name": "智原",
+    "market": "TWSE",
+    "foreign_ratio": 7.06,
+    "trust_ratio": 1.2104978741668218,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.270497874166821,
+    "three_inst_ratio_change_20": -0.16232393936905432
   }
 ]

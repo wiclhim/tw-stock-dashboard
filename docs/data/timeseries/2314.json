@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.8366554688897359,
     "three_inst_ratio_change_20": -0.26334453111026423
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2314",
+    "name": "台揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.88,
+    "trust_ratio": -0.04334453111026394,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.8366554688897359,
+    "three_inst_ratio_change_20": -0.26334453111026423
   }
 ]

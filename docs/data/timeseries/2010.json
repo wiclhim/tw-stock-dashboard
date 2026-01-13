@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.75648493020339,
     "three_inst_ratio_change_20": -0.10061761240032396
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2010",
+    "name": "春源",
+    "market": "TWSE",
+    "foreign_ratio": 8.82,
+    "trust_ratio": 0.006484930203391035,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.82648493020339,
+    "three_inst_ratio_change_20": -0.020617612400323893
   }
 ]

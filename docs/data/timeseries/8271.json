@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.897260392953473,
     "three_inst_ratio_change_20": 2.310488454526854
+  },
+  {
+    "date": "2026-01-12",
+    "code": "8271",
+    "name": "宇瞻",
+    "market": "TWSE",
+    "foreign_ratio": 6.38,
+    "trust_ratio": 0.23413854567776887,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.614138545677768,
+    "three_inst_ratio_change_20": 0.16814706907007437
   }
 ]

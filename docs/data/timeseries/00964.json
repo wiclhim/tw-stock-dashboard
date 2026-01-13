@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.08,
     "three_inst_ratio_change_20": 1.78
+  },
+  {
+    "date": "2026-01-12",
+    "code": "00964",
+    "name": "中信亞太高股息",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35,
+    "three_inst_ratio_change_20": 2.0100000000000002
   }
 ]

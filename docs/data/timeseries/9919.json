@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.02,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-01-12",
+    "code": "9919",
+    "name": "康那香",
+    "market": "TWSE",
+    "foreign_ratio": 5.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.07,
+    "three_inst_ratio_change_20": 0.14000000000000057
   }
 ]

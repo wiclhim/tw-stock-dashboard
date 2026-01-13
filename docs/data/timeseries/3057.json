@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.19,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-01-12",
+    "code": "3057",
+    "name": "喬鼎",
+    "market": "TWSE",
+    "foreign_ratio": 2.29,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.29,
+    "three_inst_ratio_change_20": 0.28000000000000025
   }
 ]

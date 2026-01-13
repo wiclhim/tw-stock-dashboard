@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.585421986819965,
     "three_inst_ratio_change_20": -0.1736928444569079
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2535",
+    "name": "達欣工",
+    "market": "TWSE",
+    "foreign_ratio": 7.49,
+    "trust_ratio": 0.045421986819964864,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.535421986819965,
+    "three_inst_ratio_change_20": -0.21369284445690795
   }
 ]

@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.539386527507968,
     "three_inst_ratio_change_20": -2.401328273024598
+  },
+  {
+    "date": "2026-01-12",
+    "code": "4961",
+    "name": "天鈺",
+    "market": "TWSE",
+    "foreign_ratio": 18.34,
+    "trust_ratio": -4.732469681746282,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.607530318253719,
+    "three_inst_ratio_change_20": -2.1231844822788464
   }
 ]
