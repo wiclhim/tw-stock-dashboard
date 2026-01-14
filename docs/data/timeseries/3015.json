@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.578783241870546,
     "three_inst_ratio_change_20": -0.66566893327769
+  },
+  {
+    "date": "2026-01-13",
+    "code": "3015",
+    "name": "全漢",
+    "market": "TWSE",
+    "foreign_ratio": 8.67,
+    "trust_ratio": 0.9243511562279471,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.594351156227948,
+    "three_inst_ratio_change_20": -0.6145193244009253
   }
 ]

@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.003245447514589,
     "three_inst_ratio_change_20": 0.10017103874704436
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00900",
+    "name": "富邦特選高股息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.94,
+    "trust_ratio": 0.09593431815654037,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.0359343181565404,
+    "three_inst_ratio_change_20": 0.3628046117360403
   }
 ]

@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.14531971646715,
     "three_inst_ratio_change_20": 0.2831645681040822
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6799",
+    "name": "來頡",
+    "market": "TWSE",
+    "foreign_ratio": 8.6,
+    "trust_ratio": 0.4553197164671501,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.05531971646715,
+    "three_inst_ratio_change_20": -0.03683543189591809
   }
 ]

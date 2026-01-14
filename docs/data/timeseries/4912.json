@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.29,
     "three_inst_ratio_change_20": -0.5600000000000023
+  },
+  {
+    "date": "2026-01-13",
+    "code": "4912",
+    "name": "聯德控股-KY",
+    "market": "TWSE",
+    "foreign_ratio": 27.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.07,
+    "three_inst_ratio_change_20": -0.8299999999999983
   }
 ]

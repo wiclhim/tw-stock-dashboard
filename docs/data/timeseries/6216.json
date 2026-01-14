@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.7,
     "three_inst_ratio_change_20": 0.22999999999999998
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6216",
+    "name": "居易",
+    "market": "TWSE",
+    "foreign_ratio": 2.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.67,
+    "three_inst_ratio_change_20": 0.16999999999999993
   }
 ]

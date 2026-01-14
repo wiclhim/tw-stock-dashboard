@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.85,
     "three_inst_ratio_change_20": 5.039999999999999
+  },
+  {
+    "date": "2026-01-13",
+    "code": "00738U",
+    "name": "期元大道瓊白銀",
+    "market": "TWSE",
+    "foreign_ratio": 8.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.66,
+    "three_inst_ratio_change_20": 5.01
   }
 ]

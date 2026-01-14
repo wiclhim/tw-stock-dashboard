@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.81101371802921,
     "three_inst_ratio_change_20": -0.1200000000000001
+  },
+  {
+    "date": "2026-01-13",
+    "code": "1616",
+    "name": "億泰",
+    "market": "TWSE",
+    "foreign_ratio": 4.55,
+    "trust_ratio": 0.2110137180292108,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.7610137180292105,
+    "three_inst_ratio_change_20": -0.14000000000000057
   }
 ]

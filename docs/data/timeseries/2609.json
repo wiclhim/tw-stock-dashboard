@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.989444977053907,
     "three_inst_ratio_change_20": 1.1337015736932745
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2609",
+    "name": "陽明",
+    "market": "TWSE",
+    "foreign_ratio": 14.53,
+    "trust_ratio": -2.622405430064664,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.907594569935336,
+    "three_inst_ratio_change_20": 1.0362038430198428
   }
 ]

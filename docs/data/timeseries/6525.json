@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.301549818320998,
     "three_inst_ratio_change_20": -0.07077490916049811
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6525",
+    "name": "捷敏-KY",
+    "market": "TWSE",
+    "foreign_ratio": 14.26,
+    "trust_ratio": 0.0007749091604987513,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.2607749091605,
+    "three_inst_ratio_change_20": -0.10154981832099708
   }
 ]

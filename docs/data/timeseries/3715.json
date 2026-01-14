@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.856929261333235,
     "three_inst_ratio_change_20": 5.0975716737479075
+  },
+  {
+    "date": "2026-01-13",
+    "code": "3715",
+    "name": "定穎投控",
+    "market": "TWSE",
+    "foreign_ratio": 16.38,
+    "trust_ratio": 5.645577531729713,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.025577531729713,
+    "three_inst_ratio_change_20": -0.013780055855615814
   }
 ]
