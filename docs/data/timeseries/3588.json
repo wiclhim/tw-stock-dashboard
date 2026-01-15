@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.23,
     "three_inst_ratio_change_20": -0.4700000000000002
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3588",
+    "name": "通嘉",
+    "market": "TWSE",
+    "foreign_ratio": 2.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.48,
+    "three_inst_ratio_change_20": -0.20000000000000018
   }
 ]

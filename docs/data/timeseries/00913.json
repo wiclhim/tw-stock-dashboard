@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.87,
     "three_inst_ratio_change_20": -0.2899999999999999
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00913",
+    "name": "兆豐台灣晶圓製造",
+    "market": "TWSE",
+    "foreign_ratio": 0.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.98,
+    "three_inst_ratio_change_20": -0.1499999999999999
   }
 ]

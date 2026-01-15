@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 59.90879820316133,
     "three_inst_ratio_change_20": -0.07263589935479331
+  },
+  {
+    "date": "2026-01-14",
+    "code": "5288",
+    "name": "豐祥-KY",
+    "market": "TWSE",
+    "foreign_ratio": 59.82,
+    "trust_ratio": 0.058798203161329846,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 59.87879820316133,
+    "three_inst_ratio_change_20": -0.04263589935479928
   }
 ]

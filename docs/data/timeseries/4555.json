@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.46,
     "three_inst_ratio_change_20": -0.3799999999999999
+  },
+  {
+    "date": "2026-01-14",
+    "code": "4555",
+    "name": "氣立",
+    "market": "TWSE",
+    "foreign_ratio": 3.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.56,
+    "three_inst_ratio_change_20": -0.18000000000000016
   }
 ]

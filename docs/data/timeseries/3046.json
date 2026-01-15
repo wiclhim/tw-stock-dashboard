@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.6831653818943755,
     "three_inst_ratio_change_20": 0.5999999999999996
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3046",
+    "name": "建碁",
+    "market": "TWSE",
+    "foreign_ratio": 4.79,
+    "trust_ratio": 0.16316538189437632,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.953165381894376,
+    "three_inst_ratio_change_20": 0.9299999999999997
   }
 ]

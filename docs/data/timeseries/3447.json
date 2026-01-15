@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.71,
     "three_inst_ratio_change_20": -1.35
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3447",
+    "name": "展達",
+    "market": "TWSE",
+    "foreign_ratio": 0.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.85,
+    "three_inst_ratio_change_20": -1.0899999999999999
   }
 ]

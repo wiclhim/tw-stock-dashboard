@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.29,
     "three_inst_ratio_change_20": -0.77
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3002",
+    "name": "歐格",
+    "market": "TWSE",
+    "foreign_ratio": 1.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.09,
+    "three_inst_ratio_change_20": -0.8799999999999999
   }
 ]

@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.99884237223709,
     "three_inst_ratio_change_20": -0.4319183990035995
+  },
+  {
+    "date": "2026-01-14",
+    "code": "5871",
+    "name": "中租-KY",
+    "market": "TWSE",
+    "foreign_ratio": 43.29,
+    "trust_ratio": -5.3741150977856815,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.915884902214316,
+    "three_inst_ratio_change_20": -0.7127266787838948
   }
 ]

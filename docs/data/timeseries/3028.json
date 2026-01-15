@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.02,
     "three_inst_ratio_change_20": -1.2200000000000006
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3028",
+    "name": "增你強",
+    "market": "TWSE",
+    "foreign_ratio": 8.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.08,
+    "three_inst_ratio_change_20": -1.0299999999999994
   }
 ]

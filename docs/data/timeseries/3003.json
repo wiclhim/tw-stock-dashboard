@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.4,
     "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3003",
+    "name": "健和興",
+    "market": "TWSE",
+    "foreign_ratio": 3.52,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.52,
+    "three_inst_ratio_change_20": 0.26000000000000023
   }
 ]

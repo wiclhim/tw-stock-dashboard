@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.247852763728961,
     "three_inst_ratio_change_20": -0.3656404838659002
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2023",
+    "name": "燁輝",
+    "market": "TWSE",
+    "foreign_ratio": 5.27,
+    "trust_ratio": 0.028029490705404385,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.298029490705404,
+    "three_inst_ratio_change_20": -0.25546375688945755
   }
 ]

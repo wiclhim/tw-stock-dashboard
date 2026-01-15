@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.67,
     "three_inst_ratio_change_20": -1.0200000000000005
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3011",
+    "name": "今皓",
+    "market": "TWSE",
+    "foreign_ratio": 4.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.07,
+    "three_inst_ratio_change_20": -0.04999999999999982
   }
 ]

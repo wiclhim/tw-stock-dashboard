@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.597167164957856,
     "three_inst_ratio_change_20": -2.0931500277777744
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3515",
+    "name": "華擎",
+    "market": "TWSE",
+    "foreign_ratio": 11.24,
+    "trust_ratio": -0.5544516578198138,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.685548342180187,
+    "three_inst_ratio_change_20": -1.7447688505554435
   }
 ]

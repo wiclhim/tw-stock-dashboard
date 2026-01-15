@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.98,
     "three_inst_ratio_change_20": 0.050000000000000044
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2017",
+    "name": "官田鋼",
+    "market": "TWSE",
+    "foreign_ratio": 1.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.99,
+    "three_inst_ratio_change_20": 0.09000000000000008
   }
 ]

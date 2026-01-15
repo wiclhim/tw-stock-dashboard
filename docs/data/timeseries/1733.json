@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.329119100441548,
     "three_inst_ratio_change_20": -0.2050124582051822
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1733",
+    "name": "五鼎",
+    "market": "TWSE",
+    "foreign_ratio": 5.11,
+    "trust_ratio": 0.23611760545692598,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.346117605456926,
+    "three_inst_ratio_change_20": -0.14801395318980504
   }
 ]

@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.46,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00903",
+    "name": "富邦元宇宙",
+    "market": "TWSE",
+    "foreign_ratio": 1.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.47,
+    "three_inst_ratio_change_20": 0.08000000000000007
   }
 ]

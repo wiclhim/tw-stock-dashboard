@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.74242834396973,
     "three_inst_ratio_change_20": -0.9504518489820768
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3545",
+    "name": "敦泰",
+    "market": "TWSE",
+    "foreign_ratio": 13.74,
+    "trust_ratio": 0.20197649498765505,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.941976494987655,
+    "three_inst_ratio_change_20": -0.7609036979641512
   }
 ]

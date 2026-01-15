@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.59,
     "three_inst_ratio_change_20": 0.08999999999999986
+  },
+  {
+    "date": "2026-01-14",
+    "code": "4306",
+    "name": "炎洲",
+    "market": "TWSE",
+    "foreign_ratio": 4.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.6,
+    "three_inst_ratio_change_20": 0.1299999999999999
   }
 ]

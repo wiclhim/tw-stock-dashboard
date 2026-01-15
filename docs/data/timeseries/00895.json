@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.7619984360265876,
     "three_inst_ratio_change_20": 0.00130371445938271
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00895",
+    "name": "富邦未來車",
+    "market": "TWSE",
+    "foreign_ratio": 0.37,
+    "trust_ratio": 0.0922636896249481,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.4622636896249481,
+    "three_inst_ratio_change_20": -0.29843103194225673
   }
 ]

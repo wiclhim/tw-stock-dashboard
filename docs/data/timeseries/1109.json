@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.32,
     "three_inst_ratio_change_20": -0.040000000000000036
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1109",
+    "name": "信大",
+    "market": "TWSE",
+    "foreign_ratio": 2.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.33,
+    "three_inst_ratio_change_20": -0.020000000000000018
   }
 ]

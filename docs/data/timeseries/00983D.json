@@ -702,5 +702,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.36,
     "three_inst_ratio_change_20": -0.3400000000000003
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00983D",
+    "name": "主動富邦複合收益",
+    "market": "TWSE",
+    "foreign_ratio": 3.58,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.58,
+    "three_inst_ratio_change_20": -0.1299999999999999
   }
 ]

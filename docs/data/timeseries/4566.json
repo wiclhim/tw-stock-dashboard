@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.26,
     "three_inst_ratio_change_20": 0.34999999999999987
+  },
+  {
+    "date": "2026-01-14",
+    "code": "4566",
+    "name": "時碩工業",
+    "market": "TWSE",
+    "foreign_ratio": 2.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.61,
+    "three_inst_ratio_change_20": 0.69
   }
 ]

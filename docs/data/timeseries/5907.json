@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 54.15,
     "three_inst_ratio_change_20": 4.339999999999996
+  },
+  {
+    "date": "2026-01-14",
+    "code": "5907",
+    "name": "大洋-KY",
+    "market": "TWSE",
+    "foreign_ratio": 54.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 54.17,
+    "three_inst_ratio_change_20": 4.3700000000000045
   }
 ]

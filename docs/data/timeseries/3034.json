@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 29.860006046081608,
     "three_inst_ratio_change_20": -0.8964847745868845
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3034",
+    "name": "聯詠",
+    "market": "TWSE",
+    "foreign_ratio": 30.15,
+    "trust_ratio": -0.3329314406069148,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.817068559393086,
+    "three_inst_ratio_change_20": -0.8524577253284278
   }
 ]

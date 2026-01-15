@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.429565660741175,
     "three_inst_ratio_change_20": -0.4801302661140898
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3029",
+    "name": "零壹",
+    "market": "TWSE",
+    "foreign_ratio": 4.47,
+    "trust_ratio": 0.4075309937033582,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.877530993703358,
+    "three_inst_ratio_change_20": 0.017835066848093106
   }
 ]

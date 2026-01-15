@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.998474046301338,
     "three_inst_ratio_change_20": 0.04999999999999982
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3032",
+    "name": "偉訓",
+    "market": "TWSE",
+    "foreign_ratio": 6.3,
+    "trust_ratio": -0.13152595369866255,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.168474046301338,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

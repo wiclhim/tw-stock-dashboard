@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.85,
     "three_inst_ratio_change_20": 7.09
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "market": "TWSE",
+    "foreign_ratio": 9.07,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.07,
+    "three_inst_ratio_change_20": 7.430000000000001
   }
 ]

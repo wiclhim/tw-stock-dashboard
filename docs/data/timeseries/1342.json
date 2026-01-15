@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 27.1253019747832,
     "three_inst_ratio_change_20": 0.21000000000000085
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1342",
+    "name": "八貫",
+    "market": "TWSE",
+    "foreign_ratio": 27.34,
+    "trust_ratio": 0.16794677579497735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 27.507946775794977,
+    "three_inst_ratio_change_20": 0.6226448010117807
   }
 ]

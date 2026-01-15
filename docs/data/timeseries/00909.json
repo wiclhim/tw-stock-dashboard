@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.41,
     "three_inst_ratio_change_20": 1.56
+  },
+  {
+    "date": "2026-01-14",
+    "code": "00909",
+    "name": "國泰數位支付服務",
+    "market": "TWSE",
+    "foreign_ratio": 3.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.21,
+    "three_inst_ratio_change_20": 2.5
   }
 ]

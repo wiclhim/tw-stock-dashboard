@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.792480271406446,
     "three_inst_ratio_change_20": 0.2424802714064459
+  },
+  {
+    "date": "2026-01-14",
+    "code": "7765",
+    "name": "中華資安",
+    "market": "TWSE",
+    "foreign_ratio": 0.39,
+    "trust_ratio": 0.43012759053027505,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.8201275905302751,
+    "three_inst_ratio_change_20": 0.44012759053027506
   }
 ]

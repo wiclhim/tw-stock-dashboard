@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.801833878694143,
     "three_inst_ratio_change_20": 0.2620331218311449
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1503",
+    "name": "士電",
+    "market": "TWSE",
+    "foreign_ratio": 30.92,
+    "trust_ratio": 0.1810065793085479,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.10100657930855,
+    "three_inst_ratio_change_20": 0.5723066488901836
   }
 ]

@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.85,
     "three_inst_ratio_change_20": -0.11000000000000121
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1760",
+    "name": "寶齡富錦",
+    "market": "TWSE",
+    "foreign_ratio": 11.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.95,
+    "three_inst_ratio_change_20": 0.049999999999998934
   }
 ]

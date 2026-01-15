@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.85,
     "three_inst_ratio_change_20": 0.15999999999999925
+  },
+  {
+    "date": "2026-01-14",
+    "code": "4119",
+    "name": "旭富",
+    "market": "TWSE",
+    "foreign_ratio": 5.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.89,
+    "three_inst_ratio_change_20": 0.2699999999999996
   }
 ]
