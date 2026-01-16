@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.37,
     "three_inst_ratio_change_20": 0.21999999999999975
+  },
+  {
+    "date": "2026-01-15",
+    "code": "4588",
+    "name": "玖鼎電力",
+    "market": "TWSE",
+    "foreign_ratio": 4.2,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.2,
+    "three_inst_ratio_change_20": 0.03000000000000025
   }
 ]

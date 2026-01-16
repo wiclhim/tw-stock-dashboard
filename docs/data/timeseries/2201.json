@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.827388379193587,
     "three_inst_ratio_change_20": -1.218691602006361
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2201",
+    "name": "裕隆",
+    "market": "TWSE",
+    "foreign_ratio": 4.83,
+    "trust_ratio": 0.027014547854953865,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.857014547854954,
+    "three_inst_ratio_change_20": -1.1484112285023862
   }
 ]

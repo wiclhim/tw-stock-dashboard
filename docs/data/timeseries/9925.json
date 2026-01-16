@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.890064786125034,
     "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
+    "date": "2026-01-15",
+    "code": "9925",
+    "name": "新保",
+    "market": "TWSE",
+    "foreign_ratio": 17.9,
+    "trust_ratio": 0.010064786125036826,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.910064786125034,
+    "three_inst_ratio_change_20": 0.08999999999999986
   }
 ]

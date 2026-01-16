@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.857128172088062,
     "three_inst_ratio_change_20": -0.009999999999999787
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2107",
+    "name": "厚生",
+    "market": "TWSE",
+    "foreign_ratio": 5.85,
+    "trust_ratio": 0.01712817208806252,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.867128172088062,
+    "three_inst_ratio_change_20": -0.010000000000000675
   }
 ]

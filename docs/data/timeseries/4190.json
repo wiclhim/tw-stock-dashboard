@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.9,
     "three_inst_ratio_change_20": -0.05000000000000426
+  },
+  {
+    "date": "2026-01-15",
+    "code": "4190",
+    "name": "佐登-KY",
+    "market": "TWSE",
+    "foreign_ratio": 60.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.91,
+    "three_inst_ratio_change_20": -0.04000000000000625
   }
 ]

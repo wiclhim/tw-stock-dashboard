@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.35,
     "three_inst_ratio_change_20": 0.2400000000000002
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2390",
+    "name": "云辰",
+    "market": "TWSE",
+    "foreign_ratio": 2.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.4,
+    "three_inst_ratio_change_20": 0.33000000000000007
   }
 ]

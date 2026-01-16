@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 72.07466543061716,
     "three_inst_ratio_change_20": -0.682429215278205
+  },
+  {
+    "date": "2026-01-15",
+    "code": "8499",
+    "name": "鼎炫-KY",
+    "market": "TWSE",
+    "foreign_ratio": 71.67,
+    "trust_ratio": 0.35466543061715405,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 72.02466543061716,
+    "three_inst_ratio_change_20": -0.7124292152781919
   }
 ]

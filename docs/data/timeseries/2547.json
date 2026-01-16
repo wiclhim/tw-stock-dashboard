@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.447581104334354,
     "three_inst_ratio_change_20": -0.7300000000000004
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2547",
+    "name": "日勝生",
+    "market": "TWSE",
+    "foreign_ratio": 15.43,
+    "trust_ratio": 0.037581104334353486,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.467581104334354,
+    "three_inst_ratio_change_20": -0.6900000000000013
   }
 ]

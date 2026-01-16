@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.803386032677807,
     "three_inst_ratio_change_20": -7.092683794419248
+  },
+  {
+    "date": "2026-01-15",
+    "code": "3450",
+    "name": "聯鈞",
+    "market": "TWSE",
+    "foreign_ratio": 7.24,
+    "trust_ratio": 5.441326744140854,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.681326744140854,
+    "three_inst_ratio_change_20": -6.174056653443884
   }
 ]

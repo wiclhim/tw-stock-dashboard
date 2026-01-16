@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.565683649031918,
     "three_inst_ratio_change_20": 0.48440720627913425
+  },
+  {
+    "date": "2026-01-15",
+    "code": "3209",
+    "name": "全科",
+    "market": "TWSE",
+    "foreign_ratio": 5.56,
+    "trust_ratio": 0.10194162821601457,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.661941628216014,
+    "three_inst_ratio_change_20": 0.591302986346915
   }
 ]

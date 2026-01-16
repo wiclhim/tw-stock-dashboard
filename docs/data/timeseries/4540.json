@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.34,
     "three_inst_ratio_change_20": -1.17
+  },
+  {
+    "date": "2026-01-15",
+    "code": "4540",
+    "name": "全球傳動",
+    "market": "TWSE",
+    "foreign_ratio": 3.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.53,
+    "three_inst_ratio_change_20": -0.9300000000000002
   }
 ]

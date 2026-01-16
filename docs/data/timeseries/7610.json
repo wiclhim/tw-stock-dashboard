@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.17,
     "three_inst_ratio_change_20": 1.9600000000000009
+  },
+  {
+    "date": "2026-01-15",
+    "code": "7610",
+    "name": "聯友金屬-創",
+    "market": "TWSE",
+    "foreign_ratio": 17.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.41,
+    "three_inst_ratio_change_20": 2.1799999999999997
   }
 ]

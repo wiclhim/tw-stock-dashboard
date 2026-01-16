@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 87.11000231633233,
     "three_inst_ratio_change_20": 0.1799999999999926
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6230",
+    "name": "尼得科超眾",
+    "market": "TWSE",
+    "foreign_ratio": 87.09,
+    "trust_ratio": 2.3163323342065443e-06,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 87.09000231633233,
+    "three_inst_ratio_change_20": 0.1599999999999966
   }
 ]

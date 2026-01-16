@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 55.17,
     "three_inst_ratio_change_20": 0.5300000000000011
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6573",
+    "name": "虹揚-KY",
+    "market": "TWSE",
+    "foreign_ratio": 55.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 55.22,
+    "three_inst_ratio_change_20": 0.6599999999999966
   }
 ]

@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3287975178845164,
     "three_inst_ratio_change_20": 0.13759503576903276
+  },
+  {
+    "date": "2026-01-15",
+    "code": "9942",
+    "name": "茂順",
+    "market": "TWSE",
+    "foreign_ratio": 3.38,
+    "trust_ratio": -0.0012024821154834964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.378797517884516,
+    "three_inst_ratio_change_20": 0.2075950357690326
   }
 ]

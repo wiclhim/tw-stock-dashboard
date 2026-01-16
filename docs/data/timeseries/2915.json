@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.361216210712028,
     "three_inst_ratio_change_20": -1.6195381449515018
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2915",
+    "name": "潤泰全",
+    "market": "TWSE",
+    "foreign_ratio": 6.88,
+    "trust_ratio": -1.577347269797203,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.302652730202797,
+    "three_inst_ratio_change_20": -1.60330228659737
   }
 ]

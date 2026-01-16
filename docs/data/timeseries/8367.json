@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.05,
     "three_inst_ratio_change_20": -0.0900000000000003
+  },
+  {
+    "date": "2026-01-15",
+    "code": "8367",
+    "name": "建新國際",
+    "market": "TWSE",
+    "foreign_ratio": 2.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.06,
+    "three_inst_ratio_change_20": -0.06999999999999984
   }
 ]

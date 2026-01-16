@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 42.5980361090355,
     "three_inst_ratio_change_20": -1.3009397883329967
+  },
+  {
+    "date": "2026-01-15",
+    "code": "3596",
+    "name": "智易",
+    "market": "TWSE",
+    "foreign_ratio": 41.88,
+    "trust_ratio": 0.6575822944720018,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 42.537582294472,
+    "three_inst_ratio_change_20": -1.3713936028964966
   }
 ]
