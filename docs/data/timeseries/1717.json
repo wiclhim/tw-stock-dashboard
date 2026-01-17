@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.903704401930291,
     "three_inst_ratio_change_20": 2.516625811685895
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1717",
+    "name": "長興",
+    "market": "TWSE",
+    "foreign_ratio": 13.15,
+    "trust_ratio": 1.046381852426383,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.196381852426384,
+    "three_inst_ratio_change_20": 1.889303262181988
   }
 ]

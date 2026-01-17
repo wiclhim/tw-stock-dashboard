@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.44,
     "three_inst_ratio_change_20": -0.33999999999999986
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2489",
+    "name": "瑞軒",
+    "market": "TWSE",
+    "foreign_ratio": 10.56,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.56,
+    "three_inst_ratio_change_20": -0.21999999999999886
   }
 ]

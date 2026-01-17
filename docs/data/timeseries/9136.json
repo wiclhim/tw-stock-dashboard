@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.28,
     "three_inst_ratio_change_20": 0.1299999999999999
+  },
+  {
+    "date": "2026-01-16",
+    "code": "9136",
+    "name": "巨騰-DR",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.34,
+    "three_inst_ratio_change_20": 0.17999999999999972
   }
 ]

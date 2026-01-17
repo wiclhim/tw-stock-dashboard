@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.01,
     "three_inst_ratio_change_20": 0.10999999999999988
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2528",
+    "name": "皇普",
+    "market": "TWSE",
+    "foreign_ratio": 2.94,
+    "trust_ratio": 0.008985627136881493,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.9489856271368815,
+    "three_inst_ratio_change_20": 0.028985627136881575
   }
 ]

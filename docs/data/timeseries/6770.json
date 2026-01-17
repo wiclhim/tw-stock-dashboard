@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.402589835643756,
     "three_inst_ratio_change_20": 3.0557082191718425
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6770",
+    "name": "力積電",
+    "market": "TWSE",
+    "foreign_ratio": 17.09,
+    "trust_ratio": 0.5034016664442723,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 17.593401666444272,
+    "three_inst_ratio_change_20": 2.0129623208759906
   }
 ]

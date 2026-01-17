@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.37733783824449,
     "three_inst_ratio_change_20": -5.145306672328839
+  },
+  {
+    "date": "2026-01-16",
+    "code": "3167",
+    "name": "大量",
+    "market": "TWSE",
+    "foreign_ratio": 7.53,
+    "trust_ratio": 6.2809956525664195,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.810995652566419,
+    "three_inst_ratio_change_20": -6.081648858006911
   }
 ]

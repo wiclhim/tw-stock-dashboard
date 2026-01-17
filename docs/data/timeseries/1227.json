@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.817487914120531,
     "three_inst_ratio_change_20": -0.13868865298895106
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1227",
+    "name": "佳格",
+    "market": "TWSE",
+    "foreign_ratio": 5.72,
+    "trust_ratio": 0.03748791412053118,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.757487914120531,
+    "three_inst_ratio_change_20": -0.20868865298895134
   }
 ]

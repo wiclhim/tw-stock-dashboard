@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.983760219271996,
     "three_inst_ratio_change_20": -0.31880919180732903
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2412",
+    "name": "中華電",
+    "market": "TWSE",
+    "foreign_ratio": 16.92,
+    "trust_ratio": -0.002296425749975954,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.917703574250027,
+    "three_inst_ratio_change_20": -0.3850463085852951
   }
 ]

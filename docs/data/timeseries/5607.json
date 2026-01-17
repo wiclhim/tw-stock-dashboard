@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.37,
     "three_inst_ratio_change_20": 0.11000000000000032
+  },
+  {
+    "date": "2026-01-16",
+    "code": "5607",
+    "name": "遠雄港",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.35,
+    "three_inst_ratio_change_20": 0.1200000000000001
   }
 ]

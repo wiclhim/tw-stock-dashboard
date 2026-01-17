@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.637999870602817,
     "three_inst_ratio_change_20": -0.5593262802762116
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6472",
+    "name": "保瑞",
+    "market": "TWSE",
+    "foreign_ratio": 9.64,
+    "trust_ratio": 1.0479998706028169,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.687999870602818,
+    "three_inst_ratio_change_20": -0.40932628027620943
   }
 ]

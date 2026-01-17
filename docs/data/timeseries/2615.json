@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.32244937846154,
     "three_inst_ratio_change_20": -0.26277167788771294
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2615",
+    "name": "萬海",
+    "market": "TWSE",
+    "foreign_ratio": 40.67,
+    "trust_ratio": -3.571235799430219,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.09876420056978,
+    "three_inst_ratio_change_20": -0.36645685577946807
   }
 ]

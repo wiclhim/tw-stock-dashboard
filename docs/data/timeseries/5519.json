@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.45,
     "three_inst_ratio_change_20": 0.3799999999999999
+  },
+  {
+    "date": "2026-01-16",
+    "code": "5519",
+    "name": "隆大",
+    "market": "TWSE",
+    "foreign_ratio": 4.42,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.42,
+    "three_inst_ratio_change_20": 0.33999999999999986
   }
 ]

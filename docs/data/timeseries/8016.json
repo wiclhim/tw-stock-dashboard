@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 28.452601666119566,
     "three_inst_ratio_change_20": -0.22105918785502965
+  },
+  {
+    "date": "2026-01-16",
+    "code": "8016",
+    "name": "矽創",
+    "market": "TWSE",
+    "foreign_ratio": 28.36,
+    "trust_ratio": 0.11437537297041085,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 28.47437537297041,
+    "three_inst_ratio_change_20": -0.2887294485666523
   }
 ]

@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.36178289307173,
     "three_inst_ratio_change_20": -0.41999999999999993
+  },
+  {
+    "date": "2026-01-16",
+    "code": "4736",
+    "name": "泰博",
+    "market": "TWSE",
+    "foreign_ratio": 6.29,
+    "trust_ratio": 0.08073439444260497,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.370734394442605,
+    "three_inst_ratio_change_20": -0.34104849862912445
   }
 ]

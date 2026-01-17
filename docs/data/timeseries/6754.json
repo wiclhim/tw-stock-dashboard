@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.470763636363637,
     "three_inst_ratio_change_20": -0.004798484848484108
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6754",
+    "name": "匯僑設計",
+    "market": "TWSE",
+    "foreign_ratio": 15.48,
+    "trust_ratio": 0.00044393939393939393,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.48044393939394,
+    "three_inst_ratio_change_20": 0.004881818181818431
   }
 ]

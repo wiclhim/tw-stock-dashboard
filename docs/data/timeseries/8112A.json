@@ -328,5 +328,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.19,
     "three_inst_ratio_change_20": 0.47666666666666657
+  },
+  {
+    "date": "2026-01-16",
+    "code": "8112A",
+    "name": "至上甲特",
+    "market": "TWSE",
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.7733333333333333,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.283333333333333,
+    "three_inst_ratio_change_20": 0.5800000000000001
   }
 ]

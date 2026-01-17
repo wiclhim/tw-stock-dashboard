@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.726039912070533,
     "three_inst_ratio_change_20": 2.4492113355000944
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2493",
+    "name": "揚博",
+    "market": "TWSE",
+    "foreign_ratio": 4.32,
+    "trust_ratio": 0.19603991207053306,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.516039912070533,
+    "three_inst_ratio_change_20": 2.2992113355000945
   }
 ]

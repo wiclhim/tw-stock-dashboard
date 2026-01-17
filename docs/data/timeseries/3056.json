@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.823445174317812,
     "three_inst_ratio_change_20": -0.030832370816137544
+  },
+  {
+    "date": "2026-01-16",
+    "code": "3056",
+    "name": "富華新",
+    "market": "TWSE",
+    "foreign_ratio": 3.58,
+    "trust_ratio": 0.08302898890974303,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.663028988909743,
+    "three_inst_ratio_change_20": -0.11124855622420649
   }
 ]

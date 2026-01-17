@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.882782240996629,
     "three_inst_ratio_change_20": -0.9177330928233243
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00945B",
+    "name": "凱基美國非投等債",
+    "market": "TWSE",
+    "foreign_ratio": 1.19,
+    "trust_ratio": 3.6827822409966284,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.872782240996628,
+    "three_inst_ratio_change_20": -1.257733092823325
   }
 ]

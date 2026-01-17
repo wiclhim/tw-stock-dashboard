@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.895121341475187,
     "three_inst_ratio_change_20": 0.5083077439710184
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1514",
+    "name": "亞力",
+    "market": "TWSE",
+    "foreign_ratio": 15.38,
+    "trust_ratio": 0.26976753665200276,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.649767536652003,
+    "three_inst_ratio_change_20": 2.6329539391478356
   }
 ]

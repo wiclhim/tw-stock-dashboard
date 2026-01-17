@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.0165423066152397,
     "three_inst_ratio_change_20": 0.21999999999999997
+  },
+  {
+    "date": "2026-01-16",
+    "code": "4583",
+    "name": "台灣精銳",
+    "market": "TWSE",
+    "foreign_ratio": 1.68,
+    "trust_ratio": 0.44654230661523964,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.1265423066152396,
+    "three_inst_ratio_change_20": 0.34999999999999987
   }
 ]

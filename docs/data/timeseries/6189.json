@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.059408491269666,
     "three_inst_ratio_change_20": 0.07145579948949621
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6189",
+    "name": "豐藝",
+    "market": "TWSE",
+    "foreign_ratio": 7.75,
+    "trust_ratio": 0.220402515725464,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.970402515725464,
+    "three_inst_ratio_change_20": -0.0075501760547060925
   }
 ]

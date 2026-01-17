@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.920902456719348,
     "three_inst_ratio_change_20": 0.19925813943389548
+  },
+  {
+    "date": "2026-01-16",
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 2.486798389664957,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.166798389664957,
+    "three_inst_ratio_change_20": 0.44515407237950466
   }
 ]

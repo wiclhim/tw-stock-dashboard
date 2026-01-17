@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.50953086708671,
     "three_inst_ratio_change_20": 0.17363059729502428
+  },
+  {
+    "date": "2026-01-16",
+    "code": "1436",
+    "name": "華友聯",
+    "market": "TWSE",
+    "foreign_ratio": 4.39,
+    "trust_ratio": 0.04111159927757539,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.431111599277575,
+    "three_inst_ratio_change_20": 0.08521132948588939
   }
 ]

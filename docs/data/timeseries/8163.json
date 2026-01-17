@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.477596426544299,
     "three_inst_ratio_change_20": -1.4328282136684702
+  },
+  {
+    "date": "2026-01-16",
+    "code": "8163",
+    "name": "達方",
+    "market": "TWSE",
+    "foreign_ratio": 6.91,
+    "trust_ratio": 0.563464997987625,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.473464997987625,
+    "three_inst_ratio_change_20": -1.455583213658631
   }
 ]
