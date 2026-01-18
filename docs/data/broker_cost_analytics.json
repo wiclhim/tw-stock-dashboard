@@ -1,1129 +1,1249 @@
 {
-  "凱基-台北_1304": {
+  "凱基-台北_1110": {
     "broker": "凱基-台北",
-    "stock": "1304",
+    "stock": "1110",
     "data": [
       {
         "date": "2025/12/18",
-        "price": -76.0,
-        "inventory": -76,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/19",
-        "price": 77.0,
-        "inventory": 1,
-        "cost": 185.67
-      },
-      {
-        "date": "2025/12/22",
-        "price": 434.0,
-        "inventory": 435,
-        "cost": 433.46
-      },
-      {
-        "date": "2025/12/23",
-        "price": 347.0,
-        "inventory": 782,
-        "cost": 395.09
-      },
-      {
-        "date": "2025/12/24",
-        "price": -148.0,
-        "inventory": 634,
-        "cost": 360.62
-      },
-      {
-        "date": "2025/12/26",
-        "price": -107.0,
-        "inventory": 527,
-        "cost": 326.44
-      },
-      {
-        "date": "2025/12/29",
-        "price": -29.0,
-        "inventory": 498,
-        "cost": 260.51
-      },
-      {
-        "date": "2025/12/30",
-        "price": 165.0,
-        "inventory": 663,
-        "cost": 224.46
-      },
-      {
-        "date": "2025/12/31",
-        "price": -59.0,
-        "inventory": 604,
-        "cost": 118.13
-      },
-      {
-        "date": "2026/01/02",
-        "price": -560.0,
-        "inventory": 44,
-        "cost": -86.49
-      },
-      {
-        "date": "2026/01/05",
-        "price": 186.0,
-        "inventory": 230,
-        "cost": 157.11
-      },
-      {
-        "date": "2026/01/06",
-        "price": 535.0,
-        "inventory": 765,
-        "cost": 430.54
-      },
-      {
-        "date": "2026/01/07",
-        "price": 729.0,
-        "inventory": 1494,
-        "cost": 595.94
-      },
-      {
-        "date": "2026/01/08",
-        "price": -90.0,
-        "inventory": 1404,
-        "cost": 360.07
-      },
-      {
-        "date": "2026/01/09",
-        "price": -146.0,
-        "inventory": 1258,
-        "cost": 278.95
-      },
-      {
-        "date": "2026/01/12",
-        "price": 355.0,
-        "inventory": 1613,
-        "cost": 307.19
-      },
-      {
-        "date": "2026/01/13",
-        "price": -214.0,
-        "inventory": 1399,
-        "cost": 209.73
-      },
-      {
-        "date": "2026/01/14",
-        "price": 67.0,
-        "inventory": 1466,
-        "cost": 170.73
-      },
-      {
-        "date": "2026/01/15",
-        "price": 205.0,
-        "inventory": 1671,
-        "cost": 184.72
-      },
-      {
-        "date": "2026/01/16",
-        "price": -1074.0,
-        "inventory": 597,
-        "cost": 108.3
-      }
-    ]
-  },
-  "凱基-虎尾_1304": {
-    "broker": "凱基-虎尾",
-    "stock": "1304",
-    "data": [
-      {
-        "date": "2025/11/24",
-        "price": 10.0,
-        "inventory": 10,
-        "cost": 10.0
-      },
-      {
-        "date": "2025/11/26",
-        "price": 6.0,
-        "inventory": 16,
-        "cost": 8.5
-      },
-      {
-        "date": "2025/11/27",
-        "price": 1.0,
-        "inventory": 17,
-        "cost": 8.06
-      },
-      {
-        "date": "2025/11/28",
-        "price": 98.0,
-        "inventory": 115,
-        "cost": 84.7
-      },
-      {
-        "date": "2025/12/01",
-        "price": 33.0,
-        "inventory": 148,
-        "cost": 73.18
-      },
-      {
-        "date": "2025/12/02",
-        "price": 177.0,
-        "inventory": 325,
-        "cost": 129.72
-      },
-      {
-        "date": "2025/12/03",
-        "price": -881.0,
-        "inventory": -556,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/05",
-        "price": 1.0,
-        "inventory": -555,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/08",
-        "price": 4.0,
-        "inventory": -551,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/09",
-        "price": 2.0,
-        "inventory": -549,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/10",
-        "price": 5.0,
-        "inventory": -544,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/15",
-        "price": 8.0,
-        "inventory": -536,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/16",
-        "price": -73.0,
-        "inventory": -609,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/18",
-        "price": 2.0,
-        "inventory": -607,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/19",
-        "price": 61.0,
-        "inventory": -546,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/29",
-        "price": 74.0,
-        "inventory": -472,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/30",
-        "price": 26.0,
-        "inventory": -446,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/31",
-        "price": 13.0,
-        "inventory": -433,
-        "cost": 0
-      },
-      {
-        "date": "2026/01/08",
-        "price": 123.0,
-        "inventory": -310,
-        "cost": 0
-      },
-      {
-        "date": "2026/01/15",
-        "price": 197.0,
-        "inventory": -113,
-        "cost": 0
-      }
-    ]
-  },
-  "凱基-台北_0051": {
-    "broker": "凱基-台北",
-    "stock": "0051",
-    "data": [
-      {
-        "date": "2025/12/05",
-        "price": 5.0,
-        "inventory": 5,
-        "cost": 5.0
-      },
-      {
-        "date": "2025/12/08",
-        "price": 2.0,
-        "inventory": 7,
-        "cost": 4.14
-      },
-      {
-        "date": "2025/12/12",
-        "price": 3.0,
-        "inventory": 10,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/18",
-        "price": -1.0,
-        "inventory": 9,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/19",
-        "price": -1.0,
-        "inventory": 8,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/22",
-        "price": -1.0,
-        "inventory": 7,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/23",
-        "price": -1.0,
-        "inventory": 6,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/26",
-        "price": -1.0,
-        "inventory": 5,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/30",
-        "price": -1.0,
-        "inventory": 4,
-        "cost": 3.73
-      },
-      {
-        "date": "2025/12/31",
-        "price": -1.0,
-        "inventory": 3,
-        "cost": 3.73
-      },
-      {
-        "date": "2026/01/06",
-        "price": 1.0,
-        "inventory": 4,
-        "cost": 3.05
-      },
-      {
-        "date": "2026/01/08",
-        "price": 2.0,
-        "inventory": 6,
-        "cost": 2.7
-      },
-      {
-        "date": "2026/01/09",
-        "price": 10.0,
-        "inventory": 16,
-        "cost": 7.26
-      },
-      {
-        "date": "2026/01/12",
-        "price": 2.0,
-        "inventory": 18,
-        "cost": 6.43
-      },
-      {
-        "date": "2026/01/13",
-        "price": 1.0,
-        "inventory": 19,
-        "cost": 6.14
-      },
-      {
-        "date": "2026/01/14",
-        "price": 2.0,
-        "inventory": 21,
-        "cost": 5.58
-      },
-      {
-        "date": "2026/01/15",
-        "price": 1.0,
-        "inventory": 22,
-        "cost": 5.37
-      },
-      {
-        "date": "2026/01/16",
-        "price": -2.0,
-        "inventory": 20,
-        "cost": 5.37
-      }
-    ]
-  },
-  "凱基-虎尾_0051": {
-    "broker": "凱基-虎尾",
-    "stock": "0051",
-    "data": [
-      {
-        "date": "2025/12/18",
-        "price": 1.0,
-        "inventory": 1,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/22",
-        "price": 1.0,
-        "inventory": 2,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/23",
-        "price": 1.0,
-        "inventory": 3,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/26",
-        "price": 1.0,
-        "inventory": 4,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/29",
-        "price": 1.0,
-        "inventory": 5,
-        "cost": 1.0
-      },
-      {
-        "date": "2026/01/02",
-        "price": 1.0,
-        "inventory": 6,
-        "cost": 1.0
-      },
-      {
-        "date": "2026/01/05",
-        "price": 2.0,
-        "inventory": 8,
-        "cost": 1.25
-      },
-      {
-        "date": "2026/01/12",
-        "price": 1.0,
-        "inventory": 9,
-        "cost": 1.22
-      },
-      {
-        "date": "2026/01/13",
-        "price": 1.0,
-        "inventory": 10,
-        "cost": 1.2
-      }
-    ]
-  },
-  "凱基-台北_1203": {
-    "broker": "凱基-台北",
-    "stock": "1203",
-    "data": [
-      {
-        "date": "2025/12/22",
-        "price": 1.0,
-        "inventory": 1,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/26",
-        "price": -1.0,
-        "inventory": 0,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/29",
-        "price": 1.0,
-        "inventory": 1,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/12/30",
-        "price": -1.0,
-        "inventory": 0,
-        "cost": 0
-      },
-      {
-        "date": "2025/12/31",
-        "price": -1.0,
-        "inventory": -1,
-        "cost": 0
-      },
-      {
-        "date": "2026/01/02",
-        "price": 1.0,
-        "inventory": 0,
-        "cost": 0
-      },
-      {
-        "date": "2026/01/05",
-        "price": -2.0,
-        "inventory": -2,
-        "cost": 0
-      },
-      {
-        "date": "2026/01/06",
-        "price": 3.0,
-        "inventory": 1,
-        "cost": 7.5
-      },
-      {
-        "date": "2026/01/07",
-        "price": 1.0,
-        "inventory": 2,
-        "cost": 3.17
-      },
-      {
-        "date": "2026/01/08",
-        "price": -1.0,
-        "inventory": 1,
-        "cost": 3.17
-      },
-      {
-        "date": "2026/01/09",
-        "price": 1.0,
-        "inventory": 2,
-        "cost": 2.08
-      },
-      {
-        "date": "2026/01/12",
-        "price": 1.0,
-        "inventory": 3,
-        "cost": 1.72
-      },
-      {
-        "date": "2026/01/13",
-        "price": -2.0,
-        "inventory": 1,
-        "cost": 1.72
-      },
-      {
-        "date": "2026/01/14",
-        "price": 2.0,
-        "inventory": 3,
-        "cost": 1.91
-      },
-      {
-        "date": "2026/01/15",
-        "price": -1.0,
-        "inventory": 2,
-        "cost": 1.91
-      },
-      {
-        "date": "2026/01/16",
-        "price": -3.0,
-        "inventory": -1,
-        "cost": 0
-      }
-    ]
-  },
-  "凱基-虎尾_1203": {
-    "broker": "凱基-虎尾",
-    "stock": "1203",
-    "data": [
-      {
-        "date": "2025/09/30",
-        "price": 1.0,
-        "inventory": 1,
-        "cost": 1.0
-      },
-      {
-        "date": "2025/10/07",
-        "price": 3.0,
-        "inventory": 4,
-        "cost": 2.5
-      },
-      {
-        "date": "2025/10/13",
-        "price": 1.0,
-        "inventory": 5,
-        "cost": 2.2
-      },
-      {
-        "date": "2025/10/16",
-        "price": 2.0,
-        "inventory": 7,
-        "cost": 2.14
-      },
-      {
-        "date": "2025/10/20",
-        "price": 1.0,
-        "inventory": 8,
-        "cost": 2.0
-      },
-      {
-        "date": "2025/10/27",
-        "price": 4.0,
-        "inventory": 12,
-        "cost": 2.67
-      },
-      {
-        "date": "2025/10/29",
-        "price": 1.0,
-        "inventory": 13,
-        "cost": 2.54
-      },
-      {
-        "date": "2025/10/31",
-        "price": 2.0,
-        "inventory": 15,
-        "cost": 2.47
-      },
-      {
-        "date": "2025/11/11",
-        "price": -1.0,
-        "inventory": 14,
-        "cost": 2.47
-      },
-      {
-        "date": "2025/11/17",
-        "price": -1.0,
-        "inventory": 13,
-        "cost": 2.47
-      },
-      {
-        "date": "2025/11/18",
-        "price": -2.0,
+        "price": 11.0,
         "inventory": 11,
-        "cost": 2.47
-      },
-      {
-        "date": "2025/11/24",
-        "price": 2.0,
-        "inventory": 13,
-        "cost": 2.39
-      },
-      {
-        "date": "2025/11/26",
-        "price": 1.0,
-        "inventory": 14,
-        "cost": 2.3
-      },
-      {
-        "date": "2025/12/02",
-        "price": 1.0,
-        "inventory": 15,
-        "cost": 2.21
-      },
-      {
-        "date": "2025/12/05",
-        "price": 3.0,
-        "inventory": 18,
-        "cost": 2.34
-      },
-      {
-        "date": "2025/12/08",
-        "price": 1.0,
-        "inventory": 19,
-        "cost": 2.27
-      },
-      {
-        "date": "2025/12/10",
-        "price": 2.0,
-        "inventory": 21,
-        "cost": 2.24
-      },
-      {
-        "date": "2025/12/15",
-        "price": 2.0,
-        "inventory": 23,
-        "cost": 2.22
-      },
-      {
-        "date": "2025/12/18",
-        "price": 1.0,
-        "inventory": 24,
-        "cost": 2.17
-      }
-    ]
-  },
-  "凱基-台北_1104": {
-    "broker": "凱基-台北",
-    "stock": "1104",
-    "data": [
-      {
-        "date": "2025/12/18",
-        "price": 17.0,
-        "inventory": 17,
-        "cost": 17.0
+        "cost": 11.0
       },
       {
         "date": "2025/12/19",
-        "price": 23.0,
-        "inventory": 40,
-        "cost": 20.68
+        "price": 17.0,
+        "inventory": 28,
+        "cost": 14.72
       },
       {
         "date": "2025/12/22",
-        "price": 13.0,
-        "inventory": 53,
-        "cost": 18.49
+        "price": -1.0,
+        "inventory": 27,
+        "cost": 13.68
       },
       {
         "date": "2025/12/23",
         "price": -8.0,
-        "inventory": 45,
-        "cost": 17.07
+        "inventory": 19,
+        "cost": 13.68
       },
       {
         "date": "2025/12/24",
-        "price": -19.0,
-        "inventory": 26,
-        "cost": 8.05
+        "price": -1.0,
+        "inventory": 18,
+        "cost": 13.68
       },
       {
         "date": "2025/12/26",
-        "price": -7.0,
-        "inventory": 19,
-        "cost": 4.86
+        "price": -2.0,
+        "inventory": 16,
+        "cost": 13.68
       },
       {
         "date": "2025/12/29",
-        "price": 19.0,
-        "inventory": 38,
-        "cost": 13.93
+        "price": 82.0,
+        "inventory": 98,
+        "cost": 71.28
       },
       {
         "date": "2025/12/30",
-        "price": -86.0,
-        "inventory": -48,
-        "cost": 0
+        "price": -9.0,
+        "inventory": 89,
+        "cost": 68.9
       },
       {
         "date": "2025/12/31",
-        "price": 5.0,
-        "inventory": -43,
-        "cost": 0
+        "price": -25.0,
+        "inventory": 64,
+        "cost": 68.9
       },
       {
         "date": "2026/01/02",
-        "price": -140.0,
-        "inventory": -183,
-        "cost": 0
+        "price": -3.0,
+        "inventory": 61,
+        "cost": 51.13
       },
       {
         "date": "2026/01/05",
-        "price": 33.0,
-        "inventory": -150,
-        "cost": 0
+        "price": -21.0,
+        "inventory": 40,
+        "cost": 49.97
       },
       {
         "date": "2026/01/06",
-        "price": 16.0,
-        "inventory": -134,
-        "cost": 0
+        "price": 6.0,
+        "inventory": 46,
+        "cost": 41.9
       },
       {
         "date": "2026/01/07",
-        "price": -38.0,
-        "inventory": -172,
-        "cost": 0
+        "price": 1.0,
+        "inventory": 47,
+        "cost": 40.19
       },
       {
         "date": "2026/01/08",
-        "price": 130.0,
+        "price": -36.0,
+        "inventory": 11,
+        "cost": 38.6
+      },
+      {
+        "date": "2026/01/09",
+        "price": -16.0,
+        "inventory": -5,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/12",
+        "price": -37.0,
         "inventory": -42,
         "cost": 0
       },
       {
-        "date": "2026/01/09",
-        "price": 139.0,
-        "inventory": 97,
-        "cost": -908.3
-      },
-      {
-        "date": "2026/01/12",
-        "price": 122.0,
-        "inventory": 219,
-        "cost": -289.27
-      },
-      {
         "date": "2026/01/13",
-        "price": 199.0,
-        "inventory": 418,
-        "cost": -47.39
+        "price": -36.0,
+        "inventory": -78,
+        "cost": 0
       },
       {
         "date": "2026/01/14",
-        "price": -2.0,
-        "inventory": 416,
-        "cost": -46.43
+        "price": 138.0,
+        "inventory": 60,
+        "cost": 265.27
       },
       {
         "date": "2026/01/15",
-        "price": 22.0,
-        "inventory": 438,
-        "cost": -40.84
+        "price": 23.0,
+        "inventory": 83,
+        "cost": 192.02
       },
       {
         "date": "2026/01/16",
-        "price": -31.0,
-        "inventory": 407,
-        "cost": -40.66
+        "price": -26.0,
+        "inventory": 57,
+        "cost": 192.02
       }
     ]
   },
-  "凱基-虎尾_1104": {
+  "凱基-虎尾_1110": {
     "broker": "凱基-虎尾",
-    "stock": "1104",
+    "stock": "1110",
     "data": [
       {
+        "date": "2025/10/27",
+        "price": 11.0,
+        "inventory": 11,
+        "cost": 11.0
+      },
+      {
+        "date": "2025/10/29",
+        "price": 2.0,
+        "inventory": 13,
+        "cost": 9.62
+      },
+      {
+        "date": "2025/10/31",
+        "price": 3.0,
+        "inventory": 16,
+        "cost": 8.38
+      },
+      {
         "date": "2025/11/06",
-        "price": 1.0,
-        "inventory": 1,
-        "cost": 1.0
+        "price": 2.0,
+        "inventory": 18,
+        "cost": 7.67
       },
       {
         "date": "2025/11/11",
-        "price": -1.0,
-        "inventory": 0,
-        "cost": 0
+        "price": -2.0,
+        "inventory": 16,
+        "cost": 7.67
       },
       {
         "date": "2025/11/17",
-        "price": -4.0,
-        "inventory": -4,
-        "cost": 0
+        "price": -3.0,
+        "inventory": 13,
+        "cost": 7.67
       },
       {
         "date": "2025/11/18",
-        "price": -8.0,
-        "inventory": -12,
-        "cost": 0
-      },
-      {
-        "date": "2025/11/19",
-        "price": 5.0,
-        "inventory": -7,
-        "cost": 0
+        "price": -5.0,
+        "inventory": 8,
+        "cost": 7.67
       },
       {
         "date": "2025/11/21",
         "price": 3.0,
-        "inventory": -4,
-        "cost": 0
+        "inventory": 11,
+        "cost": 6.39
       },
       {
         "date": "2025/11/24",
-        "price": 5.0,
-        "inventory": 1,
-        "cost": 139.0
+        "price": 3.0,
+        "inventory": 14,
+        "cost": 5.67
       },
       {
         "date": "2025/11/26",
-        "price": 4.0,
-        "inventory": 5,
-        "cost": 31.0
+        "price": 2.0,
+        "inventory": 16,
+        "cost": 5.02
       },
       {
         "date": "2025/11/28",
-        "price": 3.0,
-        "inventory": 8,
-        "cost": 20.5
+        "price": 2.0,
+        "inventory": 18,
+        "cost": 4.68
       },
       {
         "date": "2025/12/02",
         "price": 5.0,
-        "inventory": 13,
-        "cost": 14.54
+        "inventory": 23,
+        "cost": 4.75
       },
       {
         "date": "2025/12/03",
         "price": 2.0,
-        "inventory": 15,
-        "cost": 12.87
+        "inventory": 25,
+        "cost": 4.53
       },
       {
         "date": "2025/12/05",
         "price": 1.0,
-        "inventory": 16,
-        "cost": 12.12
+        "inventory": 26,
+        "cost": 4.4
       },
       {
         "date": "2025/12/08",
-        "price": 3.0,
-        "inventory": 19,
-        "cost": 10.68
+        "price": 2.0,
+        "inventory": 28,
+        "cost": 4.23
       },
       {
         "date": "2025/12/09",
         "price": 1.0,
-        "inventory": 20,
-        "cost": 10.2
+        "inventory": 29,
+        "cost": 4.11
       },
       {
         "date": "2025/12/10",
         "price": 2.0,
-        "inventory": 22,
-        "cost": 9.45
+        "inventory": 31,
+        "cost": 3.98
       },
       {
         "date": "2025/12/15",
         "price": 5.0,
-        "inventory": 27,
-        "cost": 8.63
+        "inventory": 36,
+        "cost": 4.12
       },
       {
         "date": "2025/12/16",
-        "price": 4.0,
-        "inventory": 31,
-        "cost": 8.03
+        "price": 2.0,
+        "inventory": 38,
+        "cost": 4.01
       },
       {
         "date": "2025/12/18",
         "price": 1.0,
-        "inventory": 32,
-        "cost": 7.81
-      },
-      {
-        "date": "2026/01/06",
-        "price": 1.0,
-        "inventory": 33,
-        "cost": 7.61
-      },
-      {
-        "date": "2026/01/08",
-        "price": -300.0,
-        "inventory": -267,
-        "cost": 0
+        "inventory": 39,
+        "cost": 3.93
       }
     ]
   },
-  "凱基-台北_1268": {
+  "凱基-台北_1294": {
     "broker": "凱基-台北",
-    "stock": "1268",
+    "stock": "1294",
     "data": [
       {
-        "date": "2025/12/03",
+        "date": "2025/12/11",
         "price": -1.0,
         "inventory": -1,
         "cost": 0
       },
       {
-        "date": "2025/12/08",
-        "price": 5.0,
-        "inventory": 4,
-        "cost": 6.2
-      },
-      {
-        "date": "2025/12/09",
-        "price": 9.0,
-        "inventory": 13,
-        "cost": 8.14
-      },
-      {
-        "date": "2025/12/11",
-        "price": 14.0,
-        "inventory": 27,
-        "cost": 11.18
-      },
-      {
         "date": "2025/12/12",
-        "price": 2.0,
-        "inventory": 29,
-        "cost": 10.26
+        "price": -8.0,
+        "inventory": -9,
+        "cost": 0
       },
       {
         "date": "2025/12/15",
+        "price": -5.0,
+        "inventory": -14,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/16",
+        "price": -2.0,
+        "inventory": -16,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/17",
         "price": -1.0,
-        "inventory": 28,
-        "cost": 10.26
+        "inventory": -17,
+        "cost": 0
       },
       {
         "date": "2025/12/18",
         "price": -1.0,
-        "inventory": 27,
-        "cost": 10.26
+        "inventory": -18,
+        "cost": 0
       },
       {
         "date": "2025/12/22",
         "price": -2.0,
-        "inventory": 25,
-        "cost": 10.26
+        "inventory": -20,
+        "cost": 0
       },
       {
         "date": "2025/12/23",
-        "price": -2.0,
-        "inventory": 23,
-        "cost": 10.26
+        "price": 1.0,
+        "inventory": -19,
+        "cost": 0
       },
       {
-        "date": "2025/12/24",
-        "price": -1.0,
-        "inventory": 22,
-        "cost": 10.26
+        "date": "2025/12/29",
+        "price": 8.0,
+        "inventory": -11,
+        "cost": 0
       },
       {
         "date": "2025/12/30",
-        "price": -1.0,
-        "inventory": 21,
-        "cost": 10.26
+        "price": 2.0,
+        "inventory": -9,
+        "cost": 0
       },
       {
         "date": "2025/12/31",
-        "price": -1.0,
-        "inventory": 20,
-        "cost": 10.26
+        "price": -2.0,
+        "inventory": -11,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/05",
+        "price": -7.0,
+        "inventory": -18,
+        "cost": 0
       },
       {
         "date": "2026/01/06",
-        "price": -1.0,
-        "inventory": 19,
-        "cost": 10.26
+        "price": -2.0,
+        "inventory": -20,
+        "cost": 0
       },
       {
         "date": "2026/01/08",
-        "price": -1.0,
-        "inventory": 18,
-        "cost": 10.26
+        "price": -5.0,
+        "inventory": -25,
+        "cost": 0
       },
       {
         "date": "2026/01/09",
-        "price": -2.0,
-        "inventory": 16,
-        "cost": 10.26
+        "price": 11.0,
+        "inventory": -14,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/12",
+        "price": 3.0,
+        "inventory": -11,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/13",
+        "price": 2.0,
+        "inventory": -9,
+        "cost": 0
       },
       {
         "date": "2026/01/14",
-        "price": -1.0,
-        "inventory": 15,
-        "cost": 9.6
+        "price": 4.0,
+        "inventory": -5,
+        "cost": 0
       },
       {
         "date": "2026/01/15",
-        "price": 1.0,
-        "inventory": 16,
-        "cost": 8.59
+        "price": 12.0,
+        "inventory": 7,
+        "cost": 69.62
+      },
+      {
+        "date": "2026/01/16",
+        "price": 2.0,
+        "inventory": 9,
+        "cost": 45.03
       }
     ]
   },
-  "美林_1268": {
+  "美林_1294": {
     "broker": "美林",
-    "stock": "1268",
+    "stock": "1294",
     "data": [
       {
-        "date": "2025/10/15",
-        "price": 2.0,
-        "inventory": 2,
-        "cost": 2.0
-      },
-      {
-        "date": "2025/10/22",
+        "date": "2025/09/26",
         "price": -1.0,
-        "inventory": 1,
-        "cost": 2.0
+        "inventory": -1,
+        "cost": 0
       },
       {
-        "date": "2025/10/27",
-        "price": -3.0,
+        "date": "2025/09/30",
+        "price": -1.0,
         "inventory": -2,
         "cost": 0
       },
       {
-        "date": "2025/10/30",
+        "date": "2025/10/09",
         "price": -1.0,
         "inventory": -3,
         "cost": 0
       },
       {
-        "date": "2025/10/31",
-        "price": 3.0,
-        "inventory": 0,
-        "cost": 0
-      },
-      {
-        "date": "2025/11/04",
-        "price": 5.0,
-        "inventory": 5,
-        "cost": 6.2
-      },
-      {
-        "date": "2025/11/06",
-        "price": 3.0,
-        "inventory": 8,
-        "cost": 5.0
-      },
-      {
-        "date": "2025/11/07",
+        "date": "2025/10/14",
         "price": -1.0,
-        "inventory": 7,
-        "cost": 5.0
-      },
-      {
-        "date": "2025/11/10",
-        "price": -2.0,
-        "inventory": 5,
-        "cost": 5.0
-      },
-      {
-        "date": "2025/11/12",
-        "price": 1.0,
-        "inventory": 6,
-        "cost": 4.33
-      },
-      {
-        "date": "2025/11/14",
-        "price": -1.0,
-        "inventory": 5,
-        "cost": 4.33
-      },
-      {
-        "date": "2025/11/17",
-        "price": -9.0,
         "inventory": -4,
         "cost": 0
       },
       {
-        "date": "2025/11/19",
-        "price": -2.0,
-        "inventory": -6,
-        "cost": 0
-      },
-      {
-        "date": "2025/11/24",
-        "price": 1.0,
+        "date": "2025/10/15",
+        "price": -1.0,
         "inventory": -5,
         "cost": 0
       },
       {
-        "date": "2025/11/28",
+        "date": "2025/10/16",
         "price": -1.0,
         "inventory": -6,
         "cost": 0
       },
       {
-        "date": "2025/12/15",
+        "date": "2025/10/20",
         "price": -1.0,
         "inventory": -7,
         "cost": 0
       },
       {
-        "date": "2025/12/16",
+        "date": "2025/10/22",
+        "price": -2.0,
+        "inventory": -9,
+        "cost": 0
+      },
+      {
+        "date": "2025/10/27",
         "price": -1.0,
+        "inventory": -10,
+        "cost": 0
+      },
+      {
+        "date": "2025/10/30",
+        "price": 2.0,
         "inventory": -8,
         "cost": 0
       },
       {
-        "date": "2025/12/22",
+        "date": "2025/11/04",
+        "price": -1.0,
+        "inventory": -9,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/12",
+        "price": -1.0,
+        "inventory": -10,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/18",
+        "price": 2.0,
+        "inventory": -8,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/20",
+        "price": -1.0,
+        "inventory": -9,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/21",
+        "price": -1.0,
+        "inventory": -10,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/24",
+        "price": -2.0,
+        "inventory": -12,
+        "cost": 0
+      },
+      {
+        "date": "2025/11/26",
+        "price": -2.0,
+        "inventory": -14,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/01",
+        "price": -1.0,
+        "inventory": -15,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/16",
         "price": 1.0,
-        "inventory": -7,
+        "inventory": -14,
+        "cost": 0
+      }
+    ]
+  },
+  "凱基-台北_1295": {
+    "broker": "凱基-台北",
+    "stock": "1295",
+    "data": [
+      {
+        "date": "2025/12/18",
+        "price": -2.0,
+        "inventory": -2,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/19",
+        "price": 11.0,
+        "inventory": 9,
+        "cost": 12.53
+      },
+      {
+        "date": "2025/12/22",
+        "price": 9.0,
+        "inventory": 18,
+        "cost": 10.44
+      },
+      {
+        "date": "2025/12/23",
+        "price": -23.0,
+        "inventory": -5,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/24",
+        "price": -10.0,
+        "inventory": -15,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/26",
+        "price": 5.0,
+        "inventory": -10,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/29",
+        "price": 6.0,
+        "inventory": -4,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/30",
+        "price": -19.0,
+        "inventory": -23,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/31",
+        "price": 11.0,
+        "inventory": -12,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/02",
+        "price": 15.0,
+        "inventory": 3,
+        "cost": 243.93
+      },
+      {
+        "date": "2026/01/05",
+        "price": -30.0,
+        "inventory": -27,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/06",
+        "price": 19.0,
+        "inventory": -8,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/07",
+        "price": 2.0,
+        "inventory": -6,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/08",
+        "price": 8.0,
+        "inventory": 2,
+        "cost": -73.88
+      },
+      {
+        "date": "2026/01/09",
+        "price": 7.0,
+        "inventory": 9,
+        "cost": -1.09
+      },
+      {
+        "date": "2026/01/13",
+        "price": -13.0,
+        "inventory": -4,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/14",
+        "price": 8.0,
+        "inventory": 4,
+        "cost": 21.85
+      },
+      {
+        "date": "2026/01/15",
+        "price": -6.0,
+        "inventory": -2,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/16",
+        "price": 8.0,
+        "inventory": 6,
+        "cost": 4.04
+      }
+    ]
+  },
+  "凱基-虎尾_1295": {
+    "broker": "凱基-虎尾",
+    "stock": "1295",
+    "data": [
+      {
+        "date": "2025/08/19",
+        "price": 8.0,
+        "inventory": 8,
+        "cost": 8.0
+      },
+      {
+        "date": "2025/08/21",
+        "price": -3.0,
+        "inventory": 5,
+        "cost": 8.0
+      },
+      {
+        "date": "2025/08/25",
+        "price": 2.0,
+        "inventory": 7,
+        "cost": 6.29
+      },
+      {
+        "date": "2025/08/27",
+        "price": 4.0,
+        "inventory": 11,
+        "cost": 5.45
+      },
+      {
+        "date": "2025/08/28",
+        "price": 6.0,
+        "inventory": 17,
+        "cost": 5.65
+      },
+      {
+        "date": "2025/08/29",
+        "price": 15.0,
+        "inventory": 32,
+        "cost": 10.32
+      },
+      {
+        "date": "2025/09/01",
+        "price": 1.0,
+        "inventory": 33,
+        "cost": 10.04
+      },
+      {
+        "date": "2025/09/02",
+        "price": 25.0,
+        "inventory": 58,
+        "cost": 16.49
+      },
+      {
+        "date": "2025/09/04",
+        "price": -7.0,
+        "inventory": 51,
+        "cost": 16.49
+      },
+      {
+        "date": "2025/09/11",
+        "price": -6.0,
+        "inventory": 45,
+        "cost": 16.49
+      },
+      {
+        "date": "2025/09/17",
+        "price": 2.0,
+        "inventory": 47,
+        "cost": 15.87
+      },
+      {
+        "date": "2025/09/23",
+        "price": -22.0,
+        "inventory": 25,
+        "cost": 11.58
+      },
+      {
+        "date": "2025/09/24",
+        "price": -1.0,
+        "inventory": 24,
+        "cost": 11.58
+      },
+      {
+        "date": "2025/09/26",
+        "price": -2.0,
+        "inventory": 22,
+        "cost": 11.58
+      },
+      {
+        "date": "2025/10/14",
+        "price": -8.0,
+        "inventory": 14,
+        "cost": 11.58
+      },
+      {
+        "date": "2025/10/20",
+        "price": -12.0,
+        "inventory": 2,
+        "cost": 11.58
+      },
+      {
+        "date": "2025/10/22",
+        "price": -5.0,
+        "inventory": -3,
+        "cost": 0
+      },
+      {
+        "date": "2025/10/23",
+        "price": 4.0,
+        "inventory": 1,
+        "cost": -2.17
+      },
+      {
+        "date": "2025/11/18",
+        "price": -6.0,
+        "inventory": -5,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/16",
+        "price": -3.0,
+        "inventory": -8,
+        "cost": 0
+      }
+    ]
+  },
+  "凱基-台北_1303": {
+    "broker": "凱基-台北",
+    "stock": "1303",
+    "data": [
+      {
+        "date": "2025/12/18",
+        "price": -354.0,
+        "inventory": -354,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/19",
+        "price": -608.0,
+        "inventory": -963,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/22",
+        "price": -1771.0,
+        "inventory": -2734,
         "cost": 0
       },
       {
         "date": "2025/12/23",
-        "price": 1.0,
-        "inventory": -6,
+        "price": 812.0,
+        "inventory": -1922,
         "cost": 0
+      },
+      {
+        "date": "2025/12/24",
+        "price": -1463.0,
+        "inventory": -3385,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/26",
+        "price": 665.0,
+        "inventory": -2720,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/29",
+        "price": 2785.0,
+        "inventory": 64,
+        "cost": -96619.33
+      },
+      {
+        "date": "2025/12/30",
+        "price": 1650.0,
+        "inventory": 1714,
+        "cost": -1221.8
+      },
+      {
+        "date": "2025/12/31",
+        "price": 987.0,
+        "inventory": 2701,
+        "cost": 592.19
+      },
+      {
+        "date": "2026/01/02",
+        "price": -7203.0,
+        "inventory": -4503,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/05",
+        "price": 1744.0,
+        "inventory": -2759,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/06",
+        "price": -652.0,
+        "inventory": -3411,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/07",
+        "price": 7317.0,
+        "inventory": 3906,
+        "cost": 6851.91
+      },
+      {
+        "date": "2026/01/08",
+        "price": -5991.0,
+        "inventory": -2085,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/09",
+        "price": -611.0,
+        "inventory": -2695,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/12",
+        "price": 487.0,
+        "inventory": -2208,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/13",
+        "price": 1469.0,
+        "inventory": -738,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/14",
+        "price": -2000.0,
+        "inventory": -2738,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/15",
+        "price": 94.0,
+        "inventory": -2644,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/16",
+        "price": 5447.0,
+        "inventory": 2804,
+        "cost": 5997.54
+      }
+    ]
+  },
+  "凱基-虎尾_1303": {
+    "broker": "凱基-虎尾",
+    "stock": "1303",
+    "data": [
+      {
+        "date": "2025/12/18",
+        "price": 45.0,
+        "inventory": 45,
+        "cost": 45.0
+      },
+      {
+        "date": "2025/12/19",
+        "price": 202.0,
+        "inventory": 247,
+        "cost": 195.01
+      },
+      {
+        "date": "2025/12/22",
+        "price": 15.0,
+        "inventory": 262,
+        "cost": 184.71
+      },
+      {
+        "date": "2025/12/23",
+        "price": 11.0,
+        "inventory": 273,
+        "cost": 158.76
+      },
+      {
+        "date": "2025/12/24",
+        "price": -864.0,
+        "inventory": -591,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/26",
+        "price": -508.0,
+        "inventory": -1099,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/29",
+        "price": 154.0,
+        "inventory": -945,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/30",
+        "price": 7.0,
+        "inventory": -938,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/31",
+        "price": -166.0,
+        "inventory": -1104,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/02",
+        "price": -220.0,
+        "inventory": -1324,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/05",
+        "price": -153.0,
+        "inventory": -1477,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/06",
+        "price": 371.0,
+        "inventory": -1106,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/07",
+        "price": 729.0,
+        "inventory": -377,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/08",
+        "price": -176.0,
+        "inventory": -553,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/09",
+        "price": -806.0,
+        "inventory": -1359,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/12",
+        "price": 301.0,
+        "inventory": -1058,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/13",
+        "price": -193.0,
+        "inventory": -1251,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/14",
+        "price": 62.0,
+        "inventory": -1189,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/15",
+        "price": 403.0,
+        "inventory": -786,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/16",
+        "price": 231.0,
+        "inventory": -555,
+        "cost": 0
+      }
+    ]
+  },
+  "凱基-台北_1305": {
+    "broker": "凱基-台北",
+    "stock": "1305",
+    "data": [
+      {
+        "date": "2025/12/18",
+        "price": 26.0,
+        "inventory": 26,
+        "cost": 26.0
+      },
+      {
+        "date": "2025/12/19",
+        "price": 96.0,
+        "inventory": 122,
+        "cost": 83.18
+      },
+      {
+        "date": "2025/12/22",
+        "price": 82.0,
+        "inventory": 204,
+        "cost": 82.63
+      },
+      {
+        "date": "2025/12/23",
+        "price": 251.0,
+        "inventory": 455,
+        "cost": 175.51
+      },
+      {
+        "date": "2025/12/24",
+        "price": -85.0,
+        "inventory": 370,
+        "cost": 175.51
+      },
+      {
+        "date": "2025/12/26",
+        "price": -387.0,
+        "inventory": -17,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/29",
+        "price": 37.0,
+        "inventory": 20,
+        "cost": -0.56
+      },
+      {
+        "date": "2025/12/30",
+        "price": -80.0,
+        "inventory": -60,
+        "cost": 0
+      },
+      {
+        "date": "2025/12/31",
+        "price": -90.0,
+        "inventory": -150,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/02",
+        "price": -318.0,
+        "inventory": -468,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/05",
+        "price": -8.0,
+        "inventory": -476,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/06",
+        "price": 148.0,
+        "inventory": -328,
+        "cost": 0
+      },
+      {
+        "date": "2026/01/07",
+        "price": 739.0,
+        "inventory": 411,
+        "cost": 1508.98
+      },
+      {
+        "date": "2026/01/08",
+        "price": 11.0,
+        "inventory": 422,
+        "cost": 801.33
+      },
+      {
+        "date": "2026/01/09",
+        "price": -219.0,
+        "inventory": 203,
+        "cost": 750.78
+      },
+      {
+        "date": "2026/01/12",
+        "price": 236.0,
+        "inventory": 439,
+        "cost": 400.05
+      },
+      {
+        "date": "2026/01/13",
+        "price": 14.0,
+        "inventory": 453,
+        "cost": 243.95
+      },
+      {
+        "date": "2026/01/14",
+        "price": 18.0,
+        "inventory": 471,
+        "cost": 219.09
+      },
+      {
+        "date": "2026/01/15",
+        "price": 111.0,
+        "inventory": 582,
+        "cost": 181.61
+      },
+      {
+        "date": "2026/01/16",
+        "price": -746.0,
+        "inventory": -164,
+        "cost": 0
+      }
+    ]
+  },
+  "凱基-虎尾_1305": {
+    "broker": "凱基-虎尾",
+    "stock": "1305",
+    "data": [
+      {
+        "date": "2025/10/27",
+        "price": 10.0,
+        "inventory": 10,
+        "cost": 10.0
+      },
+      {
+        "date": "2025/10/28",
+        "price": 1.0,
+        "inventory": 11,
+        "cost": 9.18
+      },
+      {
+        "date": "2025/10/29",
+        "price": 3.0,
+        "inventory": 14,
+        "cost": 7.86
+      },
+      {
+        "date": "2025/10/31",
+        "price": 2.0,
+        "inventory": 16,
+        "cost": 7.12
+      },
+      {
+        "date": "2025/11/06",
+        "price": 4.0,
+        "inventory": 20,
+        "cost": 6.5
+      },
+      {
+        "date": "2025/11/11",
+        "price": -3.0,
+        "inventory": 17,
+        "cost": 6.5
+      },
+      {
+        "date": "2025/11/17",
+        "price": -4.0,
+        "inventory": 13,
+        "cost": 6.5
+      },
+      {
+        "date": "2025/11/18",
+        "price": -6.0,
+        "inventory": 7,
+        "cost": 6.5
+      },
+      {
+        "date": "2025/11/21",
+        "price": 2.0,
+        "inventory": 9,
+        "cost": 4.86
+      },
+      {
+        "date": "2025/11/24",
+        "price": 4.0,
+        "inventory": 13,
+        "cost": 4.56
+      },
+      {
+        "date": "2025/11/26",
+        "price": 3.0,
+        "inventory": 16,
+        "cost": 4.26
+      },
+      {
+        "date": "2025/11/28",
+        "price": 2.0,
+        "inventory": 18,
+        "cost": 4.01
+      },
+      {
+        "date": "2025/12/02",
+        "price": 5.0,
+        "inventory": 23,
+        "cost": 4.23
+      },
+      {
+        "date": "2025/12/03",
+        "price": 2.0,
+        "inventory": 25,
+        "cost": 4.05
+      },
+      {
+        "date": "2025/12/08",
+        "price": 2.0,
+        "inventory": 27,
+        "cost": 3.9
+      },
+      {
+        "date": "2025/12/09",
+        "price": 1.0,
+        "inventory": 28,
+        "cost": 3.79
+      },
+      {
+        "date": "2025/12/10",
+        "price": 3.0,
+        "inventory": 31,
+        "cost": 3.72
+      },
+      {
+        "date": "2025/12/15",
+        "price": 4.0,
+        "inventory": 35,
+        "cost": 3.75
+      },
+      {
+        "date": "2025/12/16",
+        "price": 3.0,
+        "inventory": 38,
+        "cost": 3.69
+      },
+      {
+        "date": "2025/12/18",
+        "price": 1.0,
+        "inventory": 39,
+        "cost": 3.62
       }
     ]
   }

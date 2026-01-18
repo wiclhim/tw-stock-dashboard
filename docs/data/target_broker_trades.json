@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-17T08:47:56.601071",
+  "updated": "2026-01-18T08:46:59.735717",
   "brokers": {
     "凱基-台北": [
       {
@@ -344,6 +344,18 @@
       },
       {
         "date": "1/16",
+        "stock_code": "1307",
+        "broker_name": "台灣摩根士丹利",
+        "broker_id": "1470",
+        "buy_vol": 39,
+        "sell_vol": 9,
+        "net_vol": 30,
+        "pct": 5.37,
+        "rank": 3,
+        "side": "buy"
+      },
+      {
+        "date": "1/16",
         "stock_code": "1218",
         "broker_name": "台灣摩根士丹利",
         "broker_id": "1470",
@@ -352,18 +364,6 @@
         "net_vol": -29,
         "pct": 6.28,
         "rank": 3,
-        "side": "sell"
-      },
-      {
-        "date": "1/16",
-        "stock_code": "1217",
-        "broker_name": "台灣摩根士丹利",
-        "broker_id": "1470",
-        "buy_vol": 0,
-        "sell_vol": 23,
-        "net_vol": -23,
-        "pct": 4.11,
-        "rank": 6,
         "side": "sell"
       }
     ],
@@ -748,6 +748,18 @@
       },
       {
         "date": "1/16",
+        "stock_code": "1307",
+        "broker_name": "港商野村",
+        "broker_id": "1560",
+        "buy_vol": 11,
+        "sell_vol": 0,
+        "net_vol": 11,
+        "pct": 1.97,
+        "rank": 7,
+        "side": "buy"
+      },
+      {
+        "date": "1/16",
         "stock_code": "1103",
         "broker_name": "港商野村",
         "broker_id": "1560",
@@ -780,18 +792,6 @@
         "net_vol": 1,
         "pct": 1.39,
         "rank": 13,
-        "side": "buy"
-      },
-      {
-        "date": "1/16",
-        "stock_code": "1256",
-        "broker_name": "港商野村",
-        "broker_id": "1560",
-        "buy_vol": 1,
-        "sell_vol": 0,
-        "net_vol": 1,
-        "pct": 1.72,
-        "rank": 10,
         "side": "buy"
       }
     ],
@@ -968,6 +968,18 @@
       },
       {
         "date": "1/16",
+        "stock_code": "1234",
+        "broker_name": "富邦-台北",
+        "broker_id": "9623",
+        "buy_vol": 2,
+        "sell_vol": 0,
+        "net_vol": 2,
+        "pct": 1.57,
+        "rank": 15,
+        "side": "buy"
+      },
+      {
+        "date": "1/16",
         "stock_code": "1203",
         "broker_name": "富邦-台北",
         "broker_id": "9623",
@@ -1005,6 +1017,18 @@
         "pct": 1.03,
         "rank": 13,
         "side": "buy"
+      },
+      {
+        "date": "1/16",
+        "stock_code": "1307",
+        "broker_name": "群益金鼎-高盛",
+        "broker_id": "9105",
+        "buy_vol": 0,
+        "sell_vol": 20,
+        "net_vol": -20,
+        "pct": 3.58,
+        "rank": 6,
+        "side": "sell"
       }
     ]
   }
